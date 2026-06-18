@@ -1,4 +1,4 @@
-/* Estilo general */
+/* General */
 body {
   font-family: 'Segoe UI', Roboto, sans-serif;
   background: #f4f6f9;
@@ -16,7 +16,7 @@ header {
   font-weight: bold;
 }
 
-/* Pestañas */
+/* Tabs */
 .tabs {
   display: flex;
   justify-content: center;
@@ -43,7 +43,7 @@ header {
   color: #fff;
 }
 
-/* Contenedor de partidos */
+/* Matches grid */
 #matches {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -51,7 +51,7 @@ header {
   padding: 1rem;
 }
 
-/* Tarjetas */
+/* Cards */
 .card {
   background: #fff;
   border-radius: 12px;
@@ -71,25 +71,17 @@ header {
   font-size: 1.2rem;
 }
 
-/* Estado del partido */
+/* Status */
 .status {
   font-weight: bold;
   margin: 0.5rem 0;
 }
 
-.status.inplay {
-  color: #28a745; /* verde */
-}
+.status.inplay { color: #28a745; }
+.status.scheduled { color: #007bff; }
+.status.finished { color: #dc3545; }
 
-.status.scheduled {
-  color: #007bff; /* azul */
-}
-
-.status.finished {
-  color: #dc3545; /* rojo */
-}
-
-/* Bloques de predicción y mercados */
+/* Prediction */
 .prediction {
   background: #e9f7ef;
   border-left: 4px solid #28a745;
@@ -98,12 +90,23 @@ header {
   font-size: 0.95rem;
 }
 
+/* Markets */
 .markets {
   background: #f8f9fa;
   border-left: 4px solid #2a5298;
   padding: 0.5rem;
   margin-top: 0.5rem;
   font-size: 0.9rem;
+}
+
+/* Cash Out */
+.cashout {
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #856404;
 }
 
 /* Footer */
