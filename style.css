@@ -1,3 +1,4 @@
+/* Estilo general */
 body {
   font-family: 'Segoe UI', Roboto, sans-serif;
   background: #0b132b;
@@ -6,6 +7,7 @@ body {
   padding: 0;
 }
 
+/* Encabezado */
 header {
   background: #1c2541;
   text-align: center;
@@ -14,36 +16,41 @@ header {
   letter-spacing: 1px;
 }
 
+/* Tarjeta de partido */
 .match {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
   background: #3a506b;
-  margin: 8px auto;
-  padding: 10px 20px;
+  margin: 12px auto;
+  padding: 15px 20px;
   border-radius: 8px;
   width: 90%;
   max-width: 800px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.3);
 }
 
-.date {
-  color: #a0aec0;
-  font-size: 0.9em;
-  width: 30%;
-}
-
+/* Equipos */
 .teams {
   font-weight: bold;
   text-align: center;
-  width: 40%;
+  font-size: 1.2em;
+  margin-bottom: 8px;
 }
 
+/* Fecha */
+.date {
+  color: #a0aec0;
+  font-size: 0.9em;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+/* Estado del partido */
 .status {
   text-transform: uppercase;
   font-size: 0.9em;
-  width: 20%;
-  text-align: right;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .status.finished {
@@ -58,6 +65,23 @@ header {
   color: #ff6b6b;
 }
 
+/* Historial H2H */
+.h2h {
+  font-size: 0.85em;
+  margin-top: 5px;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+/* Estadísticas */
+.stats {
+  font-size: 0.85em;
+  margin-top: 5px;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+/* Pie de página */
 footer {
   text-align: center;
   padding: 15px;
