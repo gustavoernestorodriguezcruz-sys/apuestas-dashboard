@@ -58,27 +58,6 @@
           ]
         },
         {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.03
-                },
-                {
-                  "name": "Qatar",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Unibet (SE)",
           "markets": []
         },
@@ -112,46 +91,8 @@
           "markets": []
         },
         {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.05
-                },
-                {
-                  "name": "Qatar",
-                  "price": 22.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.04
-                },
-                {
-                  "name": "Qatar",
-                  "price": 39.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.25
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Coolbet",
@@ -179,27 +120,6 @@
           ]
         },
         {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.2
-                },
-                {
-                  "name": "Qatar",
-                  "price": 13.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.19
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Betclic (FR)",
           "markets": [
             {
@@ -210,32 +130,11 @@
                 },
                 {
                   "name": "Qatar",
-                  "price": 90.0
+                  "price": 100.0
                 },
                 {
                   "name": "Draw",
-                  "price": 40.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.05
-                },
-                {
-                  "name": "Qatar",
-                  "price": 51.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 13.0
+                  "price": 50.0
                 }
               ]
             }
@@ -256,11 +155,11 @@
                 },
                 {
                   "name": "Qatar",
-                  "price": 126.0
+                  "price": 201.0
                 },
                 {
                   "name": "Draw",
-                  "price": 41.0
+                  "price": 56.0
                 }
               ]
             }
@@ -277,11 +176,11 @@
                 },
                 {
                   "name": "Qatar",
-                  "price": 126.0
+                  "price": 201.0
                 },
                 {
                   "name": "Draw",
-                  "price": 41.0
+                  "price": 56.0
                 }
               ]
             }
@@ -289,41 +188,41 @@
         }
       ],
       "home_win": 1.0,
-      "away_win": 126.0,
-      "draw": 41.0,
+      "away_win": 201.0,
+      "draw": 56.0,
       "over_under": [
         {
           "name": "Over",
           "line": 4.5,
-          "price": 1.77
+          "price": 1.71
         },
         {
           "name": "Under",
           "line": 4.5,
-          "price": 2.0
+          "price": 2.08
         }
       ],
       "handicap": [
         {
           "name": "Canada",
-          "line": -2.5,
-          "price": 1.95
+          "line": -4.5,
+          "price": 2.1
         },
         {
           "name": "Qatar",
-          "line": 2.5,
-          "price": 1.8
+          "line": 4.5,
+          "price": 1.65
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.97,
+      "prob_home": 0.98,
       "prob_draw": 0.02,
-      "prob_away": 0.01,
-      "ev_home": 0.97,
-      "ev_draw": 0.82,
-      "ev_away": 1.26,
-      "recommendation": "away"
+      "prob_away": 0.0,
+      "ev_home": 0.98,
+      "ev_draw": 1.12,
+      "ev_away": 0.0,
+      "recommendation": "draw"
     }
   }
 ]
