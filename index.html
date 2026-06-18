@@ -2,12 +2,12 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Mundial 2026 - Partidos</title>
+  <title>Mundial 2026 - Dashboard</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>⚽ Partidos Mundial 2026</h1>
+    <h1>⚽ Dashboard Mundial 2026</h1>
   </header>
 
   <main id="matches"></main>
@@ -25,9 +25,19 @@
           const div = document.createElement('div');
           div.className = 'match';
           div.innerHTML = `
-            <span class="date">${match.fecha}</span>
-            <span class="teams">${match.home} vs ${match.away}</span>
-            <span class="status ${match.estado.toLowerCase()}">${match.estado}</span>
+            <div class="teams">${match.home} vs ${match.away}</div>
+            <div class="date">📅 ${match.fecha}</div>
+            <div class="status ${match.estado.toLowerCase()}">Estado: ${match.estado}</div>
+            <div class="h2h">
+              <strong>Historial:</strong> 
+              ${match.home} ${match.h2h.home_wins} - ${match.away} ${match.h2h.away_wins} 
+              (${match.h2h.draws} empates, total ${match.h2h.total_matches})
+            </div>
+            <div class="stats">
+              <strong>Goles acumulados:</strong> 
+              ${match.home}: ${match.stats.home_goals} | 
+              ${match.away}: ${match.stats.away_goals}
+            </div>
           `;
           container.appendChild(div);
         });
