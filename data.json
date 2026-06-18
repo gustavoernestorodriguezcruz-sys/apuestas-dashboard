@@ -1,3 +1,834 @@
 [
-  
+  {
+    "id": 537327,
+    "competicion": "FIFA World Cup",
+    "home": "Mexico",
+    "away": "South Africa",
+    "fecha": "2026-06-11T19:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537328,
+    "competicion": "FIFA World Cup",
+    "home": "South Korea",
+    "away": "Czechia",
+    "fecha": "2026-06-12T02:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537333,
+    "competicion": "FIFA World Cup",
+    "home": "Canada",
+    "away": "Bosnia-Herzegovina",
+    "fecha": "2026-06-12T19:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537345,
+    "competicion": "FIFA World Cup",
+    "home": "United States",
+    "away": "Paraguay",
+    "fecha": "2026-06-13T01:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537334,
+    "competicion": "FIFA World Cup",
+    "home": "Qatar",
+    "away": "Switzerland",
+    "fecha": "2026-06-13T19:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537339,
+    "competicion": "FIFA World Cup",
+    "home": "Brazil",
+    "away": "Morocco",
+    "fecha": "2026-06-13T22:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537340,
+    "competicion": "FIFA World Cup",
+    "home": "Haiti",
+    "away": "Scotland",
+    "fecha": "2026-06-14T01:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537346,
+    "competicion": "FIFA World Cup",
+    "home": "Australia",
+    "away": "Turkey",
+    "fecha": "2026-06-14T04:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537351,
+    "competicion": "FIFA World Cup",
+    "home": "Germany",
+    "away": "Curaçao",
+    "fecha": "2026-06-14T17:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537357,
+    "competicion": "FIFA World Cup",
+    "home": "Netherlands",
+    "away": "Japan",
+    "fecha": "2026-06-14T20:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537352,
+    "competicion": "FIFA World Cup",
+    "home": "Ivory Coast",
+    "away": "Ecuador",
+    "fecha": "2026-06-14T23:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537358,
+    "competicion": "FIFA World Cup",
+    "home": "Sweden",
+    "away": "Tunisia",
+    "fecha": "2026-06-15T02:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537369,
+    "competicion": "FIFA World Cup",
+    "home": "Spain",
+    "away": "Cape Verde Islands",
+    "fecha": "2026-06-15T16:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537363,
+    "competicion": "FIFA World Cup",
+    "home": "Belgium",
+    "away": "Egypt",
+    "fecha": "2026-06-15T19:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537370,
+    "competicion": "FIFA World Cup",
+    "home": "Saudi Arabia",
+    "away": "Uruguay",
+    "fecha": "2026-06-15T22:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537364,
+    "competicion": "FIFA World Cup",
+    "home": "Iran",
+    "away": "New Zealand",
+    "fecha": "2026-06-16T01:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537391,
+    "competicion": "FIFA World Cup",
+    "home": "France",
+    "away": "Senegal",
+    "fecha": "2026-06-16T19:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537392,
+    "competicion": "FIFA World Cup",
+    "home": "Iraq",
+    "away": "Norway",
+    "fecha": "2026-06-16T22:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537397,
+    "competicion": "FIFA World Cup",
+    "home": "Argentina",
+    "away": "Algeria",
+    "fecha": "2026-06-17T01:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537398,
+    "competicion": "FIFA World Cup",
+    "home": "Austria",
+    "away": "Jordan",
+    "fecha": "2026-06-17T04:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537403,
+    "competicion": "FIFA World Cup",
+    "home": "Portugal",
+    "away": "Congo DR",
+    "fecha": "2026-06-17T17:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537409,
+    "competicion": "FIFA World Cup",
+    "home": "England",
+    "away": "Croatia",
+    "fecha": "2026-06-17T20:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537410,
+    "competicion": "FIFA World Cup",
+    "home": "Ghana",
+    "away": "Panama",
+    "fecha": "2026-06-17T23:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537404,
+    "competicion": "FIFA World Cup",
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "fecha": "2026-06-18T02:00:00Z",
+    "estado": "FINISHED"
+  },
+  {
+    "id": 537329,
+    "competicion": "FIFA World Cup",
+    "home": "Czechia",
+    "away": "South Africa",
+    "fecha": "2026-06-18T16:00:00Z",
+    "estado": "IN_PLAY"
+  },
+  {
+    "id": 537335,
+    "competicion": "FIFA World Cup",
+    "home": "Switzerland",
+    "away": "Bosnia-Herzegovina",
+    "fecha": "2026-06-18T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537336,
+    "competicion": "FIFA World Cup",
+    "home": "Canada",
+    "away": "Qatar",
+    "fecha": "2026-06-18T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537330,
+    "competicion": "FIFA World Cup",
+    "home": "Mexico",
+    "away": "South Korea",
+    "fecha": "2026-06-19T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537348,
+    "competicion": "FIFA World Cup",
+    "home": "United States",
+    "away": "Australia",
+    "fecha": "2026-06-19T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537342,
+    "competicion": "FIFA World Cup",
+    "home": "Scotland",
+    "away": "Morocco",
+    "fecha": "2026-06-19T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537341,
+    "competicion": "FIFA World Cup",
+    "home": "Brazil",
+    "away": "Haiti",
+    "fecha": "2026-06-20T00:30:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537347,
+    "competicion": "FIFA World Cup",
+    "home": "Turkey",
+    "away": "Paraguay",
+    "fecha": "2026-06-20T03:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537359,
+    "competicion": "FIFA World Cup",
+    "home": "Netherlands",
+    "away": "Sweden",
+    "fecha": "2026-06-20T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537353,
+    "competicion": "FIFA World Cup",
+    "home": "Germany",
+    "away": "Ivory Coast",
+    "fecha": "2026-06-20T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537354,
+    "competicion": "FIFA World Cup",
+    "home": "Ecuador",
+    "away": "Curaçao",
+    "fecha": "2026-06-21T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537360,
+    "competicion": "FIFA World Cup",
+    "home": "Tunisia",
+    "away": "Japan",
+    "fecha": "2026-06-21T04:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537371,
+    "competicion": "FIFA World Cup",
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "fecha": "2026-06-21T16:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537365,
+    "competicion": "FIFA World Cup",
+    "home": "Belgium",
+    "away": "Iran",
+    "fecha": "2026-06-21T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537372,
+    "competicion": "FIFA World Cup",
+    "home": "Uruguay",
+    "away": "Cape Verde Islands",
+    "fecha": "2026-06-21T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537366,
+    "competicion": "FIFA World Cup",
+    "home": "New Zealand",
+    "away": "Egypt",
+    "fecha": "2026-06-22T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537399,
+    "competicion": "FIFA World Cup",
+    "home": "Argentina",
+    "away": "Austria",
+    "fecha": "2026-06-22T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537393,
+    "competicion": "FIFA World Cup",
+    "home": "France",
+    "away": "Iraq",
+    "fecha": "2026-06-22T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537394,
+    "competicion": "FIFA World Cup",
+    "home": "Norway",
+    "away": "Senegal",
+    "fecha": "2026-06-23T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537400,
+    "competicion": "FIFA World Cup",
+    "home": "Jordan",
+    "away": "Algeria",
+    "fecha": "2026-06-23T03:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537405,
+    "competicion": "FIFA World Cup",
+    "home": "Portugal",
+    "away": "Uzbekistan",
+    "fecha": "2026-06-23T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537411,
+    "competicion": "FIFA World Cup",
+    "home": "England",
+    "away": "Ghana",
+    "fecha": "2026-06-23T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537412,
+    "competicion": "FIFA World Cup",
+    "home": "Panama",
+    "away": "Croatia",
+    "fecha": "2026-06-23T23:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537406,
+    "competicion": "FIFA World Cup",
+    "home": "Colombia",
+    "away": "Congo DR",
+    "fecha": "2026-06-24T02:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537337,
+    "competicion": "FIFA World Cup",
+    "home": "Switzerland",
+    "away": "Canada",
+    "fecha": "2026-06-24T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537338,
+    "competicion": "FIFA World Cup",
+    "home": "Bosnia-Herzegovina",
+    "away": "Qatar",
+    "fecha": "2026-06-24T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537344,
+    "competicion": "FIFA World Cup",
+    "home": "Morocco",
+    "away": "Haiti",
+    "fecha": "2026-06-24T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537343,
+    "competicion": "FIFA World Cup",
+    "home": "Scotland",
+    "away": "Brazil",
+    "fecha": "2026-06-24T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537331,
+    "competicion": "FIFA World Cup",
+    "home": "Czechia",
+    "away": "Mexico",
+    "fecha": "2026-06-25T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537332,
+    "competicion": "FIFA World Cup",
+    "home": "South Africa",
+    "away": "South Korea",
+    "fecha": "2026-06-25T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537355,
+    "competicion": "FIFA World Cup",
+    "home": "Ecuador",
+    "away": "Germany",
+    "fecha": "2026-06-25T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537356,
+    "competicion": "FIFA World Cup",
+    "home": "Curaçao",
+    "away": "Ivory Coast",
+    "fecha": "2026-06-25T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537361,
+    "competicion": "FIFA World Cup",
+    "home": "Tunisia",
+    "away": "Netherlands",
+    "fecha": "2026-06-25T23:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537362,
+    "competicion": "FIFA World Cup",
+    "home": "Japan",
+    "away": "Sweden",
+    "fecha": "2026-06-25T23:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537349,
+    "competicion": "FIFA World Cup",
+    "home": "Turkey",
+    "away": "United States",
+    "fecha": "2026-06-26T02:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537350,
+    "competicion": "FIFA World Cup",
+    "home": "Paraguay",
+    "away": "Australia",
+    "fecha": "2026-06-26T02:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537395,
+    "competicion": "FIFA World Cup",
+    "home": "Norway",
+    "away": "France",
+    "fecha": "2026-06-26T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537396,
+    "competicion": "FIFA World Cup",
+    "home": "Senegal",
+    "away": "Iraq",
+    "fecha": "2026-06-26T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537373,
+    "competicion": "FIFA World Cup",
+    "home": "Uruguay",
+    "away": "Spain",
+    "fecha": "2026-06-27T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537374,
+    "competicion": "FIFA World Cup",
+    "home": "Cape Verde Islands",
+    "away": "Saudi Arabia",
+    "fecha": "2026-06-27T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537367,
+    "competicion": "FIFA World Cup",
+    "home": "New Zealand",
+    "away": "Belgium",
+    "fecha": "2026-06-27T03:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537368,
+    "competicion": "FIFA World Cup",
+    "home": "Egypt",
+    "away": "Iran",
+    "fecha": "2026-06-27T03:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537413,
+    "competicion": "FIFA World Cup",
+    "home": "Panama",
+    "away": "England",
+    "fecha": "2026-06-27T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537414,
+    "competicion": "FIFA World Cup",
+    "home": "Croatia",
+    "away": "Ghana",
+    "fecha": "2026-06-27T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537407,
+    "competicion": "FIFA World Cup",
+    "home": "Colombia",
+    "away": "Portugal",
+    "fecha": "2026-06-27T23:30:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537408,
+    "competicion": "FIFA World Cup",
+    "home": "Congo DR",
+    "away": "Uzbekistan",
+    "fecha": "2026-06-27T23:30:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537401,
+    "competicion": "FIFA World Cup",
+    "home": "Jordan",
+    "away": "Argentina",
+    "fecha": "2026-06-28T02:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537402,
+    "competicion": "FIFA World Cup",
+    "home": "Algeria",
+    "away": "Austria",
+    "fecha": "2026-06-28T02:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537417,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-28T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537423,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-29T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537415,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-29T20:30:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537418,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-30T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537424,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-30T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537416,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-06-30T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537425,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-01T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537426,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-01T16:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537422,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-01T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537421,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-02T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537420,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-02T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537419,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-02T23:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537429,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-03T03:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537428,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-03T18:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537427,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-03T22:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537430,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-04T01:30:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537376,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-04T17:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537375,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-04T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537377,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-05T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537378,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-06T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537379,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-06T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537380,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-07T00:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537381,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-07T16:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537382,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-07T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537383,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-09T20:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537384,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-10T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537385,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-11T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537386,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-12T01:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537387,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-14T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537388,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-15T19:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537389,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-18T21:00:00Z",
+    "estado": "TIMED"
+  },
+  {
+    "id": 537390,
+    "competicion": "FIFA World Cup",
+    "home": null,
+    "away": null,
+    "fecha": "2026-07-19T19:00:00Z",
+    "estado": "TIMED"
+  }
 ]
