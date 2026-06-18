@@ -37,3 +37,4 @@ jobs:
           else
             git commit -m "Update dashboard.json"
             git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          fi
