@@ -7,23 +7,20 @@
 </head>
 <body>
   <header>
-    <h1>⚽ Dashboard Mundial 2026</h1>
+    🏆 Dashboard de Apuestas - Mundial 2026
   </header>
 
-  <!-- Filtros -->
   <section id="filters">
     <input type="text" id="searchTeam" placeholder="Buscar equipo...">
     <button id="filterLive">Solo en vivo</button>
   </section>
 
-  <!-- Contenedor de partidos -->
   <main id="matches"></main>
 
   <footer>
-    <p>Actualizado automáticamente cada hora</p>
+    Datos: Football-Data + OddsAPI | Predicciones calculadas automáticamente
   </footer>
 
-  <!-- Script principal -->
   <script>
     fetch('dashboard.json')
       .then(res => res.json())
@@ -53,11 +50,23 @@
               </div>
               ${match.prediction ? `
               <div class="prediction">
-                <strong>Predicción:</strong> 
+                <strong>Predicción 1X2:</strong> 
                 ${match.prediction.recommendation.toUpperCase()} 
                 (Local ${match.prediction.prob_home}, 
                 Empate ${match.prediction.prob_draw}, 
                 Visitante ${match.prediction.prob_away})
+              </div>` : ''}
+
+              ${match.odds && match.odds.over_under ? `
+              <div class="markets">
+                <strong>Over/Under:</strong><br>
+                ${match.odds.over_under.map(o => `${o.name} ${o.line} @ ${o.price}`).join('<br>')}
+              </div>` : ''}
+
+              ${match.odds && match.odds.handicap ? `
+              <div class="markets">
+                <strong>Hándicap:</strong><br>
+                ${match.odds.handicap.map(h => `${h.name} (${h.line}) @ ${h.price}`).join('<br>')}
               </div>` : ''}
             `;
             container.appendChild(div);
