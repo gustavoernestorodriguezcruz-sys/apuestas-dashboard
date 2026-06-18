@@ -1,7 +1,11 @@
 import json
 
 def implied_probabilities(odds):
-    # Convertir cuotas a probabilidades implícitas
+    # Validar que existan las claves necesarias
+    required_keys = ["home_win", "draw", "away_win"]
+    if not all(key in odds and odds[key] for key in required_keys):
+        return None  # saltar si faltan cuotas
+
     inv_home = 1 / odds["home_win"]
     inv_draw = 1 / odds["draw"]
     inv_away = 1 / odds["away_win"]
@@ -20,32 +24,40 @@ def implied_probabilities(odds):
 
 def match_prediction(odds):
     probs = implied_probabilities(odds)
+    if not probs:
+        return None  # no se puede calcular
 
-    # Valor esperado simple = probabilidad * cuota
     ev_home = probs["prob_home"] * odds["home_win"]
     ev_draw = probs["prob_draw"] * odds["draw"]
     ev_away = probs["prob_away"] * odds["away_win"]
+
+    recommendation = max(
+        [("home", ev_home), ("draw", ev_draw), ("away", ev_away)],
+        key=lambda x: x[1]
+    )[0]
 
     return {
         **probs,
         "ev_home": round(ev_home, 2),
         "ev_draw": round(ev_draw, 2),
         "ev_away": round(ev_away, 2),
-        "recommendation": max(
-            [("home", ev_home), ("draw", ev_draw), ("away", ev_away)],
-            key=lambda x: x[1]
-        )[0]
+        "recommendation": recommendation
     }
 
 if __name__ == "__main__":
-    with open("dashboard.json") as f:
+    with open("dashboard.json", encoding="utf-8") as f:
         matches = json.load(f)
 
     for m in matches:
-        if "odds" not in m:
-            continue
-        pred = match_prediction(m["odds"])
-        m["prediction"] = pred
+        odds = m.get("odds", {})
+        pred = match_prediction(odds)
+        if pred:
+            m["prediction"] = pred
+        else:
+            # Aviso cuando no hay datos suficientes
+            m["prediction"] = {"recommendation": "⚠️ Sin datos suficientes"}
 
-    with open("dashboard.json", "w") as f:
-        json.dump(matches, f, indent=2)
+    with open("dashboard.json", "w", encoding="utf-8") as f:
+        json.dump(matches, f, indent=2, ensure_ascii=False)
+
+    print("Predicciones añadidas a dashboard.json")
