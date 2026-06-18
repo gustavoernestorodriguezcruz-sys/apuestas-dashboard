@@ -10,12 +10,14 @@
     <h1>⚽ Dashboard Mundial 2026</h1>
   </header>
 
+  <!-- Aquí se mostrarán los partidos -->
   <main id="matches"></main>
 
   <footer>
     <p>Actualizado automáticamente cada hora</p>
   </footer>
 
+  <!-- 👇 El script SIEMPRE va aquí, antes de cerrar el body -->
   <script>
     fetch('dashboard.json')
       .then(res => res.json())
