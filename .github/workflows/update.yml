@@ -3,7 +3,7 @@ name: Update Data
 on:
   schedule:
     - cron: "0 * * * *"   # cada hora
-  workflow_dispatch:       # habilita el botón "Run workflow"
+  workflow_dispatch:
 
 jobs:
   build:
