@@ -24,66 +24,91 @@
   </footer>
 
   <script>
-    fetch('dashboard.json')
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById('matches');
-        const tabButtons = document.querySelectorAll('.tab-btn');
+  fetch('dashboard.json')
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById('matches');
+      const tabButtons = document.querySelectorAll('.tab-btn');
 
-        function render(matches) {
-          container.innerHTML = '';
-          matches.forEach(match => {
-            const div = document.createElement('div');
-            div.className = 'card';
-            div.innerHTML = `
-              <h3>${match.home} vs ${match.away}</h3>
-              <p>📅 ${match.fecha}</p>
-              <p class="status ${match.estado.toLowerCase()}">Estado: ${match.estado}</p>
-              <p><strong>Historial:</strong> ${match.home} ${match.h2h.home_wins} - ${match.away} ${match.h2h.away_wins} (${match.h2h.draws} empates)</p>
-              <p><strong>Goles acumulados:</strong> ${match.home}: ${match.stats.home_goals} | ${match.away}: ${match.stats.away_goals}</p>
-              ${match.prediction ? `
-              <div class="prediction">
-                <strong>Predicción 1X2:</strong> ${match.prediction.recommendation.toUpperCase()} 
-                (Local ${match.prediction.prob_home}, Empate ${match.prediction.prob_draw}, Visitante ${match.prediction.prob_away})
-              </div>` : ''}
-              ${match.odds && match.odds.over_under ? `
-              <div class="markets">
-                <strong>Over/Under:</strong><br>
-                ${match.odds.over_under.map(o => `${o.name} ${o.line} @ ${o.price}`).join('<br>')}
-              </div>` : ''}
-              ${match.odds && match.odds.handicap ? `
-              <div class="markets">
-                <strong>Hándicap:</strong><br>
-                ${match.odds.handicap.map(h => `${h.name} (${h.line}) @ ${h.price}`).join('<br>')}
-              </div>` : ''}
-            `;
-            container.appendChild(div);
-          });
-        }
+      // Guardar cuotas anteriores para detectar cambios
+      let previousOdds = {};
 
-        function filterByTab(tab) {
-          let filtered = [];
-          if (tab === 'live') {
-            filtered = data.filter(m => m.estado.toLowerCase() === 'inplay');
-          } else if (tab === 'upcoming') {
-            filtered = data.filter(m => m.estado.toLowerCase() === 'scheduled');
-          } else if (tab === 'finished') {
-            filtered = data.filter(m => m.estado.toLowerCase() === 'finished');
+      function render(matches) {
+        container.innerHTML = '';
+        matches.forEach(match => {
+          const div = document.createElement('div');
+          div.className = 'card';
+
+          // Detectar cambios de cuotas
+          let oddsChange = '';
+          if (previousOdds[match.home + match.away]) {
+            const prev = previousOdds[match.home + match.away];
+            if (match.odds && match.odds.home_win && prev.home_win) {
+              if (match.odds.home_win > prev.home_win) oddsChange = '⬆️';
+              else if (match.odds.home_win < prev.home_win) oddsChange = '⬇️';
+            }
           }
-          render(filtered);
+          previousOdds[match.home + match.away] = match.odds || {};
+
+          div.innerHTML = `
+            <h3>${match.home} vs ${match.away}</h3>
+            <p>📅 ${match.fecha}</p>
+            <p class="status ${match.estado.toLowerCase()}">Estado: ${match.estado}</p>
+            <p><strong>Historial:</strong> ${match.home} ${match.h2h.home_wins} - ${match.away} ${match.h2h.away_wins} (${match.h2h.draws} empates)</p>
+            <p><strong>Goles acumulados:</strong> ${match.home}: ${match.stats.home_goals} | ${match.away}: ${match.stats.away_goals}</p>
+            ${match.prediction ? `
+            <div class="prediction">
+              <strong>Predicción 1X2:</strong> ${match.prediction.recommendation.toUpperCase()} 
+              (Local ${match.prediction.prob_home}, Empate ${match.prediction.prob_draw}, Visitante ${match.prediction.prob_away}) ${oddsChange}
+            </div>` : ''}
+            ${match.odds && match.odds.over_under ? `
+            <div class="markets">
+              <strong>Over/Under:</strong><br>
+              ${match.odds.over_under.map(o => `${o.name} ${o.line} @ ${o.price}`).join('<br>')}
+            </div>` : ''}
+            ${match.odds && match.odds.handicap ? `
+            <div class="markets">
+              <strong>Hándicap:</strong><br>
+              ${match.odds.handicap.map(h => `${h.name} (${h.line}) @ ${h.price}`).join('<br>')}
+            </div>` : ''}
+            ${match.odds && match.odds.bookmakers ? `
+            <div class="markets">
+              <strong>Comparador de Casas:</strong><br>
+              ${match.odds.bookmakers.map(b => `${b.title}: ${b.markets[0].outcomes.map(o => o.name + ' @ ' + o.price).join(', ')}`).join('<br>')}
+            </div>` : ''}
+            ${match.estado.toLowerCase() === 'inplay' ? `
+            <div class="cashout">
+              💡 Cash Out disponible: asegure su ticket si el partido cambia de rumbo.
+            </div>` : ''}
+          `;
+          container.appendChild(div);
+        });
+      }
+
+      function filterByTab(tab) {
+        let filtered = [];
+        if (tab === 'live') {
+          filtered = data.filter(m => m.estado.toLowerCase() === 'inplay');
+        } else if (tab === 'upcoming') {
+          filtered = data.filter(m => m.estado.toLowerCase() === 'scheduled');
+        } else if (tab === 'finished') {
+          filtered = data.filter(m => m.estado.toLowerCase() === 'finished');
         }
+        render(filtered);
+      }
 
-        // Inicial: mostrar En Vivo
-        filterByTab('live');
+      // Inicial: mostrar En Vivo
+      filterByTab('live');
 
-        tabButtons.forEach(btn => {
-          btn.addEventListener('click', () => {
-            tabButtons.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            filterByTab(btn.dataset.tab);
-          });
+      tabButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          tabButtons.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          filterByTab(btn.dataset.tab);
         });
       });
-  </script>
+    });
+</script>
+
 </body>
 </html>
