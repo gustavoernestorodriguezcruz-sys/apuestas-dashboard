@@ -3,10 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <title>Mundial 2026 - Partidos</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Partidos Mundial 2026</h1>
-  <div id="matches"></div>
+  <header>
+    <h1>⚽ Partidos Mundial 2026</h1>
+  </header>
+
+  <main id="matches"></main>
+
+  <footer>
+    <p>Actualizado automáticamente cada hora</p>
+  </footer>
 
   <script>
     fetch('data.json')
@@ -15,7 +23,12 @@
         const container = document.getElementById('matches');
         data.forEach(match => {
           const div = document.createElement('div');
-          div.textContent = `${match.fecha} - ${match.home} vs ${match.away} (${match.estado})`;
+          div.className = 'match';
+          div.innerHTML = `
+            <span class="date">${match.fecha}</span>
+            <span class="teams">${match.home} vs ${match.away}</span>
+            <span class="status ${match.estado.toLowerCase()}">${match.estado}</span>
+          `;
           container.appendChild(div);
         });
       });
