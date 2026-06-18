@@ -8,6 +8,11 @@ API_KEY = os.getenv("ODDS_API_KEY", "ed66d37a72609bc89429815486b22117")
 url_fd = "https://api.football-data.org/v4/competitions/WC/matches"
 headers_fd = {"X-Auth-Token": os.getenv("FOOTBALL_DATA_KEY")}
 response_fd = requests.get(url_fd, headers=headers_fd)
+
+if response_fd.status_code != 200:
+    print("Error Football-Data:", response_fd.status_code, response_fd.text)
+    exit()
+
 matches_fd = response_fd.json().get("matches", [])
 
 # Cuotas desde OddsAPI
@@ -18,24 +23,33 @@ params_odds = {
     "markets": "h2h,spreads,totals"
 }
 response_odds = requests.get(url_odds, params=params_odds)
+
+if response_odds.status_code != 200:
+    print("Error OddsAPI:", response_odds.status_code, response_odds.text)
+    exit()
+
 odds_data = response_odds.json()
 
 dashboard = []
 
 for match in matches_fd:
-    home = match["homeTeam"]["name"]
-    away = match["awayTeam"]["name"]
+    home = match.get("homeTeam", {}).get("name")
+    away = match.get("awayTeam", {}).get("name")
 
-    # Buscar cuotas correspondientes
+    # Saltar partidos sin nombres válidos
+    if not home or not away:
+        continue
+
+    # Buscar cuotas correspondientes en OddsAPI
     odds_match = next(
-        (o for o in odds_data if home in o["home_team"] and away in o["away_team"]),
+        (o for o in odds_data if home in o.get("home_team", "") and away in o.get("away_team", "")),
         None
     )
 
     odds_block = {}
     if odds_match:
         odds_block["bookmakers"] = odds_match.get("bookmakers", [])
-        # Extraer mercados principales del primer bookmaker
+        # Extraer mercados principales
         for bookmaker in odds_match.get("bookmakers", []):
             for market in bookmaker.get("markets", []):
                 if market["key"] == "h2h":
@@ -54,14 +68,15 @@ for match in matches_fd:
                         for o in market["outcomes"]
                     ]
 
+    # Datos ficticios de H2H y stats (puedes reemplazar con AiScore)
     h2h_data = {"total_matches": 5, "home_wins": 2, "away_wins": 2, "draws": 1}
     stats_data = {"home_goals": 10, "away_goals": 8}
 
     dashboard.append({
-        "fecha": match["utcDate"],
+        "fecha": match.get("utcDate"),
         "home": home,
         "away": away,
-        "estado": match["status"],
+        "estado": match.get("status"),
         "h2h": h2h_data,
         "stats": stats_data,
         "odds": odds_block
