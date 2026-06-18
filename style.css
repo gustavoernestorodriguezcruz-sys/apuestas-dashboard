@@ -16,6 +16,29 @@ header {
   letter-spacing: 1px;
 }
 
+/* Filtros */
+#filters {
+  text-align: center;
+  margin: 15px;
+}
+#filters input {
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+  margin-right: 10px;
+}
+#filters button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  background: #5bc0be;
+  color: #fff;
+  cursor: pointer;
+}
+#filters button:hover {
+  background: #3a506b;
+}
+
 /* Tarjeta de partido */
 .match {
   display: flex;
@@ -52,18 +75,9 @@ header {
   text-align: center;
   margin-bottom: 8px;
 }
-
-.status.finished {
-  color: #00ff88;
-}
-
-.status.inplay {
-  color: #ffd700;
-}
-
-.status.timed {
-  color: #ff6b6b;
-}
+.status.finished { color: #00ff88; }
+.status.inplay { color: #ffd700; }
+.status.timed { color: #ff6b6b; }
 
 /* Historial H2H */
 .h2h {
@@ -79,6 +93,15 @@ header {
   margin-top: 5px;
   color: #e0e0e0;
   text-align: center;
+}
+
+/* Predicciones */
+.prediction {
+  font-size: 0.9em;
+  margin-top: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #5bc0be;
 }
 
 /* Pie de página */
