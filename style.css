@@ -1,114 +1,117 @@
 /* Estilo general */
 body {
   font-family: 'Segoe UI', Roboto, sans-serif;
-  background: #0b132b;
-  color: #fff;
+  background: #f4f6f9;
   margin: 0;
   padding: 0;
+  color: #333;
 }
 
-/* Encabezado */
 header {
-  background: #1c2541;
-  text-align: center;
-  padding: 20px;
-  font-size: 1.8em;
-  letter-spacing: 1px;
-}
-
-/* Filtros */
-#filters {
-  text-align: center;
-  margin: 15px;
-}
-#filters input {
-  padding: 8px;
-  border-radius: 4px;
-  border: none;
-  margin-right: 10px;
-}
-#filters button {
-  padding: 8px 12px;
-  border: none;
-  border-radius: 4px;
-  background: #5bc0be;
+  background: linear-gradient(90deg, #1e3c72, #2a5298);
   color: #fff;
-  cursor: pointer;
-}
-#filters button:hover {
-  background: #3a506b;
-}
-
-/* Tarjeta de partido */
-.match {
-  display: flex;
-  flex-direction: column;
-  background: #3a506b;
-  margin: 12px auto;
-  padding: 15px 20px;
-  border-radius: 8px;
-  width: 90%;
-  max-width: 800px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-}
-
-/* Equipos */
-.teams {
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
   font-weight: bold;
-  text-align: center;
-  font-size: 1.2em;
-  margin-bottom: 8px;
 }
 
-/* Fecha */
-.date {
-  color: #a0aec0;
-  font-size: 0.9em;
-  text-align: center;
-  margin-bottom: 5px;
+/* Pestañas */
+.tabs {
+  display: flex;
+  justify-content: center;
+  background: #fff;
+  border-bottom: 2px solid #ddd;
+}
+
+.tab-btn {
+  flex: 1;
+  padding: 1rem;
+  border: none;
+  background: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background 0.3s, color 0.3s;
+}
+
+.tab-btn:hover {
+  background: #f0f0f0;
+}
+
+.tab-btn.active {
+  background: #2a5298;
+  color: #fff;
+}
+
+/* Contenedor de partidos */
+#matches {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1rem;
+  padding: 1rem;
+}
+
+/* Tarjetas */
+.card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.card h3 {
+  margin-top: 0;
+  color: #2a5298;
+  font-size: 1.2rem;
 }
 
 /* Estado del partido */
 .status {
-  text-transform: uppercase;
-  font-size: 0.9em;
-  text-align: center;
-  margin-bottom: 8px;
-}
-.status.finished { color: #00ff88; }
-.status.inplay { color: #ffd700; }
-.status.timed { color: #ff6b6b; }
-
-/* Historial H2H */
-.h2h {
-  font-size: 0.85em;
-  margin-top: 5px;
-  color: #e0e0e0;
-  text-align: center;
-}
-
-/* Estadísticas */
-.stats {
-  font-size: 0.85em;
-  margin-top: 5px;
-  color: #e0e0e0;
-  text-align: center;
-}
-
-/* Predicciones */
-.prediction {
-  font-size: 0.9em;
-  margin-top: 10px;
   font-weight: bold;
-  text-align: center;
-  color: #5bc0be;
+  margin: 0.5rem 0;
 }
 
-/* Pie de página */
+.status.inplay {
+  color: #28a745; /* verde */
+}
+
+.status.scheduled {
+  color: #007bff; /* azul */
+}
+
+.status.finished {
+  color: #dc3545; /* rojo */
+}
+
+/* Bloques de predicción y mercados */
+.prediction {
+  background: #e9f7ef;
+  border-left: 4px solid #28a745;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.markets {
+  background: #f8f9fa;
+  border-left: 4px solid #2a5298;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Footer */
 footer {
   text-align: center;
-  padding: 15px;
-  background: #1c2541;
-  font-size: 0.8em;
-  color: #a0aec0;
+  padding: 1rem;
+  background: #2a5298;
+  color: #fff;
+  margin-top: 2rem;
+  font-size: 0.9rem;
 }
