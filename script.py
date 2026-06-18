@@ -18,13 +18,12 @@ matches = data.get("matches", [])
 
 dashboard = []
 
-# 2. Generar datos con H2H ficticio (ejemplo inicial)
-# ⚠️ Aquí puedes luego reemplazar con datos reales de AiScore o cualquier fuente gratuita
+# 2. Generar datos con H2H ficticio + stats + odds
 for match in matches:
     home = match["homeTeam"]["name"]
     away = match["awayTeam"]["name"]
 
-    # Ejemplo de H2H simulado (para que veas cómo se muestra en el frontend)
+    # Ejemplo de H2H simulado
     h2h_data = {
         "total_matches": 5,
         "home_wins": 2,
@@ -32,9 +31,17 @@ for match in matches:
         "draws": 1
     }
 
+    # Ejemplo de estadísticas simuladas
     stats_data = {
         "home_goals": 10,
         "away_goals": 8
+    }
+
+    # ⚠️ Odds ficticias (puedes reemplazar con datos reales de MiCasino/AiScore)
+    odds_data = {
+        "home_win": 2.1,
+        "draw": 3.4,
+        "away_win": 2.8
     }
 
     dashboard.append({
@@ -43,7 +50,8 @@ for match in matches:
         "away": away,
         "estado": match["status"],
         "h2h": h2h_data,
-        "stats": stats_data
+        "stats": stats_data,
+        "odds": odds_data
     })
 
 # 3. Guardar todo en dashboard.json
