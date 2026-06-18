@@ -1,25 +1,33 @@
 import json
-import math
 
-def poisson_prob(lam, k):
-    """Probabilidad de k goles con media lam (Poisson)."""
-    return (lam**k * math.exp(-lam)) / math.factorial(k)
+def implied_probabilities(odds):
+    # Convertir cuotas a probabilidades implícitas
+    inv_home = 1 / odds["home_win"]
+    inv_draw = 1 / odds["draw"]
+    inv_away = 1 / odds["away_win"]
 
-def match_prediction(home_goals_avg, away_goals_avg, odds):
-    # Probabilidades simplificadas
-    p_home = poisson_prob(home_goals_avg, 1)
-    p_draw = poisson_prob((home_goals_avg + away_goals_avg) / 2, 1)
-    p_away = poisson_prob(away_goals_avg, 1)
+    total = inv_home + inv_draw + inv_away
 
-    # Valor esperado (EV)
-    ev_home = p_home * odds["home_win"]
-    ev_draw = p_draw * odds["draw"]
-    ev_away = p_away * odds["away_win"]
+    p_home = inv_home / total
+    p_draw = inv_draw / total
+    p_away = inv_away / total
 
     return {
         "prob_home": round(p_home, 2),
         "prob_draw": round(p_draw, 2),
-        "prob_away": round(p_away, 2),
+        "prob_away": round(p_away, 2)
+    }
+
+def match_prediction(odds):
+    probs = implied_probabilities(odds)
+
+    # Valor esperado simple = probabilidad * cuota
+    ev_home = probs["prob_home"] * odds["home_win"]
+    ev_draw = probs["prob_draw"] * odds["draw"]
+    ev_away = probs["prob_away"] * odds["away_win"]
+
+    return {
+        **probs,
         "ev_home": round(ev_home, 2),
         "ev_draw": round(ev_draw, 2),
         "ev_away": round(ev_away, 2),
@@ -34,11 +42,9 @@ if __name__ == "__main__":
         matches = json.load(f)
 
     for m in matches:
-        pred = match_prediction(
-            m["stats"]["home_goals"],
-            m["stats"]["away_goals"],
-            m["odds"]
-        )
+        if "odds" not in m:
+            continue
+        pred = match_prediction(m["odds"])
         m["prediction"] = pred
 
     with open("dashboard.json", "w") as f:
