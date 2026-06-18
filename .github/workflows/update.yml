@@ -1,26 +1,6 @@
-name: Update Data
-
-on:
-  schedule:
-    - cron: "0 * * * *"  # cada hora
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-      - name: Install requests
-        run: pip install requests
-      - name: Run script
-        env:
-          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
-        run: python script.py
       - name: Commit data.json
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
@@ -29,5 +9,5 @@ jobs:
             echo "No commit needed"
           else
             git commit -m "Update data.json"
-            git push
+            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
           fi
