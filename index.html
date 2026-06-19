@@ -40,37 +40,43 @@
             const div = document.createElement('div');
             div.className = 'card';
 
+            // Normalizar clase de estado (minúsculas sin guion)
+            const statusClass = match.estado.toLowerCase().replace("_", "");
+            const displayStatus = match.estado.toUpperCase();
+
             div.innerHTML = `
               <h3>${match.home} vs ${match.away}</h3>
               <p>📅 ${match.fecha}</p>
-              <p class="status ${match.estado.toLowerCase()}">Estado: ${match.estado}</p>
-              ${match.prediction ? `
+              <p class="status ${statusClass}">Estado: ${displayStatus}</p>
+              ${match.prediction && match.prediction.recommendation !== '⚠️ Sin datos' && match.prediction.recommendation !== 'PASS' ? `
               <div class="prediction">
                 <strong>Predicción:</strong> ${match.prediction.recommendation.toUpperCase()} 
                 (Local ${match.prediction.prob_home}, Empate ${match.prediction.prob_draw}, Visitante ${match.prediction.prob_away})
+                <br><small>EV: ${match.prediction.best_ev || 'N/A'}</small>
               </div>` : ''}
-              ${saldo > 0 && match.prediction ? `
+              ${saldo > 0 && match.prediction && match.prediction.recommendation !== '⚠️ Sin datos' && match.prediction.recommendation !== 'PASS' ? `
               <div class="cashout">
                 💰 Con saldo ${saldo}, ganancia potencial: 
                 ${(saldo * (match.prediction.recommendation === 'home' ? match.odds.home_win : 
                             match.prediction.recommendation === 'draw' ? match.odds.draw : 
                             match.odds.away_win)).toFixed(2)}
               </div>` : ''}
-              <canvas id="chart-${match.home}-${match.away}" height="100"></canvas>
+              <canvas id="chart-${Math.random()}-${Date.now()}" height="100"></canvas>
             `;
             container.appendChild(div);
 
             if (match.prediction && match.prediction.prob_home) {
-              renderChart(`chart-${match.home}-${match.away}`, match.prediction);
+              const canvasId = container.lastChild.querySelector('canvas').id;
+              renderChart(canvasId, match.prediction);
             }
           });
         }
 
         function filterByTab(tab) {
           let filtered = [];
-          if (tab === 'live') filtered = data.filter(m => m.estado.toLowerCase() === 'inplay');
-          else if (tab === 'upcoming') filtered = data.filter(m => m.estado.toLowerCase() === 'scheduled');
-          else if (tab === 'finished') filtered = data.filter(m => m.estado.toLowerCase() === 'finished');
+          if (tab === 'live') filtered = data.filter(m => m.estado === 'inplay');
+          else if (tab === 'upcoming') filtered = data.filter(m => m.estado === 'scheduled');
+          else if (tab === 'finished') filtered = data.filter(m => m.estado === 'finished');
           render(filtered);
         }
 
