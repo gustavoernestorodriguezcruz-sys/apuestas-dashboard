@@ -33,15 +33,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.68
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.2
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -54,15 +54,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.71
+                  "price": 1.67
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.8
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -79,7 +79,7 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 4.97
+                  "price": 5.23
                 },
                 {
                   "name": "Draw",
@@ -96,15 +96,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.7
+                  "price": 1.66
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.1
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -117,7 +117,49 @@
               "outcomes": [
                 {
                   "name": "Morocco",
+                  "price": 1.68
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
                   "price": 1.72
+                },
+                {
+                  "name": "Scotland",
+                  "price": 5.91
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.78
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.62
                 },
                 {
                   "name": "Scotland",
@@ -132,59 +174,17 @@
           ]
         },
         {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.75
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.65
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Unibet (FR)",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.7
+                  "price": 1.68
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.75
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
@@ -201,70 +201,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.71
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.68
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.72
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.76
+                  "price": 1.67
                 },
                 {
                   "name": "Scotland",
@@ -279,34 +216,13 @@
           ]
         },
         {
-          "title": "Pinnacle",
+          "title": "LeoVegas (SE)",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.76
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.68
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.75
+                  "price": 1.65
                 },
                 {
                   "name": "Scotland",
@@ -314,41 +230,20 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             }
           ]
         },
         {
-          "title": "BetOnline.ag",
+          "title": "MyBookie.ag",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.73
-                },
-                {
-                  "name": "Scotland",
-                  "price": 5.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.63
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Morocco",
-                  "price": 1.7
+                  "price": 1.67
                 },
                 {
                   "name": "Scotland",
@@ -363,7 +258,7 @@
           ]
         },
         {
-          "title": "Betclic (FR)",
+          "title": "Betfair",
           "markets": [
             {
               "outcomes": [
@@ -373,11 +268,116 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.6
+                  "price": 6.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.69
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.72
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.68
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.65
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
                   "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 1.68
+                },
+                {
+                  "name": "Scotland",
+                  "price": 6.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
                 }
               ]
             }
@@ -390,7 +390,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.7
+                  "price": 1.65
                 },
                 {
                   "name": "Scotland",
@@ -398,7 +398,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.4
                 }
               ]
             }
@@ -411,11 +411,11 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.7
+                  "price": 1.67
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.0
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
@@ -432,15 +432,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.73
+                  "price": 1.68
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.2
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             }
@@ -453,15 +453,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.69
+                  "price": 1.68
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.5
+                  "price": 6.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.7
                 }
               ]
             }
@@ -474,15 +474,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.76
+                  "price": 1.73
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.9
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -495,15 +495,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.75
+                  "price": 1.72
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.55
+                  "price": 5.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.55
                 }
               ]
             }
@@ -516,58 +516,58 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.75
+                  "price": 1.72
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.55
+                  "price": 5.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.55
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.75,
-      "home_win": 5.55,
-      "draw": 3.5,
+      "away_win": 1.72,
+      "home_win": 5.95,
+      "draw": 3.55,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.16
+          "price": 2.12
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.71
+          "price": 1.74
         }
       ],
       "handicap": [
         {
           "name": "Morocco",
           "line": -0.5,
-          "price": 1.73
+          "price": 1.67
         },
         {
           "name": "Scotland",
           "line": 0.5,
-          "price": 2.07
+          "price": 2.15
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.17,
-      "prob_draw": 0.28,
-      "prob_away": 0.55,
-      "ev_home": 0.94,
-      "ev_draw": 0.98,
+      "prob_home": 0.16,
+      "prob_draw": 0.27,
+      "prob_away": 0.56,
+      "ev_home": 0.95,
+      "ev_draw": 0.96,
       "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.98
+      "best_ev": 0.96
     }
   }
 ]
