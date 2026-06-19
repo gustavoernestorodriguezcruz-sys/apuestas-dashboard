@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -21,16 +21,16 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
       - name: Run script.py
         env:
           FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
-        run: python script.py
+        run: python script.py || exit 1
 
       - name: Run predict.py
-        run: python predict.py
+        run: python predict.py || exit 1
 
       - name: Commit and push dashboard.json
         env:
@@ -39,9 +39,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dashboard.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
+          if ! git diff --cached --quiet; then
+            git commit -m "Update dashboard.json - $(date -u +'%Y-%m-%d %H:%M:%S')"
+            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
           else
-            git commit -m "Update dashboard.json"
-            git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} HEAD:main
+            echo "No changes in dashboard.json"
           fi
