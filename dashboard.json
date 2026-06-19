@@ -58,7 +58,7 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.0
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
@@ -75,11 +75,11 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.78
+                  "price": 1.69
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.23
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
@@ -121,7 +121,7 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.25
+                  "price": 6.4
                 },
                 {
                   "name": "Draw",
@@ -138,15 +138,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.71
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.91
+                  "price": 6.01
                 },
                 {
                   "name": "Draw",
-                  "price": 3.78
+                  "price": 3.79
                 }
               ]
             }
@@ -180,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.68
+                  "price": 1.65
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.0
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -205,7 +205,7 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.0
+                  "price": 6.1
                 },
                 {
                   "name": "Draw",
@@ -226,11 +226,11 @@
                 },
                 {
                   "name": "Scotland",
-                  "price": 5.8
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.6
                 }
               ]
             }
@@ -264,7 +264,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.71
                 },
                 {
                   "name": "Scotland",
@@ -272,7 +272,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.8
                 }
               ]
             }
@@ -285,15 +285,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.69
+                  "price": 1.68
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.03
+                  "price": 6.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.76
                 }
               ]
             }
@@ -306,15 +306,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.7
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.0
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.67
+                  "price": 3.7
                 }
               ]
             }
@@ -327,15 +327,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.68
+                  "price": 1.66
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.05
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -369,7 +369,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.68
+                  "price": 1.66
                 },
                 {
                   "name": "Scotland",
@@ -453,15 +453,15 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.68
+                  "price": 1.66
                 },
                 {
                   "name": "Scotland",
-                  "price": 6.05
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -474,7 +474,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.73
+                  "price": 1.71
                 },
                 {
                   "name": "Scotland",
@@ -495,7 +495,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.7
                 },
                 {
                   "name": "Scotland",
@@ -503,7 +503,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.6
                 }
               ]
             }
@@ -516,7 +516,7 @@
               "outcomes": [
                 {
                   "name": "Morocco",
-                  "price": 1.72
+                  "price": 1.7
                 },
                 {
                   "name": "Scotland",
@@ -524,26 +524,26 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.6
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.72,
+      "away_win": 1.7,
       "home_win": 5.95,
-      "draw": 3.55,
+      "draw": 3.6,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.12
+          "price": 2.15
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.74
+          "price": 1.72
         }
       ],
       "handicap": [
@@ -562,12 +562,12 @@
     "prediction": {
       "prob_home": 0.16,
       "prob_draw": 0.27,
-      "prob_away": 0.56,
+      "prob_away": 0.57,
       "ev_home": 0.95,
-      "ev_draw": 0.96,
-      "ev_away": 0.96,
+      "ev_draw": 0.97,
+      "ev_away": 0.97,
       "recommendation": "PASS",
-      "best_ev": 0.96
+      "best_ev": 0.97
     }
   }
 ]
