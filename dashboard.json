@@ -3,7 +3,7 @@
     "home": "Mexico",
     "away": "South Korea",
     "fecha": "2026-06-19T01:00:00Z",
-    "estado": "TIMED",
+    "estado": "timed",
     "odds": {
       "bookmakers": [
         {
@@ -13,7 +13,7 @@
               "outcomes": [
                 {
                   "name": "Mexico",
-                  "price": 2.05
+                  "price": 2.06
                 },
                 {
                   "name": "South Korea",
@@ -38,11 +38,11 @@
                 },
                 {
                   "name": "South Korea",
-                  "price": 4.0
+                  "price": 4.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.35
                 }
               ]
             }
@@ -80,11 +80,11 @@
                 },
                 {
                   "name": "South Korea",
-                  "price": 4.0
+                  "price": 4.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.35
                 }
               ]
             }
@@ -143,11 +143,11 @@
                 },
                 {
                   "name": "South Korea",
-                  "price": 3.85
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.35
                 }
               ]
             }
@@ -202,11 +202,11 @@
               "outcomes": [
                 {
                   "name": "Mexico",
-                  "price": 2.06
+                  "price": 2.07
                 },
                 {
                   "name": "South Korea",
-                  "price": 4.15
+                  "price": 4.12
                 },
                 {
                   "name": "Draw",
@@ -223,7 +223,7 @@
               "outcomes": [
                 {
                   "name": "Mexico",
-                  "price": 2.1
+                  "price": 2.08
                 },
                 {
                   "name": "South Korea",
@@ -265,11 +265,11 @@
               "outcomes": [
                 {
                   "name": "Mexico",
-                  "price": 2.04
+                  "price": 2.03
                 },
                 {
                   "name": "South Korea",
-                  "price": 4.15
+                  "price": 4.2
                 },
                 {
                   "name": "Draw",
@@ -458,7 +458,7 @@
                 },
                 {
                   "name": "South Korea",
-                  "price": 4.2
+                  "price": 4.3
                 },
                 {
                   "name": "Draw",
@@ -518,12 +518,12 @@
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.1
+          "price": 2.04
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.76
+          "price": 1.8
         }
       ],
       "handicap": [
@@ -546,24 +546,25 @@
       "ev_home": 0.96,
       "ev_draw": 0.97,
       "ev_away": 0.97,
-      "recommendation": "away"
+      "recommendation": "PASS",
+      "best_ev": 0.97
     }
   },
   {
     "home": "United States",
     "away": "Australia",
     "fecha": "2026-06-19T19:00:00Z",
-    "estado": "TIMED",
+    "estado": "timed",
     "odds": {},
     "prediction": {
-      "recommendation": "⚠️ Sin datos suficientes"
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
     "home": "Scotland",
     "away": "Morocco",
     "fecha": "2026-06-19T22:00:00Z",
-    "estado": "TIMED",
+    "estado": "timed",
     "odds": {
       "bookmakers": [
         {
@@ -1083,19 +1084,19 @@
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.67
+          "price": 1.68
         }
       ],
       "handicap": [
         {
           "name": "Morocco",
-          "line": -0.5,
-          "price": 1.74
+          "line": -1.5,
+          "price": 3.36
         },
         {
           "name": "Scotland",
-          "line": 0.5,
-          "price": 2.06
+          "line": 1.5,
+          "price": 1.31
         }
       ]
     },
@@ -1106,7 +1107,8 @@
       "ev_home": 0.94,
       "ev_draw": 0.96,
       "ev_away": 0.96,
-      "recommendation": "away"
+      "recommendation": "PASS",
+      "best_ev": 0.96
     }
   }
 ]
