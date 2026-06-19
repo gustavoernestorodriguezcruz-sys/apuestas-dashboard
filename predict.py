@@ -31,17 +31,20 @@ def match_prediction(odds):
     ev_draw = probs["prob_draw"] * odds["draw"]
     ev_away = probs["prob_away"] * odds["away_win"]
 
-    recommendation = max(
-        [("home", ev_home), ("draw", ev_draw), ("away", ev_away)],
-        key=lambda x: x[1]
-    )[0]
+    evs = {"home": ev_home, "draw": ev_draw, "away": ev_away}
+    best_key = max(evs, key=evs.get)
+    best_ev = evs[best_key]
+    
+    # Solo recomendar si EV > 1.0, de lo contrario "PASS"
+    recommendation = best_key if best_ev > 1.0 else "PASS"
 
     return {
         **probs,
         "ev_home": round(ev_home, 2),
         "ev_draw": round(ev_draw, 2),
         "ev_away": round(ev_away, 2),
-        "recommendation": recommendation
+        "recommendation": recommendation,
+        "best_ev": round(best_ev, 2)
     }
 
 if __name__ == "__main__":
@@ -55,9 +58,9 @@ if __name__ == "__main__":
             m["prediction"] = pred
         else:
             # Aviso cuando no hay datos suficientes
-            m["prediction"] = {"recommendation": "⚠️ Sin datos suficientes"}
+            m["prediction"] = {"recommendation": "⚠️ Sin datos"}
 
     with open("dashboard.json", "w", encoding="utf-8") as f:
         json.dump(matches, f, indent=2, ensure_ascii=False)
 
-    print("Predicciones añadidas a dashboard.json")
+    print("✓ Predicciones añadidas a dashboard.json")
