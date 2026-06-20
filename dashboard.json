@@ -57,11 +57,11 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 9.0
                 }
               ]
             }
@@ -78,7 +78,7 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
@@ -95,11 +95,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 19.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
@@ -116,11 +116,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 19.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
@@ -137,11 +137,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 16.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
@@ -158,7 +158,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 16.47
+                  "price": 16.52
                 },
                 {
                   "name": "Ecuador",
@@ -166,7 +166,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.91
+                  "price": 8.38
                 }
               ]
             }
@@ -200,15 +200,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 19.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 8.0
                 }
               ]
             }
@@ -221,7 +221,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.0
+                  "price": 14.0
                 },
                 {
                   "name": "Ecuador",
@@ -229,7 +229,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 9.5
                 }
               ]
             }
@@ -242,15 +242,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.5
+                  "price": 16.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.19
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 7.95
+                  "price": 9.59
                 }
               ]
             }
@@ -263,15 +263,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.25
+                  "price": 18.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Draw",
-                  "price": 7.4
+                  "price": 7.8
                 }
               ]
             }
@@ -284,15 +284,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 17.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
-                  "price": 8.85
+                  "price": 8.75
                 }
               ]
             }
@@ -305,15 +305,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.5
+                  "price": 18.5
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.19
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
-                  "price": 9.6
+                  "price": 10.0
                 }
               ]
             }
@@ -326,11 +326,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.5
+                  "price": 16.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
@@ -347,15 +347,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 16.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 8.38
+                  "price": 9.25
                 }
               ]
             }
@@ -368,7 +368,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 13.0
+                  "price": 15.0
                 },
                 {
                   "name": "Ecuador",
@@ -393,7 +393,7 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
@@ -414,7 +414,7 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Draw",
@@ -439,7 +439,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 8.0
                 }
               ]
             }
@@ -452,15 +452,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 19.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.14
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 8.2
                 }
               ]
             }
@@ -473,7 +473,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 13.0
+                  "price": 14.0
                 },
                 {
                   "name": "Ecuador",
@@ -494,15 +494,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.5
+                  "price": 18.5
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.19
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 9.2
+                  "price": 10.0
                 }
               ]
             }
@@ -515,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 23.0
+                  "price": 26.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 7.4
+                  "price": 7.5
                 }
               ]
             }
@@ -536,34 +536,34 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 24.0
+                  "price": 26.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 7.3
+                  "price": 7.5
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 24.0,
-      "home_win": 1.17,
-      "draw": 7.3,
+      "away_win": 26.0,
+      "home_win": 1.16,
+      "draw": 7.5,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.56
+          "price": 1.51
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.23
+          "price": 2.35
         }
       ],
       "handicap": [
@@ -575,7 +575,7 @@
         {
           "name": "Ecuador",
           "line": -2.5,
-          "price": 2.34
+          "price": 2.27
         }
       ]
     },
@@ -583,11 +583,11 @@
       "prob_home": 0.83,
       "prob_draw": 0.13,
       "prob_away": 0.04,
-      "ev_home": 0.97,
-      "ev_draw": 0.95,
-      "ev_away": 0.96,
-      "recommendation": "PASS",
-      "best_ev": 0.97
+      "ev_home": 0.96,
+      "ev_draw": 0.98,
+      "ev_away": 1.04,
+      "recommendation": "away",
+      "best_ev": 1.04
     }
   }
 ]
