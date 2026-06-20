@@ -33,383 +33,10 @@
     "home": "Germany",
     "away": "Ivory Coast",
     "fecha": "2026-06-20T20:00:00Z",
-    "estado": "paused",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 2.8
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 2.9
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 2.9
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 2.75
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.28
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.3
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.05
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.5
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.5
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.34
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.16
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.37
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.25
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.0
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.35
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.1
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.6
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 3.25
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 2.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 1.55
-                },
-                {
-                  "name": "Ivory Coast",
-                  "price": 6.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 1.55,
-      "away_win": 6.2,
-      "draw": 4.4,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 2.5,
-          "price": 1.6
-        },
-        {
-          "name": "Under",
-          "line": 2.5,
-          "price": 2.12
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Germany",
-          "line": 0.5,
-          "price": 1.6
-        },
-        {
-          "name": "Ivory Coast",
-          "line": -0.5,
-          "price": 2.15
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.62,
-      "prob_draw": 0.22,
-      "prob_away": 0.16,
-      "ev_home": 0.96,
-      "ev_draw": 0.97,
-      "ev_away": 0.99,
-      "recommendation": "PASS",
-      "best_ev": 0.99
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -447,11 +74,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 17.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
@@ -472,7 +99,7 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
@@ -493,7 +120,7 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
@@ -510,7 +137,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 17.0
                 },
                 {
                   "name": "Ecuador",
@@ -518,7 +145,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.7
+                  "price": 9.0
                 }
               ]
             }
@@ -531,7 +158,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.16
+                  "price": 16.47
                 },
                 {
                   "name": "Ecuador",
@@ -552,7 +179,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 16.5
+                  "price": 15.5
                 },
                 {
                   "name": "Ecuador",
@@ -577,11 +204,11 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 7.5
                 }
               ]
             }
@@ -594,7 +221,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Ecuador",
@@ -602,7 +229,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 9.0
                 }
               ]
             }
@@ -615,7 +242,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 20.0
+                  "price": 19.5
                 },
                 {
                   "name": "Ecuador",
@@ -657,7 +284,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 20.0
+                  "price": 19.0
                 },
                 {
                   "name": "Ecuador",
@@ -665,7 +292,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 8.85
                 }
               ]
             }
@@ -678,7 +305,28 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.5
+                  "price": 17.5
+                },
+                {
+                  "name": "Ecuador",
+                  "price": 1.19
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Curaçao",
+                  "price": 15.5
                 },
                 {
                   "name": "Ecuador",
@@ -693,7 +341,7 @@
           ]
         },
         {
-          "title": "Pinnacle",
+          "title": "BetOnline.ag",
           "markets": [
             {
               "outcomes": [
@@ -707,28 +355,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.25
+                  "price": 8.38
                 }
               ]
             }
@@ -741,7 +368,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 13.0
                 },
                 {
                   "name": "Ecuador",
@@ -749,7 +376,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 8.5
                 }
               ]
             }
@@ -762,7 +389,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 15.5
                 },
                 {
                   "name": "Ecuador",
@@ -770,7 +397,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 9.0
                 }
               ]
             }
@@ -787,11 +414,11 @@
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
+                  "price": 7.5
                 }
               ]
             }
@@ -804,15 +431,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 7.5
                 }
               ]
             }
@@ -846,15 +473,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 16.0
+                  "price": 13.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 7.75
+                  "price": 8.25
                 }
               ]
             }
@@ -867,7 +494,7 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.5
+                  "price": 17.5
                 },
                 {
                   "name": "Ecuador",
@@ -875,7 +502,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.8
+                  "price": 9.2
                 }
               ]
             }
@@ -888,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.5
+                  "price": 23.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 8.3
+                  "price": 7.4
                 }
               ]
             }
@@ -909,34 +536,34 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 31.0
+                  "price": 24.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.11
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 9.9
+                  "price": 7.3
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 31.0,
-      "home_win": 1.11,
-      "draw": 9.9,
+      "away_win": 24.0,
+      "home_win": 1.17,
+      "draw": 7.3,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.53
+          "price": 1.56
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.3
+          "price": 2.23
         }
       ],
       "handicap": [
@@ -948,19 +575,19 @@
         {
           "name": "Ecuador",
           "line": -2.5,
-          "price": 2.26
+          "price": 2.34
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.87,
-      "prob_draw": 0.1,
-      "prob_away": 0.03,
+      "prob_home": 0.83,
+      "prob_draw": 0.13,
+      "prob_away": 0.04,
       "ev_home": 0.97,
-      "ev_draw": 0.99,
-      "ev_away": 0.93,
+      "ev_draw": 0.95,
+      "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.99
+      "best_ev": 0.97
     }
   }
 ]
