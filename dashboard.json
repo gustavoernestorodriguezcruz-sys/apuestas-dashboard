@@ -1,49 +1,9 @@
 [
   {
-    "home": "Brazil",
-    "away": "Haiti",
-    "fecha": "2026-06-20T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Turkey",
-    "away": "Paraguay",
-    "fecha": "2026-06-20T03:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Netherlands",
-    "away": "Sweden",
-    "fecha": "2026-06-20T17:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Germany",
-    "away": "Ivory Coast",
-    "fecha": "2026-06-20T20:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Ecuador",
     "away": "Curaçao",
     "fecha": "2026-06-21T00:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {
       "bookmakers": [
         {
@@ -53,15 +13,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.0
+                  "price": 29.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 7.25
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 1.12
                 }
               ]
             }
@@ -74,15 +34,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 46.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 1.07
                 }
               ]
             }
@@ -95,15 +55,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 61.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 1.08
                 }
               ]
             }
@@ -116,57 +76,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 61.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
                   "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.52
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.14
                 },
                 {
                   "name": "Draw",
-                  "price": 8.38
+                  "price": 1.08
                 }
               ]
             }
@@ -179,15 +97,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.5
+                  "price": 26.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 1.11
                 }
               ]
             }
@@ -200,15 +118,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 19.0
+                  "price": 41.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 1.05
                 }
               ]
             }
@@ -221,36 +139,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 14.0
+                  "price": 50.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.14
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.16
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.59
+                  "price": 1.04
                 }
               ]
             }
@@ -263,15 +160,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.0
+                  "price": 10.5
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.14
+                  "price": 3.8
                 },
                 {
                   "name": "Draw",
-                  "price": 7.8
+                  "price": 1.3
                 }
               ]
             }
@@ -284,15 +181,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 17.0
+                  "price": 40.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
+                  "price": 7.75
                 },
                 {
                   "name": "Draw",
-                  "price": 8.75
+                  "price": 1.12
                 }
               ]
             }
@@ -305,15 +202,11 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 18.5
+                  "price": 3.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
+                  "price": 1.22
                 }
               ]
             }
@@ -321,66 +214,7 @@
         },
         {
           "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 16.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.16
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 15.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.16
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betclic (FR)",
@@ -389,15 +223,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.5
+                  "price": 33.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.15
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 1.08
                 }
               ]
             }
@@ -410,78 +244,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 15.0
+                  "price": 26.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.14
+                  "price": 6.5
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 15.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 19.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.14
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 14.0
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.25
+                  "price": 1.12
                 }
               ]
             }
@@ -489,24 +260,7 @@
         },
         {
           "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Curaçao",
-                  "price": 18.5
-                },
-                {
-                  "name": "Ecuador",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betsson",
@@ -515,15 +269,15 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 26.0
+                  "price": 60.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 7.5
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 1.09
                 }
               ]
             }
@@ -536,58 +290,1709 @@
               "outcomes": [
                 {
                   "name": "Curaçao",
-                  "price": 26.0
+                  "price": 80.0
                 },
                 {
                   "name": "Ecuador",
-                  "price": 1.16
+                  "price": 13.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 1.02
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 26.0,
-      "home_win": 1.16,
-      "draw": 7.5,
+      "away_win": 80.0,
+      "home_win": 13.0,
+      "draw": 1.02,
       "over_under": [
         {
           "name": "Over",
-          "line": 2.5,
-          "price": 1.51
+          "line": 0.5,
+          "price": 7.5
         },
         {
           "name": "Under",
-          "line": 2.5,
-          "price": 2.35
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Curaçao",
-          "line": 2.5,
-          "price": 1.64
-        },
-        {
-          "name": "Ecuador",
-          "line": -2.5,
-          "price": 2.27
+          "line": 0.5,
+          "price": 1.04
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.83,
-      "prob_draw": 0.13,
+      "prob_home": 0.07,
+      "prob_draw": 0.92,
+      "prob_away": 0.01,
+      "ev_home": 0.91,
+      "ev_draw": 0.94,
+      "ev_away": 0.8,
+      "recommendation": "PASS",
+      "best_ev": 0.94
+    }
+  },
+  {
+    "home": "Tunisia",
+    "away": "Japan",
+    "fecha": "2026-06-21T04:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.45
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.53
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.45
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.5
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.48
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.45
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.43
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.69
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.44
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.46
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.42
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.46
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.43
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.48
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 8.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Japan",
+                  "price": 1.47
+                },
+                {
+                  "name": "Tunisia",
+                  "price": 7.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 1.47,
+      "home_win": 7.9,
+      "draw": 4.3,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.89
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.78
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Japan",
+          "line": -1.5,
+          "price": 2.37
+        },
+        {
+          "name": "Tunisia",
+          "line": 1.5,
+          "price": 1.58
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.12,
+      "prob_draw": 0.22,
+      "prob_away": 0.65,
+      "ev_home": 0.95,
+      "ev_draw": 0.95,
+      "ev_away": 0.96,
+      "recommendation": "PASS",
+      "best_ev": 0.96
+    }
+  },
+  {
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "fecha": "2026-06-21T16:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 35.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 23.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 29.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 29.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 25.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 20.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 20.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 26.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 24.63
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 20.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 26.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 26.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 30.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.13
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 24.71
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.54
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 27.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 26.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 25.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 26.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 29.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 27.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 25.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.09
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 30.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.13
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 27.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Saudi Arabia",
+                  "price": 27.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 27.0,
+      "home_win": 1.12,
+      "draw": 9.1,
+      "handicap": [
+        {
+          "name": "Saudi Arabia",
+          "line": 2.5,
+          "price": 1.88
+        },
+        {
+          "name": "Spain",
+          "line": -2.5,
+          "price": 1.99
+        }
+      ],
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 3.5,
+          "price": 2.22
+        },
+        {
+          "name": "Under",
+          "line": 3.5,
+          "price": 1.71
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.86,
+      "prob_draw": 0.11,
       "prob_away": 0.04,
       "ev_home": 0.96,
-      "ev_draw": 0.98,
-      "ev_away": 1.04,
+      "ev_draw": 1.0,
+      "ev_away": 1.08,
       "recommendation": "away",
-      "best_ev": 1.04
+      "best_ev": 1.08
+    }
+  },
+  {
+    "home": "Belgium",
+    "away": "Iran",
+    "fecha": "2026-06-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.44
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.52
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.41
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.43
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.46
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 6.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.48
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.72
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 6.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.49
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.41
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.44
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.47
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.41
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.4
+                },
+                {
+                  "name": "Iran",
+                  "price": 6.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.44
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.43
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.42
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.38
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.47
+                },
+                {
+                  "name": "Iran",
+                  "price": 8.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.45
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Belgium",
+                  "price": 1.45
+                },
+                {
+                  "name": "Iran",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.65
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 1.45,
+      "away_win": 7.5,
+      "draw": 4.65,
+      "handicap": [
+        {
+          "name": "Belgium",
+          "line": -1.25,
+          "price": 2.05
+        },
+        {
+          "name": "Iran",
+          "line": 1.25,
+          "price": 1.86
+        }
+      ],
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.83
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 2.06
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.66,
+      "prob_draw": 0.21,
+      "prob_away": 0.13,
+      "ev_home": 0.96,
+      "ev_draw": 0.98,
+      "ev_away": 0.98,
+      "recommendation": "PASS",
+      "best_ev": 0.98
+    }
+  },
+  {
+    "home": "Uruguay",
+    "away": "Cape Verde Islands",
+    "fecha": "2026-06-21T22:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
     }
   }
 ]
