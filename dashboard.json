@@ -23,7 +23,7 @@
     "home": "Spain",
     "away": "Saudi Arabia",
     "fecha": "2026-06-21T16:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {
       "bookmakers": [
         {
@@ -43,14 +43,6 @@
           "markets": []
         },
         {
-          "title": "Coolbet",
-          "markets": []
-        },
-        {
-          "title": "Pinnacle",
-          "markets": []
-        },
-        {
           "title": "Betclic (FR)",
           "markets": [
             {
@@ -65,7 +57,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 90.0
+                  "price": 100.0
                 }
               ]
             }
@@ -82,7 +74,7 @@
               "outcomes": [
                 {
                   "name": "Saudi Arabia",
-                  "price": 226.0
+                  "price": 34.0
                 },
                 {
                   "name": "Spain",
@@ -90,7 +82,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 67.0
+                  "price": 29.0
                 }
               ]
             }
@@ -103,7 +95,7 @@
               "outcomes": [
                 {
                   "name": "Saudi Arabia",
-                  "price": 226.0
+                  "price": 34.0
                 },
                 {
                   "name": "Spain",
@@ -111,7 +103,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 67.0
+                  "price": 29.0
                 }
               ]
             }
@@ -121,40 +113,28 @@
       "over_under": [
         {
           "name": "Over",
-          "line": 5.5,
-          "price": 2.04
+          "line": 4.5,
+          "price": 8.0
         },
         {
           "name": "Under",
-          "line": 5.5,
-          "price": 1.64
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Saudi Arabia",
           "line": 4.5,
-          "price": 2.05
-        },
-        {
-          "name": "Spain",
-          "line": -4.5,
-          "price": 1.7
+          "price": 1.02
         }
       ],
-      "away_win": 226.0,
+      "away_win": 34.0,
       "home_win": 1.0,
-      "draw": 67.0
+      "draw": 29.0
     },
     "prediction": {
-      "prob_home": 0.98,
-      "prob_draw": 0.01,
-      "prob_away": 0.0,
-      "ev_home": 0.98,
-      "ev_draw": 0.67,
-      "ev_away": 0.0,
-      "recommendation": "PASS",
-      "best_ev": 0.98
+      "prob_home": 0.94,
+      "prob_draw": 0.03,
+      "prob_away": 0.03,
+      "ev_home": 0.94,
+      "ev_draw": 0.87,
+      "ev_away": 1.02,
+      "recommendation": "away",
+      "best_ev": 1.02
     }
   },
   {
@@ -175,11 +155,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 8.25
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.95
+                  "price": 4.85
                 }
               ]
             }
@@ -196,11 +176,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 8.0
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.9
+                  "price": 4.8
                 }
               ]
             }
@@ -217,11 +197,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 8.0
+                  "price": 8.75
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.9
                 }
               ]
             }
@@ -234,15 +214,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.38
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 7.7
+                  "price": 7.4
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.7
                 }
               ]
             }
@@ -255,15 +235,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.45
+                  "price": 1.42
                 },
                 {
                   "name": "Iran",
-                  "price": 8.0
+                  "price": 8.75
                 },
                 {
                   "name": "Draw",
-                  "price": 4.85
+                  "price": 4.9
                 }
               ]
             }
@@ -276,15 +256,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.4
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 7.5
+                  "price": 7.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.9
+                  "price": 4.8
                 }
               ]
             }
@@ -301,11 +281,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 8.35
+                  "price": 8.45
                 },
                 {
                   "name": "Draw",
-                  "price": 4.79
+                  "price": 4.85
                 }
               ]
             }
@@ -318,15 +298,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.4
+                  "price": 1.42
                 },
                 {
                   "name": "Iran",
-                  "price": 7.5
+                  "price": 7.25
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.9
                 }
               ]
             }
@@ -343,7 +323,7 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 7.49
+                  "price": 7.93
                 },
                 {
                   "name": "Draw",
@@ -360,15 +340,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.42
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 8.0
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.85
                 }
               ]
             }
@@ -385,11 +365,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 7.5
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.75
+                  "price": 4.6
                 }
               ]
             }
@@ -406,11 +386,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 8.8
+                  "price": 9.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 4.9
                 }
               ]
             }
@@ -423,15 +403,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.43
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 5.0
                 }
               ]
             }
@@ -444,15 +424,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.43
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 5.0
                 }
               ]
             }
@@ -465,15 +445,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.41
+                  "price": 1.38
                 },
                 {
                   "name": "Iran",
-                  "price": 8.0
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.75
                 }
               ]
             }
@@ -486,11 +466,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.41
+                  "price": 1.4
                 },
                 {
                   "name": "Iran",
-                  "price": 8.45
+                  "price": 8.7
                 },
                 {
                   "name": "Draw",
@@ -511,11 +491,11 @@
                 },
                 {
                   "name": "Iran",
-                  "price": 7.0
+                  "price": 7.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.33
                 }
               ]
             }
@@ -549,11 +529,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.4
+                  "price": 1.41
                 },
                 {
                   "name": "Iran",
-                  "price": 7.8
+                  "price": 7.6
                 },
                 {
                   "name": "Draw",
@@ -570,15 +550,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.41
+                  "price": 1.4
                 },
                 {
                   "name": "Iran",
-                  "price": 8.45
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.98
+                  "price": 4.85
                 }
               ]
             }
@@ -591,15 +571,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.4
+                  "price": 1.36
                 },
                 {
                   "name": "Iran",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 5.0
                 }
               ]
             }
@@ -612,15 +592,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.43
+                  "price": 1.44
                 },
                 {
                   "name": "Iran",
-                  "price": 9.0
+                  "price": 9.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 5.0
                 }
               ]
             }
@@ -633,15 +613,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.41
+                  "price": 1.45
                 },
                 {
                   "name": "Iran",
-                  "price": 8.5
+                  "price": 7.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.6
                 }
               ]
             }
@@ -654,56 +634,56 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.41
+                  "price": 1.45
                 },
                 {
                   "name": "Iran",
-                  "price": 8.5
+                  "price": 7.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.6
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.41,
-      "away_win": 8.5,
-      "draw": 4.8,
+      "home_win": 1.45,
+      "away_win": 7.9,
+      "draw": 4.6,
       "handicap": [
         {
           "name": "Belgium",
           "line": -1.25,
-          "price": 1.93
+          "price": 2.02
         },
         {
           "name": "Iran",
           "line": 1.25,
-          "price": 2.0
+          "price": 1.91
         }
       ],
       "over_under": [
         {
           "name": "Over",
-          "line": 2.75,
-          "price": 2.07
+          "line": 2.5,
+          "price": 1.85
         },
         {
           "name": "Under",
-          "line": 2.75,
-          "price": 1.85
+          "line": 2.5,
+          "price": 2.06
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.69,
-      "prob_draw": 0.2,
-      "prob_away": 0.11,
+      "prob_home": 0.67,
+      "prob_draw": 0.21,
+      "prob_away": 0.12,
       "ev_home": 0.97,
-      "ev_draw": 0.96,
-      "ev_away": 0.94,
+      "ev_draw": 0.97,
+      "ev_away": 0.95,
       "recommendation": "PASS",
       "best_ev": 0.97
     }
