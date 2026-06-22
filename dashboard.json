@@ -23,7 +23,7 @@
     "home": "France",
     "away": "Iraq",
     "fecha": "2026-06-22T21:00:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {
       "bookmakers": [
         {
@@ -58,7 +58,7 @@
                 },
                 {
                   "name": "Iraq",
-                  "price": 76.0
+                  "price": 81.0
                 },
                 {
                   "name": "Draw",
@@ -79,32 +79,11 @@
                 },
                 {
                   "name": "Iraq",
-                  "price": 76.0
+                  "price": 81.0
                 },
                 {
                   "name": "Draw",
                   "price": 16.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.01
-                },
-                {
-                  "name": "Iraq",
-                  "price": 51.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 15.0
                 }
               ]
             }
@@ -117,7 +96,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.01
+                  "price": 1.02
                 },
                 {
                   "name": "Iraq",
@@ -142,11 +121,11 @@
                 },
                 {
                   "name": "Iraq",
-                  "price": 96.0
+                  "price": 92.0
                 },
                 {
                   "name": "Draw",
-                  "price": 11.75
+                  "price": 11.25
                 }
               ]
             }
@@ -167,7 +146,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 21.0
+                  "price": 19.75
                 }
               ]
             }
@@ -184,15 +163,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.04
+                  "price": 1.05
                 },
                 {
                   "name": "Iraq",
-                  "price": 180.0
+                  "price": 100.0
                 },
                 {
                   "name": "Draw",
-                  "price": 24.0
+                  "price": 22.0
                 }
               ]
             }
@@ -230,11 +209,11 @@
                 },
                 {
                   "name": "Iraq",
-                  "price": 60.0
+                  "price": 65.0
                 },
                 {
                   "name": "Draw",
-                  "price": 16.0
+                  "price": 15.0
                 }
               ]
             }
@@ -255,7 +234,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 19.0
+                  "price": 18.0
                 }
               ]
             }
@@ -289,15 +268,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.04
+                  "price": 1.05
                 },
                 {
                   "name": "Iraq",
-                  "price": 210.0
+                  "price": 100.0
                 },
                 {
                   "name": "Draw",
-                  "price": 28.0
+                  "price": 22.0
                 }
               ]
             }
@@ -353,24 +332,24 @@
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.6
+          "price": 1.65
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.12
+          "price": 2.04
         }
       ],
       "handicap": [
         {
           "name": "France",
           "line": -2.5,
-          "price": 2.0
+          "price": 2.1
         },
         {
           "name": "Iraq",
           "line": 2.5,
-          "price": 1.75
+          "price": 1.65
         }
       ]
     },
@@ -399,15 +378,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.4
+                  "price": 2.35
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.21
+                  "price": 3.28
                 },
                 {
                   "name": "Draw",
-                  "price": 3.48
+                  "price": 3.5
                 }
               ]
             }
@@ -420,15 +399,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.35
+                  "price": 2.33
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -441,11 +420,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.35
+                  "price": 2.33
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
@@ -462,15 +441,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.35
+                  "price": 2.33
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -483,11 +462,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.3
+                  "price": 2.28
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.15
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -504,7 +483,7 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.3
+                  "price": 2.25
                 },
                 {
                   "name": "Senegal",
@@ -567,15 +546,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.31
+                  "price": 2.29
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.04
+                  "price": 3.06
                 },
                 {
                   "name": "Draw",
-                  "price": 3.34
+                  "price": 3.36
                 }
               ]
             }
@@ -588,15 +567,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.4
+                  "price": 2.33
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.2
+                  "price": 3.28
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.5
                 }
               ]
             }
@@ -609,11 +588,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.44
+                  "price": 2.4
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.2
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
@@ -630,15 +609,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.42
+                  "price": 2.34
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.13
+                  "price": 3.24
                 },
                 {
                   "name": "Draw",
-                  "price": 3.46
+                  "price": 3.5
                 }
               ]
             }
@@ -651,15 +630,15 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.38
+                  "price": 2.34
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.14
+                  "price": 3.16
                 },
                 {
                   "name": "Draw",
-                  "price": 3.43
+                  "price": 3.48
                 }
               ]
             }
@@ -672,11 +651,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.35
+                  "price": 2.3
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.1
+                  "price": 3.15
                 },
                 {
                   "name": "Draw",
@@ -739,7 +718,7 @@
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.15
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -777,11 +756,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.3
+                  "price": 2.25
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.1
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -819,11 +798,11 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.33
+                  "price": 2.26
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.05
+                  "price": 3.15
                 },
                 {
                   "name": "Draw",
@@ -840,7 +819,7 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.42
+                  "price": 2.4
                 },
                 {
                   "name": "Senegal",
@@ -882,41 +861,41 @@
               "outcomes": [
                 {
                   "name": "Norway",
-                  "price": 2.35
+                  "price": 2.38
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.15
+                  "price": 3.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 2.35,
-      "away_win": 3.15,
-      "draw": 3.4,
+      "home_win": 2.38,
+      "away_win": 3.1,
+      "draw": 3.45,
       "handicap": [
         {
           "name": "Norway",
           "line": 0.0,
-          "price": 1.69
+          "price": 1.66
         },
         {
           "name": "Senegal",
           "line": 0.0,
-          "price": 2.25
+          "price": 2.3
         }
       ],
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.94
+          "price": 1.95
         },
         {
           "name": "Under",
@@ -929,9 +908,9 @@
       "prob_home": 0.41,
       "prob_draw": 0.28,
       "prob_away": 0.31,
-      "ev_home": 0.96,
-      "ev_draw": 0.95,
-      "ev_away": 0.98,
+      "ev_home": 0.98,
+      "ev_draw": 0.97,
+      "ev_away": 0.96,
       "recommendation": "PASS",
       "best_ev": 0.98
     }
