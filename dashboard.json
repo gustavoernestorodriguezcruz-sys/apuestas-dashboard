@@ -23,145 +23,17 @@
     "home": "Portugal",
     "away": "Uzbekistan",
     "fecha": "2026-06-23T17:00:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "PMU (FR)",
-          "markets": []
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": []
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": []
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": []
-        },
-        {
-          "title": "Coolbet",
-          "markets": []
-        },
-        {
-          "title": "Pinnacle",
-          "markets": []
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Portugal",
-                  "price": 1.0
-                },
-                {
-                  "name": "Uzbekistan",
-                  "price": 100.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 100.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": []
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Portugal",
-                  "price": 1.0
-                },
-                {
-                  "name": "Uzbekistan",
-                  "price": 201.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 201.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Portugal",
-                  "price": 1.0
-                },
-                {
-                  "name": "Uzbekistan",
-                  "price": 201.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 201.0
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 5.5,
-          "price": 2.55
-        },
-        {
-          "name": "Under",
-          "line": 5.5,
-          "price": 1.42
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Portugal",
-          "line": -3.5,
-          "price": 1.6
-        },
-        {
-          "name": "Uzbekistan",
-          "line": 3.5,
-          "price": 2.3
-        }
-      ],
-      "home_win": 1.0,
-      "away_win": 201.0,
-      "draw": 201.0
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.99,
-      "prob_draw": 0.0,
-      "prob_away": 0.0,
-      "ev_home": 0.99,
-      "ev_draw": 0.0,
-      "ev_away": 0.0,
-      "recommendation": "PASS",
-      "best_ev": 0.99
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
     "home": "England",
     "away": "Ghana",
     "fecha": "2026-06-23T20:00:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {
       "bookmakers": [
         {
@@ -171,15 +43,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.18
+                  "price": 1.26
                 },
                 {
                   "name": "Ghana",
-                  "price": 14.5
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.75
+                  "price": 4.7
                 }
               ]
             }
@@ -192,7 +64,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.16
+                  "price": 1.26
                 },
                 {
                   "name": "Ghana",
@@ -200,7 +72,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 4.7
                 }
               ]
             }
@@ -213,15 +85,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.18
+                  "price": 1.26
                 },
                 {
                   "name": "Ghana",
-                  "price": 19.0
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 4.7
                 }
               ]
             }
@@ -234,15 +106,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.16
+                  "price": 1.25
                 },
                 {
                   "name": "Ghana",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 4.5
                 }
               ]
             }
@@ -255,36 +127,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.18
+                  "price": 1.24
                 },
                 {
                   "name": "Ghana",
-                  "price": 19.0
+                  "price": 17.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
+                  "price": 5.0
                 }
               ]
             }
@@ -297,15 +148,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
+                  "price": 1.23
                 },
                 {
                   "name": "Ghana",
-                  "price": 14.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 4.5
                 }
               ]
             }
@@ -318,57 +169,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
                   "price": 1.19
                 },
                 {
                   "name": "Ghana",
-                  "price": 15.29
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.92
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.21
-                },
-                {
-                  "name": "Ghana",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.65
+                  "price": 4.6
                 }
               ]
             }
@@ -381,15 +190,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.19
+                  "price": 1.25
                 },
                 {
                   "name": "Ghana",
-                  "price": 15.0
+                  "price": 19.75
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
+                  "price": 4.5
                 }
               ]
             }
@@ -402,15 +211,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.21
+                  "price": 1.25
                 },
                 {
                   "name": "Ghana",
-                  "price": 16.5
+                  "price": 22.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.3
+                  "price": 5.0
                 }
               ]
             }
@@ -423,15 +232,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.2
+                  "price": 1.3
                 },
                 {
                   "name": "Ghana",
-                  "price": 19.5
+                  "price": 21.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.2
+                  "price": 5.3
                 }
               ]
             }
@@ -444,57 +253,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.19
+                  "price": 1.25
                 },
                 {
                   "name": "Ghana",
-                  "price": 17.75
+                  "price": 19.33
                 },
                 {
                   "name": "Draw",
-                  "price": 7.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.19
-                },
-                {
-                  "name": "Ghana",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.18
-                },
-                {
-                  "name": "Ghana",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
+                  "price": 5.06
                 }
               ]
             }
@@ -507,7 +274,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
+                  "price": 1.22
                 },
                 {
                   "name": "Ghana",
@@ -515,28 +282,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.2
-                },
-                {
-                  "name": "Ghana",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
+                  "price": 4.8
                 }
               ]
             }
@@ -549,57 +295,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.18
+                  "price": 1.25
                 },
                 {
                   "name": "Ghana",
-                  "price": 17.5
+                  "price": 19.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.18
-                },
-                {
-                  "name": "Ghana",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.19
-                },
-                {
-                  "name": "Ghana",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
+                  "price": 4.4
                 }
               ]
             }
@@ -612,15 +316,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.21
+                  "price": 1.3
                 },
                 {
                   "name": "Ghana",
-                  "price": 19.0
+                  "price": 23.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 5.3
                 }
               ]
             }
@@ -633,15 +337,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.2
+                  "price": 1.28
                 },
                 {
                   "name": "Ghana",
-                  "price": 17.0
+                  "price": 19.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.8
+                  "price": 4.3
                 }
               ]
             }
@@ -654,58 +358,58 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.2
+                  "price": 1.28
                 },
                 {
                   "name": "Ghana",
-                  "price": 17.0
+                  "price": 19.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.8
+                  "price": 4.3
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.2,
-      "away_win": 17.0,
-      "draw": 6.8,
+      "home_win": 1.28,
+      "away_win": 19.0,
+      "draw": 4.3,
       "over_under": [
         {
           "name": "Over",
-          "line": 2.5,
-          "price": 1.49
+          "line": 1.5,
+          "price": 1.48
         },
         {
           "name": "Under",
-          "line": 2.5,
-          "price": 2.4
+          "line": 1.5,
+          "price": 2.35
         }
       ],
       "handicap": [
         {
           "name": "England",
-          "line": -2.5,
-          "price": 2.41
+          "line": -1.5,
+          "price": 1.95
         },
         {
           "name": "Ghana",
-          "line": 2.5,
-          "price": 1.57
+          "line": 1.5,
+          "price": 1.8
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.8,
-      "prob_draw": 0.14,
-      "prob_away": 0.06,
-      "ev_home": 0.96,
+      "prob_home": 0.73,
+      "prob_draw": 0.22,
+      "prob_away": 0.05,
+      "ev_home": 0.93,
       "ev_draw": 0.95,
-      "ev_away": 1.02,
-      "recommendation": "away",
-      "best_ev": 1.02
+      "ev_away": 0.95,
+      "recommendation": "PASS",
+      "best_ev": 0.95
     }
   },
   {
@@ -722,15 +426,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.46
+                  "price": 1.43
                 },
                 {
                   "name": "Panama",
-                  "price": 6.75
+                  "price": 7.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.8
                 }
               ]
             }
@@ -743,7 +447,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.43
+                  "price": 1.42
                 },
                 {
                   "name": "Panama",
@@ -764,7 +468,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.43
+                  "price": 1.42
                 },
                 {
                   "name": "Panama",
@@ -772,7 +476,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.7
                 }
               ]
             }
@@ -785,15 +489,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.42
+                  "price": 1.4
                 },
                 {
                   "name": "Panama",
-                  "price": 7.5
+                  "price": 7.8
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.7
                 }
               ]
             }
@@ -806,7 +510,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.43
+                  "price": 1.42
                 },
                 {
                   "name": "Panama",
@@ -814,7 +518,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.7
                 }
               ]
             }
@@ -827,15 +531,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.45
+                  "price": 1.4
                 },
                 {
                   "name": "Panama",
-                  "price": 8.0
+                  "price": 8.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.85
                 }
               ]
             }
@@ -848,15 +552,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.46
+                  "price": 1.42
                 },
                 {
                   "name": "Panama",
-                  "price": 6.5
+                  "price": 7.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.7
                 }
               ]
             }
@@ -869,7 +573,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.42
+                  "price": 1.41
                 },
                 {
                   "name": "Panama",
@@ -894,7 +598,7 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 6.7
+                  "price": 7.42
                 },
                 {
                   "name": "Draw",
@@ -911,15 +615,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.46
+                  "price": 1.43
                 },
                 {
                   "name": "Panama",
-                  "price": 6.6
+                  "price": 7.2
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.8
                 }
               ]
             }
@@ -932,15 +636,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.5
+                  "price": 1.47
                 },
                 {
                   "name": "Panama",
-                  "price": 7.37
+                  "price": 8.15
                 },
                 {
                   "name": "Draw",
-                  "price": 4.64
+                  "price": 4.75
                 }
               ]
             }
@@ -953,15 +657,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.45
+                  "price": 1.42
                 },
                 {
                   "name": "Panama",
-                  "price": 6.5
+                  "price": 7.1
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.7
                 }
               ]
             }
@@ -974,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.51
+                  "price": 1.47
                 },
                 {
                   "name": "Panama",
-                  "price": 7.3
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.65
                 }
               ]
             }
@@ -995,15 +699,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.5
+                  "price": 1.48
                 },
                 {
                   "name": "Panama",
-                  "price": 8.0
+                  "price": 8.4
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.8
                 }
               ]
             }
@@ -1016,15 +720,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.49
+                  "price": 1.45
                 },
                 {
                   "name": "Panama",
-                  "price": 7.5
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.65
                 }
               ]
             }
@@ -1037,11 +741,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.48
+                  "price": 1.47
                 },
                 {
                   "name": "Panama",
-                  "price": 7.65
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
@@ -1058,15 +762,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.45
+                  "price": 1.44
                 },
                 {
                   "name": "Panama",
-                  "price": 7.25
+                  "price": 7.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.33
+                  "price": 4.4
                 }
               ]
             }
@@ -1079,7 +783,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.44
+                  "price": 1.4
                 },
                 {
                   "name": "Panama",
@@ -1087,7 +791,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.2
                 }
               ]
             }
@@ -1104,7 +808,7 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 6.5
+                  "price": 7.0
                 },
                 {
                   "name": "Draw",
@@ -1121,7 +825,28 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.47
+                  "price": 1.42
+                },
+                {
+                  "name": "Panama",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 1.43
                 },
                 {
                   "name": "Panama",
@@ -1136,42 +861,21 @@
           ]
         },
         {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.45
-                },
-                {
-                  "name": "Panama",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Matchbook",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.5
+                  "price": 1.48
                 },
                 {
                   "name": "Panama",
-                  "price": 8.0
+                  "price": 8.4
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.8
                 }
               ]
             }
@@ -1184,15 +888,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.48
+                  "price": 1.44
                 },
                 {
                   "name": "Panama",
-                  "price": 7.3
+                  "price": 7.7
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.65
                 }
               ]
             }
@@ -1205,58 +909,58 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.48
+                  "price": 1.44
                 },
                 {
                   "name": "Panama",
-                  "price": 7.3
+                  "price": 7.7
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.65
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.48,
-      "home_win": 7.3,
-      "draw": 4.4,
+      "away_win": 1.44,
+      "home_win": 7.7,
+      "draw": 4.65,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.62
+          "price": 1.6
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.14
+          "price": 2.16
         }
       ],
       "handicap": [
         {
           "name": "Croatia",
           "line": -1.5,
-          "price": 2.32
+          "price": 2.25
         },
         {
           "name": "Panama",
           "line": 1.5,
-          "price": 1.59
+          "price": 1.64
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.13,
-      "prob_draw": 0.22,
-      "prob_away": 0.65,
-      "ev_home": 0.95,
-      "ev_draw": 0.97,
+      "prob_home": 0.12,
+      "prob_draw": 0.21,
+      "prob_away": 0.67,
+      "ev_home": 0.92,
+      "ev_draw": 0.98,
       "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.98
     }
   }
 ]
