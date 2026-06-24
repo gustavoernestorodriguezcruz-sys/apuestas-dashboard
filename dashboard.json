@@ -10,16 +10,6 @@
     }
   },
   {
-    "home": "Bosnia-Herzegovina",
-    "away": "Qatar",
-    "fecha": "2026-06-24T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Switzerland",
     "away": "Canada",
     "fecha": "2026-06-24T19:00:00Z",
@@ -30,940 +20,45 @@
     }
   },
   {
-    "home": "Morocco",
-    "away": "Haiti",
-    "fecha": "2026-06-24T22:00:00Z",
-    "estado": "timed",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 13.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 18.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 14.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 11.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 11.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 13.97
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.68
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 16.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 17.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.07
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 14.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 12.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.24
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 19.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 21.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 21.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 18.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.16
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 14.25
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 13.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 13.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 12.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 16.25
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 15.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.24
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 15.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 18.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.19
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 14.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.21
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Haiti",
-                  "price": 14.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "away_win": 14.0,
-      "home_win": 1.2,
-      "draw": 7.0,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 3.0,
-          "price": 1.93
-        },
-        {
-          "name": "Under",
-          "line": 3.0,
-          "price": 1.94
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Haiti",
-          "line": 1.5,
-          "price": 2.31
-        },
-        {
-          "name": "Morocco",
-          "line": -1.5,
-          "price": 1.64
-        }
-      ]
-    },
+    "home": "Bosnia-Herzegovina",
+    "away": "Qatar",
+    "fecha": "2026-06-24T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.8,
-      "prob_draw": 0.14,
-      "prob_away": 0.07,
-      "ev_home": 0.96,
-      "ev_draw": 0.98,
-      "ev_away": 0.98,
-      "recommendation": "PASS",
-      "best_ev": 0.98
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
     "home": "Scotland",
     "away": "Brazil",
     "fecha": "2026-06-24T22:00:00Z",
-    "estado": "timed",
+    "estado": "paused",
     "odds": {
       "bookmakers": [
         {
           "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.28
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.28
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.34
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.21
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.34
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.33
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.34
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.33
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.32
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.31
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.31
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.3
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.29
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.9
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betclic (FR)",
@@ -972,15 +67,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.3
+                  "price": 1.0
                 },
                 {
                   "name": "Scotland",
-                  "price": 11.0
+                  "price": 100.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 100.0
                 }
               ]
             }
@@ -988,24 +83,7 @@
         },
         {
           "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.35
-                },
-                {
-                  "name": "Scotland",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betsson",
@@ -1014,15 +92,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.35
+                  "price": 1.0
                 },
                 {
                   "name": "Scotland",
-                  "price": 11.0
+                  "price": 226.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.95
+                  "price": 126.0
                 }
               ]
             }
@@ -1035,98 +113,439 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.37
+                  "price": 1.0
                 },
                 {
                   "name": "Scotland",
-                  "price": 8.7
+                  "price": 226.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.32
-                },
-                {
-                  "name": "Scotland",
-                  "price": 9.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.29
-                },
-                {
-                  "name": "Scotland",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.45
+                  "price": 126.0
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.29,
-      "home_win": 10.0,
-      "draw": 5.45,
       "over_under": [
         {
           "name": "Over",
-          "line": 2.5,
-          "price": 1.68
+          "line": 3.5,
+          "price": 2.35
         },
         {
           "name": "Under",
-          "line": 2.5,
-          "price": 2.02
+          "line": 3.5,
+          "price": 1.49
         }
       ],
       "handicap": [
         {
           "name": "Brazil",
-          "line": -1.5,
-          "price": 1.92
+          "line": -0.25,
+          "price": 2.26
         },
         {
           "name": "Scotland",
-          "line": 1.5,
-          "price": 1.85
+          "line": 0.25,
+          "price": 1.7
+        }
+      ],
+      "away_win": 1.0,
+      "home_win": 226.0,
+      "draw": 126.0
+    },
+    "prediction": {
+      "prob_home": 0.0,
+      "prob_draw": 0.01,
+      "prob_away": 0.99,
+      "ev_home": 0.0,
+      "ev_draw": 1.26,
+      "ev_away": 0.99,
+      "recommendation": "draw",
+      "best_ev": 1.26
+    }
+  },
+  {
+    "home": "Morocco",
+    "away": "Haiti",
+    "fecha": "2026-06-24T22:00:00Z",
+    "estado": "inplay",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 80.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 145.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 65.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.04
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 65.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.07
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 110.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 8.09
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.78
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 67.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 126.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 12.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 71.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 46.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 86.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.07
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 71.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 40.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 120.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 60.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Haiti",
+                  "price": 65.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.07
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 65.0,
+      "home_win": 1.07,
+      "draw": 8.5,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 5.5,
+          "price": 2.2
+        },
+        {
+          "name": "Under",
+          "line": 5.5,
+          "price": 1.65
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Haiti",
+          "line": 0.75,
+          "price": 1.83
+        },
+        {
+          "name": "Morocco",
+          "line": -0.75,
+          "price": 2.08
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.09,
-      "prob_draw": 0.17,
-      "prob_away": 0.73,
-      "ev_home": 0.9,
-      "ev_draw": 0.93,
-      "ev_away": 0.94,
+      "prob_home": 0.88,
+      "prob_draw": 0.11,
+      "prob_away": 0.01,
+      "ev_home": 0.94,
+      "ev_draw": 0.94,
+      "ev_away": 0.65,
       "recommendation": "PASS",
       "best_ev": 0.94
     }
