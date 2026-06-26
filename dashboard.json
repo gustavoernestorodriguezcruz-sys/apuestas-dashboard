@@ -1,15 +1,5 @@
 [
   {
-    "home": "Paraguay",
-    "away": "Australia",
-    "fecha": "2026-06-26T02:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Turkey",
     "away": "United States",
     "fecha": "2026-06-26T02:00:00Z",
@@ -20,10 +10,571 @@
     }
   },
   {
+    "home": "Paraguay",
+    "away": "Australia",
+    "fecha": "2026-06-26T02:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Norway",
+    "away": "France",
+    "fecha": "2026-06-26T19:00:00Z",
+    "estado": "live",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.45
+                },
+                {
+                  "name": "Norway",
+                  "price": 6.51
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.29
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.07
+                },
+                {
+                  "name": "Norway",
+                  "price": 18.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.12
+                },
+                {
+                  "name": "Norway",
+                  "price": 24.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.33
+                },
+                {
+                  "name": "Norway",
+                  "price": 8.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.33
+                },
+                {
+                  "name": "Norway",
+                  "price": 8.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.34
+                },
+                {
+                  "name": "Norway",
+                  "price": 8.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.09
+                },
+                {
+                  "name": "Norway",
+                  "price": 21.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.09
+                },
+                {
+                  "name": "Norway",
+                  "price": 21.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.05
+                },
+                {
+                  "name": "Norway",
+                  "price": 18.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.1
+                },
+                {
+                  "name": "Norway",
+                  "price": 16.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.33
+                },
+                {
+                  "name": "Norway",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.11
+                },
+                {
+                  "name": "Norway",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.35
+                },
+                {
+                  "name": "Norway",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.08
+                },
+                {
+                  "name": "Norway",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.1
+                },
+                {
+                  "name": "Norway",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.06
+                },
+                {
+                  "name": "Norway",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.09
+                },
+                {
+                  "name": "Norway",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.11
+                },
+                {
+                  "name": "Norway",
+                  "price": 34.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 13.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.42
+                },
+                {
+                  "name": "Norway",
+                  "price": 6.78
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.64
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.33
+                },
+                {
+                  "name": "Norway",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.12
+                },
+                {
+                  "name": "Norway",
+                  "price": 34.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 12.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.1
+                },
+                {
+                  "name": "Norway",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.36
+                },
+                {
+                  "name": "Norway",
+                  "price": 7.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.1
+                },
+                {
+                  "name": "Norway",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 1.1,
+      "home_win": 19.0,
+      "draw": 9.5,
+      "handicap": [
+        {
+          "name": "France",
+          "line": -1.5,
+          "price": 2.07
+        },
+        {
+          "name": "Norway",
+          "line": 1.5,
+          "price": 1.76
+        }
+      ],
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 3.5,
+          "price": 2.23
+        },
+        {
+          "name": "Under",
+          "line": 3.5,
+          "price": 1.64
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.05,
+      "prob_draw": 0.1,
+      "prob_away": 0.85,
+      "ev_home": 0.95,
+      "ev_draw": 0.95,
+      "ev_away": 0.94,
+      "recommendation": "PASS",
+      "best_ev": 0.95
+    }
+  },
+  {
     "home": "Senegal",
     "away": "Iraq",
     "fecha": "2026-06-26T19:00:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {
       "bookmakers": [
         {
@@ -33,15 +584,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 13.75
+                  "price": 45.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.23
+                  "price": 1.07
                 },
                 {
                   "name": "Draw",
-                  "price": 7.25
+                  "price": 14.25
                 }
               ]
             }
@@ -54,7 +605,7 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.86
+                  "price": 12.87
                 },
                 {
                   "name": "Senegal",
@@ -62,7 +613,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.83
+                  "price": 7.02
                 }
               ]
             }
@@ -75,15 +626,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 25.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.2
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 7.2
+                  "price": 11.0
                 }
               ]
             }
@@ -96,15 +647,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 36.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.2
+                  "price": 1.03
                 },
                 {
                   "name": "Draw",
-                  "price": 7.25
+                  "price": 13.0
                 }
               ]
             }
@@ -117,15 +668,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 34.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.2
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 13.0
                 }
               ]
             }
@@ -138,7 +689,7 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 13.5
+                  "price": 13.0
                 },
                 {
                   "name": "Senegal",
@@ -159,15 +710,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.1
+                  "price": 12.25
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.25
+                  "price": 1.23
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 7.6
                 }
               ]
             }
@@ -184,15 +735,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 15.0
+                  "price": 26.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.22
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 12.5
                 }
               ]
             }
@@ -205,15 +756,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 13.0
+                  "price": 25.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.21
+                  "price": 1.02
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 11.0
                 }
               ]
             }
@@ -226,15 +777,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 15.0
+                  "price": 26.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.22
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 12.5
                 }
               ]
             }
@@ -247,15 +798,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.5
+                  "price": 36.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.21
+                  "price": 1.04
                 },
                 {
                   "name": "Draw",
-                  "price": 6.6
+                  "price": 11.0
                 }
               ]
             }
@@ -276,7 +827,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
+                  "price": 7.0
                 }
               ]
             }
@@ -289,7 +840,7 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 13.0
                 },
                 {
                   "name": "Senegal",
@@ -297,7 +848,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 6.5
                 }
               ]
             }
@@ -310,15 +861,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 36.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.2
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 11.0
                 }
               ]
             }
@@ -331,15 +882,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 27.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.22
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 11.0
                 }
               ]
             }
@@ -352,15 +903,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 12.0
+                  "price": 26.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.22
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 12.5
                 }
               ]
             }
@@ -373,15 +924,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 13.5
+                  "price": 50.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.24
+                  "price": 1.09
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 15.0
                 }
               ]
             }
@@ -389,7 +940,24 @@
         },
         {
           "title": "BetAnything",
-          "markets": []
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Iraq",
+                  "price": 12.0
+                },
+                {
+                  "name": "Senegal",
+                  "price": 1.23
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.25
+                }
+              ]
+            }
+          ]
         },
         {
           "title": "Matchbook",
@@ -398,15 +966,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 14.0
+                  "price": 48.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.24
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 16.5
                 }
               ]
             }
@@ -419,7 +987,7 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 15.0
+                  "price": 12.2
                 },
                 {
                   "name": "Senegal",
@@ -427,7 +995,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.17
+                  "price": 7.49
                 }
               ]
             }
@@ -448,7 +1016,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.8
+                  "price": 7.0
                 }
               ]
             }
@@ -461,15 +1029,15 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 15.5
+                  "price": 28.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.21
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 6.7
+                  "price": 12.0
                 }
               ]
             }
@@ -482,41 +1050,41 @@
               "outcomes": [
                 {
                   "name": "Iraq",
-                  "price": 15.5
+                  "price": 33.0
                 },
                 {
                   "name": "Senegal",
-                  "price": 1.21
+                  "price": 1.06
                 },
                 {
                   "name": "Draw",
-                  "price": 6.7
+                  "price": 11.0
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 15.5,
-      "home_win": 1.21,
-      "draw": 6.7,
+      "away_win": 33.0,
+      "home_win": 1.06,
+      "draw": 11.0,
       "over_under": [
         {
           "name": "Over",
-          "line": 3.0,
-          "price": 1.77
+          "line": 3.5,
+          "price": 1.85
         },
         {
           "name": "Under",
-          "line": 3.0,
-          "price": 2.13
+          "line": 3.5,
+          "price": 1.95
         }
       ],
       "handicap": [
         {
           "name": "Iraq",
           "line": 1.5,
-          "price": 2.27
+          "price": 2.33
         },
         {
           "name": "Senegal",
@@ -526,575 +1094,14 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.79,
-      "prob_draw": 0.14,
-      "prob_away": 0.06,
-      "ev_home": 0.96,
-      "ev_draw": 0.94,
-      "ev_away": 0.93,
-      "recommendation": "PASS",
-      "best_ev": 0.96
-    }
-  },
-  {
-    "home": "Norway",
-    "away": "France",
-    "fecha": "2026-06-26T19:00:00Z",
-    "estado": "timed",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.45
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.76
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.38
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.42
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.45
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.67
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.43
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.43
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.42
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.39
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.35
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.43
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.44
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.43
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.26
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.67
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.45
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.42
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.41
-                },
-                {
-                  "name": "Norway",
-                  "price": 6.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.42
-                },
-                {
-                  "name": "Norway",
-                  "price": 7.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "away_win": 1.42,
-      "home_win": 7.1,
-      "draw": 5.25,
-      "handicap": [
-        {
-          "name": "France",
-          "line": -1.5,
-          "price": 2.17
-        },
-        {
-          "name": "Norway",
-          "line": 1.5,
-          "price": 1.69
-        }
-      ],
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 3.5,
-          "price": 2.24
-        },
-        {
-          "name": "Under",
-          "line": 3.5,
-          "price": 1.64
-        }
-      ]
-    },
-    "prediction": {
-      "prob_home": 0.14,
-      "prob_draw": 0.18,
-      "prob_away": 0.68,
-      "ev_home": 0.99,
-      "ev_draw": 0.94,
-      "ev_away": 0.97,
+      "prob_home": 0.89,
+      "prob_draw": 0.09,
+      "prob_away": 0.03,
+      "ev_home": 0.94,
+      "ev_draw": 0.99,
+      "ev_away": 0.99,
       "recommendation": "PASS",
       "best_ev": 0.99
-    }
-  },
-  {
-    "home": "Cape Verde Islands",
-    "away": "Saudi Arabia",
-    "fecha": "2026-06-27T00:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -1111,15 +1118,15 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.62
+                  "price": 1.65
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.2
+                  "price": 6.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.4
                 }
               ]
             }
@@ -1132,15 +1139,15 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.72
+                  "price": 1.69
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.4
+                  "price": 6.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.6
                 }
               ]
             }
@@ -1157,11 +1164,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 5.6
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.5
                 }
               ]
             }
@@ -1178,11 +1185,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 5.7
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -1241,11 +1248,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.43
+                  "price": 6.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.56
                 }
               ]
             }
@@ -1258,7 +1265,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.68
+                  "price": 1.71
                 },
                 {
                   "name": "Uruguay",
@@ -1266,7 +1273,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -1279,15 +1286,15 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.66
+                  "price": 1.67
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.1
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -1300,7 +1307,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.68
+                  "price": 1.71
                 },
                 {
                   "name": "Uruguay",
@@ -1308,7 +1315,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -1325,11 +1332,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 5.5
+                  "price": 5.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.48
                 }
               ]
             }
@@ -1342,7 +1349,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 1.67
                 },
                 {
                   "name": "Uruguay",
@@ -1350,7 +1357,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -1371,7 +1378,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -1426,7 +1433,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.68
+                  "price": 1.71
                 },
                 {
                   "name": "Uruguay",
@@ -1434,7 +1441,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.5
                 }
               ]
             }
@@ -1455,7 +1462,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -1468,7 +1475,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.71
+                  "price": 1.75
                 },
                 {
                   "name": "Uruguay",
@@ -1476,7 +1483,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.6
                 }
               ]
             }
@@ -1493,11 +1500,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.43
+                  "price": 6.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.56
                 }
               ]
             }
@@ -1510,15 +1517,15 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.72
+                  "price": 1.75
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.6
+                  "price": 6.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.6
                 }
               ]
             }
@@ -1531,15 +1538,15 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.74
+                  "price": 1.78
                 },
                 {
                   "name": "Uruguay",
-                  "price": 6.06
+                  "price": 5.91
                 },
                 {
                   "name": "Draw",
-                  "price": 3.63
+                  "price": 3.52
                 }
               ]
             }
@@ -1556,11 +1563,11 @@
                 },
                 {
                   "name": "Uruguay",
-                  "price": 5.6
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.5
                 }
               ]
             }
@@ -1573,7 +1580,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.7
+                  "price": 1.72
                 },
                 {
                   "name": "Uruguay",
@@ -1581,7 +1588,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.55
                 }
               ]
             }
@@ -1594,7 +1601,7 @@
               "outcomes": [
                 {
                   "name": "Spain",
-                  "price": 1.7
+                  "price": 1.72
                 },
                 {
                   "name": "Uruguay",
@@ -1602,26 +1609,26 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.55
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.7,
+      "away_win": 1.72,
       "home_win": 5.95,
-      "draw": 3.6,
+      "draw": 3.55,
       "over_under": [
         {
           "name": "Over",
-          "line": 2.5,
-          "price": 2.25
+          "line": 2.0,
+          "price": 1.7
         },
         {
           "name": "Under",
-          "line": 2.5,
-          "price": 1.69
+          "line": 2.0,
+          "price": 2.23
         }
       ],
       "handicap": [
@@ -1640,12 +1647,22 @@
     "prediction": {
       "prob_home": 0.16,
       "prob_draw": 0.27,
-      "prob_away": 0.57,
+      "prob_away": 0.56,
       "ev_home": 0.95,
-      "ev_draw": 0.97,
-      "ev_away": 0.97,
+      "ev_draw": 0.96,
+      "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.96
+    }
+  },
+  {
+    "home": "Cape Verde Islands",
+    "away": "Saudi Arabia",
+    "fecha": "2026-06-27T00:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
     }
   }
 ]
