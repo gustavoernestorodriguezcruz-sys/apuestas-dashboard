@@ -43,766 +43,20 @@
     "home": "Panama",
     "away": "England",
     "fecha": "2026-06-27T21:00:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.4
-                },
-                {
-                  "name": "Panama",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.45
-                },
-                {
-                  "name": "Panama",
-                  "price": 10.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.5
-                },
-                {
-                  "name": "Panama",
-                  "price": 13.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.47
-                },
-                {
-                  "name": "Panama",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.39
-                },
-                {
-                  "name": "Panama",
-                  "price": 13.81
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.82
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.42
-                },
-                {
-                  "name": "Panama",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.48
-                },
-                {
-                  "name": "Panama",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.48
-                },
-                {
-                  "name": "Panama",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.4
-                },
-                {
-                  "name": "Panama",
-                  "price": 9.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.4
-                },
-                {
-                  "name": "Panama",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.42
-                },
-                {
-                  "name": "Panama",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.48
-                },
-                {
-                  "name": "Panama",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.51
-                },
-                {
-                  "name": "Panama",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.51
-                },
-                {
-                  "name": "Panama",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.45
-                },
-                {
-                  "name": "Panama",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 1.47
-                },
-                {
-                  "name": "Panama",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "away_win": 1.47,
-      "home_win": 12.0,
-      "draw": 3.3,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 1.5,
-          "price": 2.05
-        },
-        {
-          "name": "Under",
-          "line": 1.5,
-          "price": 1.75
-        }
-      ],
-      "handicap": [
-        {
-          "name": "England",
-          "line": -1.25,
-          "price": 2.14
-        },
-        {
-          "name": "Panama",
-          "line": 1.25,
-          "price": 1.76
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.08,
-      "prob_draw": 0.28,
-      "prob_away": 0.64,
-      "ev_home": 0.96,
-      "ev_draw": 0.92,
-      "ev_away": 0.94,
-      "recommendation": "PASS",
-      "best_ev": 0.96
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
     "home": "Croatia",
     "away": "Ghana",
     "fecha": "2026-06-27T21:00:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.18
-                },
-                {
-                  "name": "Ghana",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 21.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.22
-                },
-                {
-                  "name": "Ghana",
-                  "price": 33.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.19
-                },
-                {
-                  "name": "Ghana",
-                  "price": 24.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 29.37
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.11
-                },
-                {
-                  "name": "Ghana",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.15
-                },
-                {
-                  "name": "Ghana",
-                  "price": 30.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.15
-                },
-                {
-                  "name": "Ghana",
-                  "price": 30.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.16
-                },
-                {
-                  "name": "Ghana",
-                  "price": 31.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.18
-                },
-                {
-                  "name": "Ghana",
-                  "price": 21.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.14
-                },
-                {
-                  "name": "Ghana",
-                  "price": 27.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.15
-                },
-                {
-                  "name": "Ghana",
-                  "price": 29.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.23
-                },
-                {
-                  "name": "Ghana",
-                  "price": 30.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.25
-                },
-                {
-                  "name": "Ghana",
-                  "price": 27.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 30.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 1.17
-                },
-                {
-                  "name": "Ghana",
-                  "price": 30.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 1.17,
-      "away_win": 30.0,
-      "draw": 5.5,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 2.0,
-          "price": 2.35
-        },
-        {
-          "name": "Under",
-          "line": 2.0,
-          "price": 1.6
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Croatia",
-          "line": -0.25,
-          "price": 1.87
-        },
-        {
-          "name": "Ghana",
-          "line": 0.25,
-          "price": 2.01
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.8,
-      "prob_draw": 0.17,
-      "prob_away": 0.03,
-      "ev_home": 0.94,
-      "ev_draw": 0.94,
-      "ev_away": 0.9,
-      "recommendation": "PASS",
-      "best_ev": 0.94
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -819,15 +73,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.7
+                  "price": 3.9
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.92
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -840,11 +94,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.85
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.95
+                  "price": 1.89
                 },
                 {
                   "name": "Draw",
@@ -861,15 +115,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.65
+                  "price": 3.9
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.91
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.95
+                  "price": 4.0
                 }
               ]
             }
@@ -882,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.5
+                  "price": 3.85
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.88
+                  "price": 1.82
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 4.0
                 }
               ]
             }
@@ -903,11 +157,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.85
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.95
+                  "price": 1.89
                 },
                 {
                   "name": "Draw",
@@ -924,11 +178,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.85
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.88
+                  "price": 1.8
                 },
                 {
                   "name": "Draw",
@@ -945,7 +199,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.52
+                  "price": 3.71
                 },
                 {
                   "name": "Portugal",
@@ -966,15 +220,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.75
+                  "price": 3.8
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.9
+                  "price": 1.82
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 3.7
                 }
               ]
             }
@@ -987,15 +241,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.7
+                  "price": 3.95
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.94
+                  "price": 1.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.15
+                  "price": 4.0
                 }
               ]
             }
@@ -1008,11 +262,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.96
+                  "price": 1.88
                 },
                 {
                   "name": "Draw",
@@ -1029,11 +283,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.75
+                  "price": 4.11
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.94
+                  "price": 1.86
                 },
                 {
                   "name": "Draw",
@@ -1050,15 +304,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.85
+                  "price": 4.24
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.91
+                  "price": 1.79
                 },
                 {
                   "name": "Draw",
-                  "price": 4.05
+                  "price": 4.25
                 }
               ]
             }
@@ -1071,15 +325,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.6
+                  "price": 3.94
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.93
+                  "price": 1.81
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.89
                 }
               ]
             }
@@ -1092,11 +346,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.6
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.91
+                  "price": 1.8
                 },
                 {
                   "name": "Draw",
@@ -1113,11 +367,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.4
+                  "price": 3.9
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.85
+                  "price": 1.75
                 },
                 {
                   "name": "Draw",
@@ -1134,11 +388,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.5
+                  "price": 3.9
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.91
+                  "price": 1.8
                 },
                 {
                   "name": "Draw",
@@ -1155,15 +409,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.55
+                  "price": 3.8
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.9
+                  "price": 1.86
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.0
                 }
               ]
             }
@@ -1176,11 +430,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.8
+                  "price": 4.2
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.85
+                  "price": 1.77
                 },
                 {
                   "name": "Draw",
@@ -1197,15 +451,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.7
+                  "price": 3.95
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.88
+                  "price": 1.77
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.05
                 }
               ]
             }
@@ -1218,11 +472,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.95
+                  "price": 4.3
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.96
+                  "price": 1.87
                 },
                 {
                   "name": "Draw",
@@ -1239,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.88
+                  "price": 4.34
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.96
+                  "price": 1.82
                 },
                 {
                   "name": "Draw",
-                  "price": 4.04
+                  "price": 3.98
                 }
               ]
             }
@@ -1260,15 +514,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.6
+                  "price": 3.95
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.94
+                  "price": 1.84
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -1281,15 +535,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.9
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.92
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 4.05
                 }
               ]
             }
@@ -1302,29 +556,29 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.9
+                  "price": 4.1
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.92
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 4.05
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 3.9,
-      "away_win": 1.92,
-      "draw": 3.9,
+      "home_win": 4.1,
+      "away_win": 1.85,
+      "draw": 4.05,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.68
+          "price": 1.67
         },
         {
           "name": "Under",
@@ -1336,24 +590,24 @@
         {
           "name": "Colombia",
           "line": 0.5,
-          "price": 1.82
+          "price": 1.85
         },
         {
           "name": "Portugal",
           "line": -0.5,
-          "price": 2.0
+          "price": 1.97
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.25,
-      "prob_draw": 0.25,
-      "prob_away": 0.5,
-      "ev_home": 0.97,
+      "prob_home": 0.24,
+      "prob_draw": 0.24,
+      "prob_away": 0.52,
+      "ev_home": 0.98,
       "ev_draw": 0.97,
       "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.98
     }
   },
   {
