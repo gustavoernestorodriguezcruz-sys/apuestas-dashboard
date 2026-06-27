@@ -53,15 +53,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.85
+                  "price": 1.8
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.2
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.2
                 }
               ]
             }
@@ -74,7 +74,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.88
+                  "price": 1.86
                 },
                 {
                   "name": "Ghana",
@@ -82,7 +82,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.15
                 }
               ]
             }
@@ -116,7 +116,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.9
+                  "price": 1.88
                 },
                 {
                   "name": "Ghana",
@@ -124,7 +124,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.2
                 }
               ]
             }
@@ -158,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.98
+                  "price": 1.94
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.95
+                  "price": 5.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.14
+                  "price": 3.18
                 }
               ]
             }
@@ -179,15 +179,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.94
+                  "price": 1.89
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.29
+                  "price": 5.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.13
+                  "price": 3.18
                 }
               ]
             }
@@ -200,15 +200,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.9
+                  "price": 1.88
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.25
+                  "price": 5.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.21
                 }
               ]
             }
@@ -242,15 +242,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.93
+                  "price": 1.92
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.3
+                  "price": 5.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.15
                 }
               ]
             }
@@ -263,15 +263,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.93
+                  "price": 1.92
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.3
+                  "price": 5.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.15
                 }
               ]
             }
@@ -284,11 +284,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.89
+                  "price": 1.86
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.7
+                  "price": 4.9
                 },
                 {
                   "name": "Draw",
@@ -305,15 +305,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.91
+                  "price": 1.85
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.0
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.1
                 }
               ]
             }
@@ -326,15 +326,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.91
+                  "price": 1.85
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.0
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
+                  "price": 3.1
                 }
               ]
             }
@@ -347,11 +347,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.95
+                  "price": 1.85
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.2
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
@@ -368,15 +368,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.89
+                  "price": 1.87
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.25
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.2
                 }
               ]
             }
@@ -397,7 +397,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.15
                 }
               ]
             }
@@ -414,7 +414,7 @@
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.3
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
@@ -431,15 +431,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.96
+                  "price": 1.94
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.4
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.25
                 }
               ]
             }
@@ -452,15 +452,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.9
+                  "price": 1.89
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.25
+                  "price": 5.32
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.18
                 }
               ]
             }
@@ -473,15 +473,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.97
+                  "price": 1.92
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.4
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.25
                 }
               ]
             }
@@ -494,15 +494,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 2.0
+                  "price": 1.96
                 },
                 {
                   "name": "Ghana",
-                  "price": 5.0
+                  "price": 5.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.17
+                  "price": 3.21
                 }
               ]
             }
@@ -515,11 +515,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.9
+                  "price": 1.88
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.8
+                  "price": 4.9
                 },
                 {
                   "name": "Draw",
@@ -536,11 +536,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.98
+                  "price": 1.95
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.55
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
@@ -557,11 +557,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 1.98
+                  "price": 1.95
                 },
                 {
                   "name": "Ghana",
-                  "price": 4.55
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
@@ -572,19 +572,19 @@
           ]
         }
       ],
-      "home_win": 1.98,
-      "away_win": 4.55,
+      "home_win": 1.95,
+      "away_win": 4.75,
       "draw": 3.2,
       "over_under": [
         {
           "name": "Over",
           "line": 2.0,
-          "price": 1.82
+          "price": 1.86
         },
         {
           "name": "Under",
           "line": 2.0,
-          "price": 2.06
+          "price": 2.01
         }
       ],
       "handicap": [
@@ -601,12 +601,12 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.49,
+      "prob_home": 0.5,
       "prob_draw": 0.3,
-      "prob_away": 0.21,
+      "prob_away": 0.2,
       "ev_home": 0.97,
       "ev_draw": 0.96,
-      "ev_away": 0.96,
+      "ev_away": 0.95,
       "recommendation": "PASS",
       "best_ev": 0.97
     }
@@ -625,15 +625,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.13
+                  "price": 1.15
                 },
                 {
                   "name": "Panama",
-                  "price": 17.0
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 8.2
                 }
               ]
             }
@@ -734,7 +734,7 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 14.25
+                  "price": 14.75
                 },
                 {
                   "name": "Draw",
@@ -755,11 +755,11 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 15.13
+                  "price": 15.24
                 },
                 {
                   "name": "Draw",
-                  "price": 8.37
+                  "price": 8.28
                 }
               ]
             }
@@ -797,7 +797,7 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 18.0
+                  "price": 19.0
                 },
                 {
                   "name": "Draw",
@@ -814,15 +814,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Panama",
-                  "price": 20.0
+                  "price": 21.0
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 9.5
                 }
               ]
             }
@@ -835,15 +835,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Panama",
-                  "price": 20.0
+                  "price": 21.0
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 9.5
                 }
               ]
             }
@@ -856,15 +856,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Panama",
-                  "price": 15.25
+                  "price": 15.93
                 },
                 {
                   "name": "Draw",
-                  "price": 7.7
+                  "price": 7.87
                 }
               ]
             }
@@ -940,15 +940,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Panama",
-                  "price": 16.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 8.25
                 }
               ]
             }
@@ -965,11 +965,11 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 17.0
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 9.5
                 }
               ]
             }
@@ -1011,7 +1011,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 9.8
+                  "price": 9.6
                 }
               ]
             }
@@ -1045,7 +1045,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Panama",
@@ -1053,7 +1053,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 9.8
+                  "price": 9.4
                 }
               ]
             }
@@ -1070,11 +1070,11 @@
                 },
                 {
                   "name": "Panama",
-                  "price": 15.5
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.25
+                  "price": 9.1
                 }
               ]
             }
@@ -1108,15 +1108,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Panama",
-                  "price": 21.0
+                  "price": 19.5
                 },
                 {
                   "name": "Draw",
-                  "price": 7.3
+                  "price": 7.1
                 }
               ]
             }
@@ -1129,24 +1129,24 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Panama",
-                  "price": 21.0
+                  "price": 19.5
                 },
                 {
                   "name": "Draw",
-                  "price": 7.3
+                  "price": 7.1
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.17,
-      "home_win": 21.0,
-      "draw": 7.3,
+      "away_win": 1.18,
+      "home_win": 19.5,
+      "draw": 7.1,
       "over_under": [
         {
           "name": "Over",
@@ -1174,13 +1174,13 @@
     },
     "prediction": {
       "prob_home": 0.05,
-      "prob_draw": 0.13,
+      "prob_draw": 0.14,
       "prob_away": 0.82,
-      "ev_home": 1.05,
-      "ev_draw": 0.95,
-      "ev_away": 0.96,
-      "recommendation": "home",
-      "best_ev": 1.05
+      "ev_home": 0.98,
+      "ev_draw": 0.99,
+      "ev_away": 0.97,
+      "recommendation": "PASS",
+      "best_ev": 0.99
     }
   },
   {
@@ -1207,11 +1207,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.45
+                  "price": 3.5
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.97
                 },
                 {
                   "name": "Draw",
@@ -1228,11 +1228,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.02
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
@@ -1249,11 +1249,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.4
+                  "price": 3.45
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.97
+                  "price": 1.96
                 },
                 {
                   "name": "Draw",
@@ -1270,15 +1270,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.35
+                  "price": 3.45
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.96
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.85
                 }
               ]
             }
@@ -1291,11 +1291,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.02
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
@@ -1312,15 +1312,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.55
+                  "price": 3.65
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.04
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.94
+                  "price": 3.96
                 }
               ]
             }
@@ -1379,11 +1379,11 @@
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.95
                 }
               ]
             }
@@ -1417,11 +1417,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.06
+                  "price": 2.04
                 },
                 {
                   "name": "Draw",
@@ -1438,15 +1438,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.59
+                  "price": 3.67
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.03
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.97
+                  "price": 4.0
                 }
               ]
             }
@@ -1459,15 +1459,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.65
+                  "price": 3.7
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.92
                 }
               ]
             }
@@ -1480,15 +1480,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.42
+                  "price": 3.56
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.02
+                  "price": 1.94
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.77
                 }
               ]
             }
@@ -1501,7 +1501,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.45
+                  "price": 3.5
                 },
                 {
                   "name": "Portugal",
@@ -1564,15 +1564,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.4
+                  "price": 3.5
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.95
+                  "price": 3.9
                 }
               ]
             }
@@ -1585,11 +1585,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.5
+                  "price": 3.7
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.95
+                  "price": 1.9
                 },
                 {
                   "name": "Draw",
@@ -1606,15 +1606,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.65
+                  "price": 3.7
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.0
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.92
                 }
               ]
             }
@@ -1627,11 +1627,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.06
+                  "price": 2.04
                 },
                 {
                   "name": "Draw",
@@ -1648,15 +1648,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.62
+                  "price": 3.67
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.05
+                  "price": 2.02
                 },
                 {
                   "name": "Draw",
-                  "price": 3.98
+                  "price": 4.02
                 }
               ]
             }
@@ -1669,15 +1669,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.45
+                  "price": 3.55
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.04
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.75
                 }
               ]
             }
@@ -1690,15 +1690,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.6
+                  "price": 3.65
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.02
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.85
                 }
               ]
             }
@@ -1711,24 +1711,24 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 3.6
+                  "price": 3.65
                 },
                 {
                   "name": "Portugal",
-                  "price": 2.02
+                  "price": 1.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.85
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 3.6,
-      "away_win": 2.02,
-      "draw": 3.8,
+      "home_win": 3.65,
+      "away_win": 1.98,
+      "draw": 3.85,
       "over_under": [
         {
           "name": "Over",
@@ -1755,11 +1755,11 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.27,
+      "prob_home": 0.26,
       "prob_draw": 0.25,
-      "prob_away": 0.48,
-      "ev_home": 0.97,
-      "ev_draw": 0.95,
+      "prob_away": 0.49,
+      "ev_home": 0.95,
+      "ev_draw": 0.96,
       "ev_away": 0.97,
       "recommendation": "PASS",
       "best_ev": 0.97
