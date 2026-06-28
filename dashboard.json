@@ -1,7 +1,7 @@
 [
   {
-    "home": "Jordan",
-    "away": "Argentina",
+    "home": "Algeria",
+    "away": "Austria",
     "fecha": "2026-06-28T02:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "Algeria",
-    "away": "Austria",
+    "home": "Jordan",
+    "away": "Argentina",
     "fecha": "2026-06-28T02:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -23,95 +23,11 @@
     "home": "South Africa",
     "away": "Canada",
     "fecha": "2026-06-28T19:00:00Z",
-    "estado": "2026-06-29 19:00:00z",
+    "estado": "timed",
     "odds": {
       "bookmakers": [
         {
           "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.72
-                },
-                {
-                  "name": "South Africa",
-                  "price": 5.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.72
-                },
-                {
-                  "name": "South Africa",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.7
-                },
-                {
-                  "name": "South Africa",
-                  "price": 5.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 1.72
-                },
-                {
-                  "name": "South Africa",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
           "markets": [
             {
               "outcomes": [
@@ -125,7 +41,91 @@
                 },
                 {
                   "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.68
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.25
+                },
+                {
+                  "name": "Draw",
                   "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.66
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.68
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.65
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
                 }
               ]
             }
@@ -138,15 +138,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.69
+                  "price": 1.65
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.75
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.9
                 }
               ]
             }
@@ -159,15 +159,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.69
+                  "price": 1.64
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.4
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -180,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.72
+                  "price": 1.66
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.65
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.74
+                  "price": 3.8
                 }
               ]
             }
@@ -201,15 +201,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.67
+                  "price": 1.6
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.5
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -222,15 +222,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.74
+                  "price": 1.67
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.75
+                  "price": 6.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.68
+                  "price": 3.8
                 }
               ]
             }
@@ -243,15 +243,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.68
+                  "price": 1.63
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.3
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.75
                 }
               ]
             }
@@ -268,11 +268,11 @@
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.32
+                  "price": 5.63
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.68
                 }
               ]
             }
@@ -285,15 +285,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.66
+                  "price": 1.62
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.2
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.85
                 }
               ]
             }
@@ -306,15 +306,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.68
+                  "price": 1.62
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.3
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.9
                 }
               ]
             }
@@ -327,15 +327,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.74
+                  "price": 1.68
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.7
+                  "price": 6.31
                 },
                 {
                   "name": "Draw",
-                  "price": 3.77
+                  "price": 3.83
                 }
               ]
             }
@@ -348,15 +348,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.7
+                  "price": 1.61
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.0
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.5
                 }
               ]
             }
@@ -369,15 +369,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.7
+                  "price": 1.62
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.0
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.5
                 }
               ]
             }
@@ -390,11 +390,11 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.67
+                  "price": 1.65
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.5
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
@@ -411,15 +411,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.69
+                  "price": 1.67
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.56
+                  "price": 6.11
                 },
                 {
                   "name": "Draw",
-                  "price": 3.74
+                  "price": 3.75
                 }
               ]
             }
@@ -432,15 +432,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.74
+                  "price": 1.69
                 },
                 {
                   "name": "South Africa",
-                  "price": 6.2
+                  "price": 6.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -453,15 +453,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.73
+                  "price": 1.69
                 },
                 {
                   "name": "South Africa",
-                  "price": 6.2
+                  "price": 6.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -474,15 +474,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.72
+                  "price": 1.68
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.45
+                  "price": 5.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -495,15 +495,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.72
+                  "price": 1.68
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.45
+                  "price": 5.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -516,15 +516,15 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.69
+                  "price": 1.66
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.5
+                  "price": 5.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.67
+                  "price": 3.75
                 }
               ]
             }
@@ -537,56 +537,56 @@
               "outcomes": [
                 {
                   "name": "Canada",
-                  "price": 1.71
+                  "price": 1.66
                 },
                 {
                   "name": "South Africa",
-                  "price": 5.8
+                  "price": 6.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.64
+                  "price": 3.8
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.71,
-      "home_win": 5.8,
-      "draw": 3.64,
+      "away_win": 1.66,
+      "home_win": 6.15,
+      "draw": 3.8,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.12
+          "price": 2.07
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.62
+          "price": 1.66
         }
       ],
       "handicap": [
         {
           "name": "Canada",
-          "line": -0.5,
-          "price": 1.68
+          "line": -1.0,
+          "price": 2.13
         },
         {
           "name": "South Africa",
-          "line": 0.5,
-          "price": 2.19
+          "line": 1.0,
+          "price": 1.72
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.17,
-      "prob_draw": 0.27,
-      "prob_away": 0.57,
-      "ev_home": 0.99,
-      "ev_draw": 0.98,
-      "ev_away": 0.97,
+      "prob_home": 0.16,
+      "prob_draw": 0.26,
+      "prob_away": 0.59,
+      "ev_home": 0.98,
+      "ev_draw": 0.99,
+      "ev_away": 0.98,
       "recommendation": "PASS",
       "best_ev": 0.99
     }
