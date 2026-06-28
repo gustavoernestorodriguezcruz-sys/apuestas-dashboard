@@ -1,746 +1,47 @@
 [
   {
-    "home": "Algeria",
-    "away": "Austria",
-    "fecha": "2026-06-28T02:00:00Z",
-    "estado": "timed",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.45
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.85
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.46
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.44
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.11
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.3
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.68
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.77
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.72
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.69
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.08
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.65
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.06
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.5
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.46
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.06
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.65
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.4
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.4
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.02
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.5
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.8
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.65
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.06
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.8
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.06
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.72
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.69
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.9
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.06
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.73
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.92
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.03
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.08
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.12
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Austria",
-                  "price": 3.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.12
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 3.55,
-      "away_win": 3.55,
-      "draw": 2.12,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 1.5,
-          "price": 1.69
-        },
-        {
-          "name": "Under",
-          "line": 1.5,
-          "price": 2.25
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Algeria",
-          "line": -0.5,
-          "price": 3.27
-        },
-        {
-          "name": "Austria",
-          "line": 0.5,
-          "price": 1.34
-        }
-      ]
-    },
-    "prediction": {
-      "prob_home": 0.27,
-      "prob_draw": 0.46,
-      "prob_away": 0.27,
-      "ev_home": 0.96,
-      "ev_draw": 0.98,
-      "ev_away": 0.96,
-      "recommendation": "PASS",
-      "best_ev": 0.98
-    }
-  },
-  {
     "home": "Jordan",
     "away": "Argentina",
     "fecha": "2026-06-28T02:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Algeria",
+    "away": "Austria",
+    "fecha": "2026-06-28T02:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "South Africa",
+    "away": "Canada",
+    "fecha": "2026-06-28T19:00:00Z",
+    "estado": "2026-06-29 19:00:00z",
     "odds": {
       "bookmakers": [
         {
-          "title": "Tipico",
+          "title": "PMU (FR)",
           "markets": [
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.13
+                  "name": "Canada",
+                  "price": 1.72
                 },
                 {
-                  "name": "Jordan",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.13
-                },
-                {
-                  "name": "Jordan",
-                  "price": 16.0
+                  "name": "South Africa",
+                  "price": 5.75
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.17
-                },
-                {
-                  "name": "Jordan",
-                  "price": 17.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.14
-                },
-                {
-                  "name": "Jordan",
-                  "price": 17.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 19.02
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.14
-                },
-                {
-                  "name": "Jordan",
-                  "price": 20.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.16
-                },
-                {
-                  "name": "Jordan",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 19.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.13
-                },
-                {
-                  "name": "Jordan",
-                  "price": 21.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
+                  "price": 3.6
                 }
               ]
             }
@@ -752,16 +53,37 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.15
+                  "name": "Canada",
+                  "price": 1.72
                 },
                 {
-                  "name": "Jordan",
-                  "price": 21.0
+                  "name": "South Africa",
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.7
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
                 }
               ]
             }
@@ -773,100 +95,37 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.15
+                  "name": "Canada",
+                  "price": 1.72
                 },
                 {
-                  "name": "Jordan",
-                  "price": 21.0
+                  "name": "South Africa",
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 3.6
                 }
               ]
             }
           ]
         },
         {
-          "title": "MyBookie.ag",
+          "title": "Unibet (FR)",
           "markets": [
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.12
+                  "name": "Canada",
+                  "price": 1.68
                 },
                 {
-                  "name": "Jordan",
-                  "price": 17.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 17.0
+                  "name": "South Africa",
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.12
-                },
-                {
-                  "name": "Jordan",
-                  "price": 19.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.12
-                },
-                {
-                  "name": "Jordan",
-                  "price": 19.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
+                  "price": 3.7
                 }
               ]
             }
@@ -878,121 +137,16 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.13
+                  "name": "Canada",
+                  "price": 1.69
                 },
                 {
-                  "name": "Jordan",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 21.0
+                  "name": "South Africa",
+                  "price": 5.75
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.16
-                },
-                {
-                  "name": "Jordan",
-                  "price": 25.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 19.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.17
-                },
-                {
-                  "name": "Jordan",
-                  "price": 24.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.15
-                },
-                {
-                  "name": "Jordan",
-                  "price": 25.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.4
+                  "price": 3.7
                 }
               ]
             }
@@ -1004,16 +158,310 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.14
+                  "name": "Canada",
+                  "price": 1.69
                 },
                 {
-                  "name": "Jordan",
-                  "price": 20.0
+                  "name": "South Africa",
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
-                  "price": 8.2
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.72
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.67
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.74
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.68
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.69
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.66
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.68
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.74
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.77
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.7
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.7
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.67
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.69
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.56
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.74
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.73
+                },
+                {
+                  "name": "South Africa",
+                  "price": 6.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
                 }
               ]
             }
@@ -1025,16 +473,16 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.14
+                  "name": "Canada",
+                  "price": 1.72
                 },
                 {
-                  "name": "Jordan",
-                  "price": 26.0
+                  "name": "South Africa",
+                  "price": 5.45
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 3.7
                 }
               ]
             }
@@ -1046,69 +494,101 @@
             {
               "outcomes": [
                 {
-                  "name": "Argentina",
-                  "price": 1.14
+                  "name": "Canada",
+                  "price": 1.72
                 },
                 {
-                  "name": "Jordan",
-                  "price": 26.0
+                  "name": "South Africa",
+                  "price": 5.45
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.69
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.67
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 1.71
+                },
+                {
+                  "name": "South Africa",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.64
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.14,
-      "home_win": 26.0,
-      "draw": 8.5,
+      "away_win": 1.71,
+      "home_win": 5.8,
+      "draw": 3.64,
       "over_under": [
         {
           "name": "Over",
-          "line": 3.0,
-          "price": 1.81
+          "line": 2.5,
+          "price": 2.12
         },
         {
           "name": "Under",
-          "line": 3.0,
-          "price": 2.07
+          "line": 2.5,
+          "price": 1.62
         }
       ],
       "handicap": [
         {
-          "name": "Argentina",
-          "line": -2.5,
-          "price": 2.12
+          "name": "Canada",
+          "line": -0.5,
+          "price": 1.68
         },
         {
-          "name": "Jordan",
-          "line": 2.5,
-          "price": 1.73
+          "name": "South Africa",
+          "line": 0.5,
+          "price": 2.19
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.04,
-      "prob_draw": 0.11,
-      "prob_away": 0.85,
-      "ev_home": 1.04,
-      "ev_draw": 0.94,
+      "prob_home": 0.17,
+      "prob_draw": 0.27,
+      "prob_away": 0.57,
+      "ev_home": 0.99,
+      "ev_draw": 0.98,
       "ev_away": 0.97,
-      "recommendation": "home",
-      "best_ev": 1.04
-    }
-  },
-  {
-    "home": null,
-    "away": null,
-    "fecha": "2026-06-28T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "recommendation": "PASS",
+      "best_ev": 0.99
     }
   }
 ]
