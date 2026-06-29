@@ -13,15 +13,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.73
+                  "price": 1.77
                 },
                 {
                   "name": "Japan",
-                  "price": 5.65
+                  "price": 5.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.7
                 }
               ]
             }
@@ -34,15 +34,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.73
+                  "price": 1.71
                 },
                 {
                   "name": "Japan",
-                  "price": 5.4
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.85
                 }
               ]
             }
@@ -76,15 +76,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.71
+                  "price": 1.7
                 },
                 {
                   "name": "Japan",
-                  "price": 5.25
+                  "price": 5.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.75
                 }
               ]
             }
@@ -97,15 +97,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.68
+                  "price": 1.72
                 },
                 {
                   "name": "Japan",
-                  "price": 5.75
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.8
                 }
               ]
             }
@@ -118,15 +118,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.68
+                  "price": 1.74
                 },
                 {
                   "name": "Japan",
-                  "price": 5.2
+                  "price": 4.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.6
                 }
               ]
             }
@@ -139,15 +139,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.73
+                  "price": 1.7
                 },
                 {
                   "name": "Japan",
-                  "price": 5.1
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.85
                 }
               ]
             }
@@ -160,15 +160,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.73
+                  "price": 1.71
                 },
                 {
                   "name": "Japan",
-                  "price": 5.4
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.85
                 }
               ]
             }
@@ -181,7 +181,7 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.7
+                  "price": 1.72
                 },
                 {
                   "name": "Japan",
@@ -189,7 +189,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.75
                 }
               ]
             }
@@ -202,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.67
+                  "price": 1.75
                 },
                 {
                   "name": "Japan",
-                  "price": 5.3
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.7
                 }
               ]
             }
@@ -223,15 +223,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.68
+                  "price": 1.74
                 },
                 {
                   "name": "Japan",
-                  "price": 5.2
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.75
                 }
               ]
             }
@@ -244,15 +244,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.68
+                  "price": 1.72
                 },
                 {
                   "name": "Japan",
-                  "price": 5.1
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.7
                 }
               ]
             }
@@ -265,15 +265,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.74
+                  "price": 1.8
                 },
                 {
                   "name": "Japan",
-                  "price": 5.5
+                  "price": 5.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.88
+                  "price": 3.79
                 }
               ]
             }
@@ -286,15 +286,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.72
+                  "price": 1.79
                 },
                 {
                   "name": "Japan",
-                  "price": 5.45
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.84
+                  "price": 3.74
                 }
               ]
             }
@@ -307,15 +307,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.67
+                  "price": 1.7
                 },
                 {
                   "name": "Japan",
-                  "price": 5.0
+                  "price": 4.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -328,7 +328,91 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.7
+                  "price": 1.73
+                },
+                {
+                  "name": "Japan",
+                  "price": 4.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.8
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.79
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.79
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.71
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.75
                 },
                 {
                   "name": "Japan",
@@ -343,105 +427,21 @@
           ]
         },
         {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.74
-                },
-                {
-                  "name": "Japan",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.74
-                },
-                {
-                  "name": "Japan",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.73
-                },
-                {
-                  "name": "Japan",
-                  "price": 5.43
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.7
-                },
-                {
-                  "name": "Japan",
-                  "price": 5.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Codere (IT)",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.69
+                  "price": 1.75
                 },
                 {
                   "name": "Japan",
-                  "price": 5.4
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.6
                 }
               ]
             }
@@ -475,11 +475,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.72
+                  "price": 1.75
                 },
                 {
                   "name": "Japan",
-                  "price": 5.25
+                  "price": 5.15
                 },
                 {
                   "name": "Draw",
@@ -496,11 +496,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.67
+                  "price": 1.71
                 },
                 {
                   "name": "Japan",
-                  "price": 5.55
+                  "price": 5.05
                 },
                 {
                   "name": "Draw",
@@ -517,34 +517,34 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.68
+                  "price": 1.74
                 },
                 {
                   "name": "Japan",
-                  "price": 5.7
+                  "price": 5.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.75
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.68,
-      "away_win": 5.7,
-      "draw": 3.85,
+      "home_win": 1.74,
+      "away_win": 5.35,
+      "draw": 3.75,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.13
+          "price": 2.1
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.77
+          "price": 1.79
         }
       ],
       "handicap": [
@@ -561,14 +561,14 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.58,
-      "prob_draw": 0.25,
-      "prob_away": 0.17,
+      "prob_home": 0.56,
+      "prob_draw": 0.26,
+      "prob_away": 0.18,
       "ev_home": 0.97,
-      "ev_draw": 0.96,
-      "ev_away": 0.97,
+      "ev_draw": 0.98,
+      "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.98
     }
   },
   {
@@ -606,7 +606,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
@@ -614,7 +614,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.25
+                  "price": 5.3
                 }
               ]
             }
@@ -631,11 +631,11 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 5.1
                 }
               ]
             }
@@ -656,7 +656,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 5.1
                 }
               ]
             }
@@ -677,7 +677,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 5.1
                 }
               ]
             }
@@ -690,7 +690,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.36
                 },
                 {
                   "name": "Paraguay",
@@ -698,7 +698,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.2
                 }
               ]
             }
@@ -711,7 +711,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
@@ -736,11 +736,11 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.24
+                  "price": 8.76
                 },
                 {
                   "name": "Draw",
-                  "price": 5.17
+                  "price": 4.88
                 }
               ]
             }
@@ -753,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.33
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.5
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.1
                 }
               ]
             }
@@ -774,15 +774,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.36
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.7
+                  "price": 8.3
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 5.0
                 }
               ]
             }
@@ -816,15 +816,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.4
+                  "price": 1.42
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.05
+                  "price": 8.55
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.2
                 }
               ]
             }
@@ -841,11 +841,11 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.23
+                  "price": 9.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.23
+                  "price": 5.15
                 }
               ]
             }
@@ -858,15 +858,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.37
+                  "price": 1.38
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.5
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.15
+                  "price": 5.1
                 }
               ]
             }
@@ -879,11 +879,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.38
+                  "price": 1.39
                 },
                 {
                   "name": "Paraguay",
-                  "price": 11.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -900,15 +900,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.38
+                  "price": 1.4
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.9
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.15
                 }
               ]
             }
@@ -929,7 +929,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.75
+                  "price": 4.6
                 }
               ]
             }
@@ -942,7 +942,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.33
+                  "price": 1.36
                 },
                 {
                   "name": "Paraguay",
@@ -950,7 +950,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.75
                 }
               ]
             }
@@ -967,7 +967,7 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 11.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -984,15 +984,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.5
+                  "price": 10.35
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.23
                 }
               ]
             }
@@ -1005,11 +1005,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.37
+                  "price": 1.38
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.5
+                  "price": 9.1
                 },
                 {
                   "name": "Draw",
@@ -1026,11 +1026,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.37
+                  "price": 1.38
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.5
+                  "price": 9.1
                 },
                 {
                   "name": "Draw",
@@ -1068,15 +1068,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.36
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.8
+                  "price": 8.4
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.0
                 }
               ]
             }
@@ -1089,7 +1089,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.31
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
@@ -1097,16 +1097,16 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.15
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.31,
+      "home_win": 1.33,
       "away_win": 10.54,
-      "draw": 5.4,
+      "draw": 5.15,
       "over_under": [
         {
           "name": "Over",
@@ -1123,7 +1123,7 @@
         {
           "name": "Germany",
           "line": -1.5,
-          "price": 1.99
+          "price": 2.06
         },
         {
           "name": "Paraguay",
@@ -1133,14 +1133,14 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.73,
-      "prob_draw": 0.18,
+      "prob_home": 0.72,
+      "prob_draw": 0.19,
       "prob_away": 0.09,
       "ev_home": 0.96,
-      "ev_draw": 0.97,
+      "ev_draw": 0.98,
       "ev_away": 0.95,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.98
     }
   }
 ]
