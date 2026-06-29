@@ -1,32 +1,1146 @@
 [
   {
-    "home": "Jordan",
-    "away": "Argentina",
-    "fecha": "2026-06-28T02:00:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Brazil",
+    "away": "Japan",
+    "fecha": "2026-06-29T17:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.73
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.72
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.71
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.68
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.68
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.72
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.67
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.77
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.75
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.67
+                },
+                {
+                  "name": "Japan",
+                  "price": 4.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.7
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.76
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.75
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.73
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.18
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.76
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.73
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.71
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.75
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.72
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.74
+                },
+                {
+                  "name": "Japan",
+                  "price": 4.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Brazil",
+                  "price": 1.69
+                },
+                {
+                  "name": "Japan",
+                  "price": 5.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.76
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 1.69,
+      "away_win": 5.65,
+      "draw": 3.76,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 2.1
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.79
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Brazil",
+          "line": -0.5,
+          "price": 1.7
+        },
+        {
+          "name": "Japan",
+          "line": 0.5,
+          "price": 2.17
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.57,
+      "prob_draw": 0.26,
+      "prob_away": 0.17,
+      "ev_home": 0.96,
+      "ev_draw": 0.98,
+      "ev_away": 0.96,
+      "recommendation": "PASS",
+      "best_ev": 0.98
     }
   },
   {
-    "home": "Algeria",
-    "away": "Austria",
-    "fecha": "2026-06-28T02:00:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Germany",
+    "away": "Paraguay",
+    "fecha": "2026-06-29T20:30:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.3
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.3
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 11.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 11.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 11.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.34
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.3
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 11.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.38
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.73
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.35
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.89
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.35
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.35
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.3
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.35
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 10.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 11.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.37
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Germany",
+                  "price": 1.33
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 9.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 1.33,
+      "away_win": 9.25,
+      "draw": 5.2,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.64
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 2.1
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Germany",
+          "line": -1.5,
+          "price": 1.92
+        },
+        {
+          "name": "Paraguay",
+          "line": 1.5,
+          "price": 1.86
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "South Africa",
-    "away": "Canada",
-    "fecha": "2026-06-28T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.71,
+      "prob_draw": 0.18,
+      "prob_away": 0.1,
+      "ev_home": 0.94,
+      "ev_draw": 0.94,
+      "ev_away": 0.93,
+      "recommendation": "PASS",
+      "best_ev": 0.94
     }
   }
 ]
