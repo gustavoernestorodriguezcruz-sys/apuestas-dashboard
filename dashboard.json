@@ -13,61 +13,10 @@
     "home": "Germany",
     "away": "Paraguay",
     "fecha": "2026-06-29T20:30:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 1.75
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 16.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Germany",
-                  "price": 110.0
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 2.0
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 110.0,
-      "away_win": 2.0,
-      "draw": 2.2
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.01,
-      "prob_draw": 0.47,
-      "prob_away": 0.52,
-      "ev_home": 1.1,
-      "ev_draw": 1.03,
-      "ev_away": 1.04,
-      "recommendation": "home",
-      "best_ev": 1.1
+      "recommendation": "⚠️ Sin datos"
     }
   }
 ]
