@@ -3,383 +3,10 @@
     "home": "Brazil",
     "away": "Japan",
     "fecha": "2026-06-29T17:00:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.2
-                },
-                {
-                  "name": "Japan",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.18
-                },
-                {
-                  "name": "Japan",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.18
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.07
-                },
-                {
-                  "name": "Japan",
-                  "price": 6.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.07
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.95
-                },
-                {
-                  "name": "Japan",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.18
-                },
-                {
-                  "name": "Japan",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.18
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.18
-                },
-                {
-                  "name": "Japan",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.18
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.1
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.1
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.1
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.05
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.05
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.16
-                },
-                {
-                  "name": "Japan",
-                  "price": 8.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.36
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.26
-                },
-                {
-                  "name": "Japan",
-                  "price": 8.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.26
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 4.36
-                },
-                {
-                  "name": "Japan",
-                  "price": 2.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.02
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.05
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 2.05
-                },
-                {
-                  "name": "Japan",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.25
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 2.05,
-      "away_win": 7.5,
-      "draw": 2.25,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 3.0,
-          "price": 2.25
-        },
-        {
-          "name": "Under",
-          "line": 3.0,
-          "price": 1.65
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Brazil",
-          "line": -0.5,
-          "price": 1.95
-        },
-        {
-          "name": "Japan",
-          "line": 0.5,
-          "price": 1.65
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.46,
-      "prob_draw": 0.42,
-      "prob_away": 0.13,
-      "ev_home": 0.94,
-      "ev_draw": 0.94,
-      "ev_away": 0.98,
-      "recommendation": "PASS",
-      "best_ev": 0.98
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -396,11 +23,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.33
+                  "price": 1.32
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.5
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
@@ -417,15 +44,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.31
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.5
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.5
                 }
               ]
             }
@@ -438,11 +65,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -459,11 +86,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -480,11 +107,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -501,7 +128,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Paraguay",
@@ -509,7 +136,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 5.3
                 }
               ]
             }
@@ -522,11 +149,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.34
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.5
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
@@ -543,15 +170,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.31
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.82
+                  "price": 9.36
                 },
                 {
                   "name": "Draw",
-                  "price": 4.88
+                  "price": 5.01
                 }
               ]
             }
@@ -564,7 +191,7 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
@@ -572,7 +199,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 5.3
                 }
               ]
             }
@@ -585,15 +212,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.32
+                  "price": 1.3
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.0
+                  "price": 9.4
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.4
                 }
               ]
             }
@@ -606,15 +233,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.32
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.0
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 5.25
                 }
               ]
             }
@@ -627,15 +254,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.41
+                  "price": 1.35
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.65
+                  "price": 10.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.12
                 }
               ]
             }
@@ -648,15 +275,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.37
+                  "price": 1.34
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.0
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.3
                 }
               ]
             }
@@ -677,7 +304,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.35
                 }
               ]
             }
@@ -690,15 +317,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.38
+                  "price": 1.37
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.5
+                  "price": 11.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.4
                 }
               ]
             }
@@ -711,15 +338,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.39
+                  "price": 1.38
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.6
+                  "price": 8.7
                 },
                 {
                   "name": "Draw",
-                  "price": 5.25
+                  "price": 5.35
                 }
               ]
             }
@@ -736,7 +363,7 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.0
+                  "price": 8.5
                 },
                 {
                   "name": "Draw",
@@ -753,15 +380,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.8
                 }
               ]
             }
@@ -774,11 +401,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.38
+                  "price": 1.36
                 },
                 {
                   "name": "Paraguay",
-                  "price": 10.5
+                  "price": 11.5
                 },
                 {
                   "name": "Draw",
@@ -795,15 +422,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.32
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.9
+                  "price": 11.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.35
                 }
               ]
             }
@@ -816,15 +443,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.8
+                  "price": 9.9
                 },
                 {
                   "name": "Draw",
-                  "price": 5.15
+                  "price": 5.25
                 }
               ]
             }
@@ -837,15 +464,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.8
+                  "price": 9.9
                 },
                 {
                   "name": "Draw",
-                  "price": 5.15
+                  "price": 5.25
                 }
               ]
             }
@@ -858,11 +485,11 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.0
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
@@ -879,15 +506,15 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Paraguay",
-                  "price": 8.8
+                  "price": 9.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 5.2
                 }
               ]
             }
@@ -900,58 +527,58 @@
               "outcomes": [
                 {
                   "name": "Germany",
-                  "price": 1.36
+                  "price": 1.33
                 },
                 {
                   "name": "Paraguay",
-                  "price": 9.35
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.05
+                  "price": 5.1
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.36,
-      "away_win": 9.35,
-      "draw": 5.05,
+      "home_win": 1.33,
+      "away_win": 11.0,
+      "draw": 5.1,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.65
+          "price": 1.6
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.07
+          "price": 2.16
         }
       ],
       "handicap": [
         {
           "name": "Germany",
           "line": -1.5,
-          "price": 2.06
+          "price": 2.03
         },
         {
           "name": "Paraguay",
           "line": 1.5,
-          "price": 1.81
+          "price": 1.8
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.71,
+      "prob_home": 0.72,
       "prob_draw": 0.19,
-      "prob_away": 0.1,
-      "ev_home": 0.97,
-      "ev_draw": 0.96,
-      "ev_away": 0.94,
+      "prob_away": 0.09,
+      "ev_home": 0.96,
+      "ev_draw": 0.97,
+      "ev_away": 0.99,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.99
     }
   }
 ]
