@@ -1,22 +1,1529 @@
 [
   {
-    "home": "Brazil",
-    "away": "Japan",
-    "fecha": "2026-06-29T17:00:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Netherlands",
+    "away": "Morocco",
+    "fecha": "2026-06-30T01:00:00Z",
+    "estado": "inplay",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.9
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.6
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.14
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.9
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.7
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.9
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 4.05
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.98
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.6
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.75
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.65
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.4
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 4.0
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 4.1
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.8
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.43
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.7
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.68
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Morocco",
+                  "price": 3.7
+                },
+                {
+                  "name": "Netherlands",
+                  "price": 2.68
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.35
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 3.7,
+      "home_win": 2.68,
+      "draw": 2.35,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 1.5,
+          "price": 2.33
+        },
+        {
+          "name": "Under",
+          "line": 1.5,
+          "price": 1.56
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Morocco",
+          "line": 0.5,
+          "price": 1.45
+        },
+        {
+          "name": "Netherlands",
+          "line": -0.5,
+          "price": 2.55
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.35,
+      "prob_draw": 0.4,
+      "prob_away": 0.25,
+      "ev_home": 0.94,
+      "ev_draw": 0.94,
+      "ev_away": 0.93,
+      "recommendation": "PASS",
+      "best_ev": 0.94
     }
   },
   {
-    "home": "Germany",
-    "away": "Paraguay",
-    "fecha": "2026-06-29T20:30:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Ivory Coast",
+    "away": "Norway",
+    "fecha": "2026-06-30T17:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.7
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.8
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.8
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.6
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.7
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.55
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.5
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.13
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.75
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.13
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.6
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.59
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.24
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.66
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.4
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.35
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.5
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.75
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.22
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.75
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.3
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.4
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.62
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.62
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.13
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.56
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.5
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.18
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.5
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.18
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.5
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Ivory Coast",
+                  "price": 3.65
+                },
+                {
+                  "name": "Norway",
+                  "price": 2.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.57
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 3.65,
+      "away_win": 2.05,
+      "draw": 3.57,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.88
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.93
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Ivory Coast",
+          "line": 0.25,
+          "price": 2.06
+        },
+        {
+          "name": "Norway",
+          "line": -0.25,
+          "price": 1.85
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.26,
+      "prob_draw": 0.27,
+      "prob_away": 0.47,
+      "ev_home": 0.95,
+      "ev_draw": 0.96,
+      "ev_away": 0.96,
+      "recommendation": "PASS",
+      "best_ev": 0.96
+    }
+  },
+  {
+    "home": "France",
+    "away": "Sweden",
+    "fecha": "2026-06-30T21:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 11.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 12.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.27
+                },
+                {
+                  "name": "Sweden",
+                  "price": 11.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 10.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.25
+                },
+                {
+                  "name": "Sweden",
+                  "price": 10.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.32
+                },
+                {
+                  "name": "Sweden",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.27
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.99
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.02
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.31
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Coolbet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 11.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.31
+                },
+                {
+                  "name": "Sweden",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.3
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.61
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.3
+                },
+                {
+                  "name": "Sweden",
+                  "price": 12.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 10.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.31
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.31
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.29
+                },
+                {
+                  "name": "Sweden",
+                  "price": 9.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.28
+                },
+                {
+                  "name": "Sweden",
+                  "price": 10.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 1.28,
+      "away_win": 10.1,
+      "draw": 6.25,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 3.5,
+          "price": 2.28
+        },
+        {
+          "name": "Under",
+          "line": 3.5,
+          "price": 1.65
+        }
+      ],
+      "handicap": [
+        {
+          "name": "France",
+          "line": -1.5,
+          "price": 1.79
+        },
+        {
+          "name": "Sweden",
+          "line": 1.5,
+          "price": 2.03
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.75,
+      "prob_draw": 0.15,
+      "prob_away": 0.1,
+      "ev_home": 0.96,
+      "ev_draw": 0.94,
+      "ev_away": 1.01,
+      "recommendation": "away",
+      "best_ev": 1.01
     }
   }
 ]
