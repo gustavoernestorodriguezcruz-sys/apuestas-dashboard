@@ -23,30 +23,9 @@
     "home": "France",
     "away": "Sweden",
     "fecha": "2026-06-30T21:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {
       "bookmakers": [
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.29
-                },
-                {
-                  "name": "Sweden",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.1
-                }
-              ]
-            }
-          ]
-        },
         {
           "title": "Unibet (SE)",
           "markets": [
@@ -54,15 +33,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.32
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.0
+                  "price": 161.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 26.0
                 }
               ]
             }
@@ -70,24 +49,7 @@
         },
         {
           "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.32
-                },
-                {
-                  "name": "Sweden",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Unibet (NL)",
@@ -96,15 +58,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.32
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.0
+                  "price": 131.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.8
+                  "price": 25.0
                 }
               ]
             }
@@ -117,15 +79,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.28
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.0
+                  "price": 130.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 38.0
                 }
               ]
             }
@@ -138,15 +100,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.3
+                  "price": 1.05
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.5
+                  "price": 26.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.6
+                  "price": 8.0
                 }
               ]
             }
@@ -159,15 +121,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.28
+                  "price": 1.0
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.5
+                  "price": 120.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 36.0
                 }
               ]
             }
@@ -180,15 +142,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.29
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 8.7
+                  "price": 88.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 13.5
                 }
               ]
             }
@@ -201,15 +163,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.28
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.5
+                  "price": 75.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 23.0
                 }
               ]
             }
@@ -222,78 +184,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.27
+                  "price": 1.06
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.5
+                  "price": 30.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.3
-                },
-                {
-                  "name": "Sweden",
-                  "price": 10.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.86
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.27
-                },
-                {
-                  "name": "Sweden",
-                  "price": 9.67
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.08
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.32
-                },
-                {
-                  "name": "Sweden",
-                  "price": 9.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.2
+                  "price": 9.0
                 }
               ]
             }
@@ -306,36 +205,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.29
+                  "price": 1.0
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.0
+                  "price": 126.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.29
-                },
-                {
-                  "name": "Sweden",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
+                  "price": 36.0
                 }
               ]
             }
@@ -348,15 +226,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.31
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 12.5
+                  "price": 360.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.2
+                  "price": 50.0
                 }
               ]
             }
@@ -369,15 +247,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.3
+                  "price": 1.12
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.5
+                  "price": 37.14
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 8.59
                 }
               ]
             }
@@ -390,36 +268,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.31
+                  "price": 1.02
                 },
                 {
                   "name": "Sweden",
-                  "price": 12.5
+                  "price": 360.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.28
-                },
-                {
-                  "name": "Sweden",
-                  "price": 11.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
+                  "price": 42.0
                 }
               ]
             }
@@ -432,15 +289,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.32
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.7
+                  "price": 65.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.65
+                  "price": 21.0
                 }
               ]
             }
@@ -453,121 +310,58 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.32
+                  "price": 1.01
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.7
+                  "price": 65.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.28
-                },
-                {
-                  "name": "Sweden",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.31
-                },
-                {
-                  "name": "Sweden",
-                  "price": 8.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.3
-                },
-                {
-                  "name": "Sweden",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
+                  "price": 21.0
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.3,
-      "away_win": 11.0,
-      "draw": 6.0,
+      "home_win": 1.01,
+      "away_win": 65.0,
+      "draw": 21.0,
       "over_under": [
         {
           "name": "Over",
           "line": 3.5,
-          "price": 2.08
+          "price": 2.02
         },
         {
           "name": "Under",
           "line": 3.5,
-          "price": 1.77
+          "price": 1.75
         }
       ],
       "handicap": [
         {
           "name": "France",
-          "line": -1.5,
-          "price": 1.78
+          "line": -2.5,
+          "price": 1.6
         },
         {
           "name": "Sweden",
-          "line": 1.5,
-          "price": 2.05
+          "line": 2.5,
+          "price": 2.2
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.75,
-      "prob_draw": 0.16,
-      "prob_away": 0.09,
-      "ev_home": 0.98,
-      "ev_draw": 0.96,
-      "ev_away": 0.99,
-      "recommendation": "PASS",
-      "best_ev": 0.99
+      "prob_home": 0.94,
+      "prob_draw": 0.05,
+      "prob_away": 0.01,
+      "ev_home": 0.95,
+      "ev_draw": 1.05,
+      "ev_away": 0.65,
+      "recommendation": "draw",
+      "best_ev": 1.05
     }
   }
 ]
