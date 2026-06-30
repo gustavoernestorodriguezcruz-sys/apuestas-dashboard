@@ -23,15 +23,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.65
+                  "price": 3.6
                 },
                 {
                   "name": "Norway",
-                  "price": 2.05
+                  "price": 2.12
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.3
                 }
               ]
             }
@@ -44,15 +44,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
-                  "price": 2.08
+                  "price": 2.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.35
                 }
               ]
             }
@@ -65,15 +65,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
-                  "price": 2.08
+                  "price": 2.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.35
                 }
               ]
             }
@@ -86,15 +86,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
-                  "price": 2.08
+                  "price": 2.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.35
                 }
               ]
             }
@@ -107,7 +107,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
@@ -136,7 +136,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.45
                 }
               ]
             }
@@ -170,15 +170,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.6
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
-                  "price": 2.18
+                  "price": 2.17
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.42
                 }
               ]
             }
@@ -195,11 +195,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 2.05
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -212,7 +212,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.67
+                  "price": 3.7
                 },
                 {
                   "name": "Norway",
@@ -220,7 +220,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.42
                 }
               ]
             }
@@ -254,15 +254,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.58
+                  "price": 3.64
                 },
                 {
                   "name": "Norway",
-                  "price": 2.17
+                  "price": 2.18
                 },
                 {
                   "name": "Draw",
-                  "price": 3.62
+                  "price": 3.54
                 }
               ]
             }
@@ -338,7 +338,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.8
                 },
                 {
                   "name": "Norway",
@@ -346,7 +346,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.45
                 }
               ]
             }
@@ -359,7 +359,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.75
+                  "price": 3.8
                 },
                 {
                   "name": "Norway",
@@ -367,7 +367,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.45
                 }
               ]
             }
@@ -422,15 +422,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.6
+                  "price": 3.85
                 },
                 {
                   "name": "Norway",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.48
+                  "price": 3.4
                 }
               ]
             }
@@ -443,15 +443,15 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.55
+                  "price": 3.6
                 },
                 {
                   "name": "Norway",
-                  "price": 2.15
+                  "price": 2.16
                 },
                 {
                   "name": "Draw",
-                  "price": 3.58
+                  "price": 3.5
                 }
               ]
             }
@@ -464,7 +464,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.45
+                  "price": 3.6
                 },
                 {
                   "name": "Norway",
@@ -472,7 +472,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -485,7 +485,7 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.45
+                  "price": 3.6
                 },
                 {
                   "name": "Norway",
@@ -493,7 +493,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -506,11 +506,11 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Norway",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
@@ -527,34 +527,34 @@
               "outcomes": [
                 {
                   "name": "Ivory Coast",
-                  "price": 3.73
+                  "price": 3.65
                 },
                 {
                   "name": "Norway",
-                  "price": 2.05
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.43
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 3.73,
-      "away_win": 2.05,
-      "draw": 3.5,
+      "home_win": 3.65,
+      "away_win": 2.1,
+      "draw": 3.43,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.87
+          "price": 1.91
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.94
+          "price": 1.91
         }
       ],
       "handicap": [
@@ -572,11 +572,11 @@
     },
     "prediction": {
       "prob_home": 0.26,
-      "prob_draw": 0.27,
-      "prob_away": 0.47,
-      "ev_home": 0.97,
-      "ev_draw": 0.95,
-      "ev_away": 0.96,
+      "prob_draw": 0.28,
+      "prob_away": 0.46,
+      "ev_home": 0.95,
+      "ev_draw": 0.96,
+      "ev_away": 0.97,
       "recommendation": "PASS",
       "best_ev": 0.97
     }
@@ -599,11 +599,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.0
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.25
+                  "price": 6.3
                 }
               ]
             }
@@ -620,11 +620,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 12.0
+                  "price": 11.5
                 },
                 {
                   "name": "Draw",
-                  "price": 6.1
+                  "price": 6.25
                 }
               ]
             }
@@ -641,11 +641,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 6.1
                 }
               ]
             }
@@ -662,11 +662,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 6.1
                 }
               ]
             }
@@ -704,11 +704,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.5
+                  "price": 10.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 5.8
                 }
               ]
             }
@@ -721,7 +721,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.28
+                  "price": 1.29
                 },
                 {
                   "name": "Sweden",
@@ -746,11 +746,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.0
+                  "price": 10.2
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 5.6
                 }
               ]
             }
@@ -784,15 +784,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.27
+                  "price": 1.25
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.0
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.2
+                  "price": 6.0
                 }
               ]
             }
@@ -847,15 +847,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.32
+                  "price": 1.31
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.4
+                  "price": 9.7
                 },
                 {
                   "name": "Draw",
-                  "price": 6.15
+                  "price": 6.25
                 }
               ]
             }
@@ -889,11 +889,11 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.29
+                  "price": 1.25
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Draw",
@@ -914,11 +914,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.5
+                  "price": 5.0
                 }
               ]
             }
@@ -935,7 +935,7 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 12.5
+                  "price": 13.0
                 },
                 {
                   "name": "Draw",
@@ -952,15 +952,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.3
+                  "price": 1.29
                 },
                 {
                   "name": "Sweden",
-                  "price": 11.0
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.2
+                  "price": 6.1
                 }
               ]
             }
@@ -977,11 +977,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 12.0
+                  "price": 13.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.4
+                  "price": 6.2
                 }
               ]
             }
@@ -1015,15 +1015,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.31
+                  "price": 1.29
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.9
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 5.9
                 }
               ]
             }
@@ -1036,15 +1036,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.31
+                  "price": 1.29
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.9
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 5.9
                 }
               ]
             }
@@ -1061,11 +1061,11 @@
                 },
                 {
                   "name": "Sweden",
-                  "price": 10.0
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 5.75
                 }
               ]
             }
@@ -1078,11 +1078,11 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.3
+                  "price": 1.29
                 },
                 {
                   "name": "Sweden",
-                  "price": 9.0
+                  "price": 9.2
                 },
                 {
                   "name": "Draw",
@@ -1121,24 +1121,24 @@
         {
           "name": "Over",
           "line": 3.5,
-          "price": 2.14
+          "price": 2.12
         },
         {
           "name": "Under",
           "line": 3.5,
-          "price": 1.72
+          "price": 1.74
         }
       ],
       "handicap": [
         {
           "name": "France",
           "line": -1.5,
-          "price": 1.77
+          "price": 1.75
         },
         {
           "name": "Sweden",
           "line": 1.5,
-          "price": 2.06
+          "price": 2.09
         }
       ]
     },
