@@ -37,11 +37,11 @@
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.7
+                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.4
                 }
               ]
             }
@@ -142,7 +142,7 @@
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.45
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
@@ -163,7 +163,7 @@
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.47
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
@@ -201,15 +201,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.2
+                  "price": 2.13
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.5
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.4
                 }
               ]
             }
@@ -222,7 +222,7 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Senegal",
@@ -230,7 +230,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.4
                 }
               ]
             }
@@ -251,7 +251,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.35
                 }
               ]
             }
@@ -264,15 +264,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.22
+                  "price": 2.14
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.71
+                  "price": 3.83
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.39
                 }
               ]
             }
@@ -285,11 +285,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.24
+                  "price": 2.2
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.8
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
@@ -306,15 +306,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.15
+                  "price": 2.13
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.64
+                  "price": 3.74
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.46
                 }
               ]
             }
@@ -327,15 +327,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.18
+                  "price": 2.12
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.3
                 }
               ]
             }
@@ -348,15 +348,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.18
+                  "price": 2.12
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.3
                 }
               ]
             }
@@ -369,15 +369,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.17
+                  "price": 2.16
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.67
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.54
+                  "price": 3.48
                 }
               ]
             }
@@ -390,11 +390,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.22
+                  "price": 2.2
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.8
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
@@ -415,11 +415,11 @@
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.4
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.4
                 }
               ]
             }
@@ -432,15 +432,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.1
+                  "price": 2.05
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.4
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.4
                 }
               ]
             }
@@ -453,15 +453,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.18
+                  "price": 2.13
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.76
+                  "price": 3.79
                 },
                 {
                   "name": "Draw",
-                  "price": 3.28
+                  "price": 3.37
                 }
               ]
             }
@@ -474,11 +474,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.6
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
@@ -516,34 +516,34 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 2.18
+                  "price": 2.13
                 },
                 {
                   "name": "Senegal",
-                  "price": 3.76
+                  "price": 3.79
                 },
                 {
                   "name": "Draw",
-                  "price": 3.28
+                  "price": 3.37
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 2.18,
-      "away_win": 3.76,
-      "draw": 3.28,
+      "home_win": 2.13,
+      "away_win": 3.79,
+      "draw": 3.37,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.95
+          "price": 1.92
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.85
+          "price": 1.89
         }
       ],
       "handicap": [
@@ -560,14 +560,14 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.45,
-      "prob_draw": 0.3,
+      "prob_home": 0.46,
+      "prob_draw": 0.29,
       "prob_away": 0.26,
       "ev_home": 0.98,
       "ev_draw": 0.98,
-      "ev_away": 0.98,
+      "ev_away": 0.99,
       "recommendation": "PASS",
-      "best_ev": 0.98
+      "best_ev": 0.99
     }
   },
   {
