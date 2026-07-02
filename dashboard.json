@@ -27,7 +27,7 @@
                 },
                 {
                   "name": "Spain",
-                  "price": 1.32
+                  "price": 1.33
                 },
                 {
                   "name": "Draw",
@@ -44,11 +44,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 11.5
+                  "price": 11.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.34
+                  "price": 1.35
                 },
                 {
                   "name": "Draw",
@@ -90,7 +90,7 @@
                 },
                 {
                   "name": "Spain",
-                  "price": 1.32
+                  "price": 1.33
                 },
                 {
                   "name": "Draw",
@@ -107,11 +107,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 11.5
+                  "price": 11.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.34
+                  "price": 1.35
                 },
                 {
                   "name": "Draw",
@@ -128,15 +128,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.4
+                  "price": 9.8
                 },
                 {
                   "name": "Spain",
-                  "price": 1.33
+                  "price": 1.32
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.4
                 }
               ]
             }
@@ -149,15 +149,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 10.25
+                  "price": 11.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.33
+                  "price": 1.32
                 },
                 {
                   "name": "Draw",
-                  "price": 5.5
+                  "price": 5.4
                 }
               ]
             }
@@ -191,7 +191,7 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.6
+                  "price": 9.7
                 },
                 {
                   "name": "Spain",
@@ -233,7 +233,7 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.51
+                  "price": 10.03
                 },
                 {
                   "name": "Spain",
@@ -254,15 +254,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 10.1
+                  "price": 10.8
                 },
                 {
                   "name": "Spain",
-                  "price": 1.36
+                  "price": 1.34
                 },
                 {
                   "name": "Draw",
-                  "price": 5.45
+                  "price": 5.6
                 }
               ]
             }
@@ -275,11 +275,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.33
+                  "price": 1.32
                 },
                 {
                   "name": "Draw",
@@ -296,11 +296,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.32
+                  "price": 1.31
                 },
                 {
                   "name": "Draw",
@@ -317,11 +317,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.9
+                  "price": 11.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.36
+                  "price": 1.34
                 },
                 {
                   "name": "Draw",
@@ -338,11 +338,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.9
+                  "price": 11.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.36
+                  "price": 1.34
                 },
                 {
                   "name": "Draw",
@@ -380,15 +380,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 12.5
+                  "price": 13.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.5
                 }
               ]
             }
@@ -401,15 +401,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 12.5
+                  "price": 13.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.35
+                  "price": 1.34
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.5
                 }
               ]
             }
@@ -426,11 +426,11 @@
                 },
                 {
                   "name": "Spain",
-                  "price": 1.32
+                  "price": 1.31
                 },
                 {
                   "name": "Draw",
-                  "price": 5.35
+                  "price": 5.4
                 }
               ]
             }
@@ -464,7 +464,7 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.0
+                  "price": 9.5
                 },
                 {
                   "name": "Spain",
@@ -472,7 +472,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 5.0
                 }
               ]
             }
@@ -485,15 +485,15 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 10.35
+                  "price": 11.1
                 },
                 {
                   "name": "Spain",
-                  "price": 1.35
+                  "price": 1.33
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.4
                 }
               ]
             }
@@ -506,11 +506,11 @@
               "outcomes": [
                 {
                   "name": "Austria",
-                  "price": 9.5
+                  "price": 10.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.33
+                  "price": 1.32
                 },
                 {
                   "name": "Draw",
@@ -521,8 +521,8 @@
           ]
         }
       ],
-      "away_win": 9.5,
-      "home_win": 1.33,
+      "away_win": 10.0,
+      "home_win": 1.32,
       "draw": 5.2,
       "over_under": [
         {
@@ -540,12 +540,12 @@
         {
           "name": "Austria",
           "line": 1.5,
-          "price": 1.89
+          "price": 1.91
         },
         {
           "name": "Spain",
           "line": -1.5,
-          "price": 1.92
+          "price": 1.9
         }
       ]
     },
@@ -553,11 +553,11 @@
       "prob_home": 0.72,
       "prob_draw": 0.18,
       "prob_away": 0.1,
-      "ev_home": 0.96,
+      "ev_home": 0.95,
       "ev_draw": 0.94,
-      "ev_away": 0.95,
+      "ev_away": 1.0,
       "recommendation": "PASS",
-      "best_ev": 0.96
+      "best_ev": 1.0
     }
   },
   {
@@ -595,15 +595,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.0
+                  "price": 5.2
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.75
+                  "price": 1.71
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             }
@@ -616,11 +616,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.1
+                  "price": 5.3
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.77
+                  "price": 1.74
                 },
                 {
                   "name": "Draw",
@@ -679,15 +679,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 4.8
+                  "price": 5.0
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.72
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.55
                 }
               ]
             }
@@ -700,11 +700,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.1
+                  "price": 5.3
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.77
+                  "price": 1.74
                 },
                 {
                   "name": "Draw",
@@ -721,11 +721,11 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.45
+                  "price": 5.5
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.69
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
@@ -763,15 +763,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.2
+                  "price": 5.3
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.7
+                  "price": 1.67
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -792,7 +792,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.53
+                  "price": 3.72
                 }
               ]
             }
@@ -805,15 +805,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.1
+                  "price": 5.25
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.74
+                  "price": 1.72
                 },
                 {
                   "name": "Draw",
-                  "price": 3.92
+                  "price": 3.94
                 }
               ]
             }
@@ -826,15 +826,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.1
+                  "price": 5.3
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.77
+                  "price": 1.74
                 },
                 {
                   "name": "Draw",
-                  "price": 3.94
+                  "price": 3.98
                 }
               ]
             }
@@ -847,7 +847,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 4.6
+                  "price": 4.75
                 },
                 {
                   "name": "Portugal",
@@ -889,7 +889,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.15
+                  "price": 5.05
                 },
                 {
                   "name": "Portugal",
@@ -897,7 +897,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -910,7 +910,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.15
+                  "price": 5.05
                 },
                 {
                   "name": "Portugal",
@@ -918,7 +918,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -931,15 +931,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 5.6
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.79
+                  "price": 1.77
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -952,15 +952,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 5.7
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.79
+                  "price": 1.76
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -981,7 +981,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.72
+                  "price": 3.75
                 }
               ]
             }
@@ -1044,7 +1044,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.72
+                  "price": 3.75
                 }
               ]
             }
@@ -1057,24 +1057,24 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.18
+                  "price": 5.33
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.77
+                  "price": 1.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.77
+                  "price": 3.8
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 5.18,
-      "home_win": 1.77,
-      "draw": 3.77,
+      "away_win": 5.33,
+      "home_win": 1.75,
+      "draw": 3.8,
       "over_under": [
         {
           "name": "Over",
@@ -1084,7 +1084,7 @@
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.04
+          "price": 2.05
         }
       ],
       "handicap": [
@@ -1101,14 +1101,14 @@
       ]
     },
     "prediction": {
-      "prob_home": 0.55,
+      "prob_home": 0.56,
       "prob_draw": 0.26,
-      "prob_away": 0.19,
-      "ev_home": 0.97,
-      "ev_draw": 0.98,
-      "ev_away": 0.98,
+      "prob_away": 0.18,
+      "ev_home": 0.98,
+      "ev_draw": 0.99,
+      "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.98
+      "best_ev": 0.99
     }
   }
 ]
