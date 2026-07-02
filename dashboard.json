@@ -23,7 +23,7 @@
     "home": "Portugal",
     "away": "Croatia",
     "fecha": "2026-07-02T23:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {
       "bookmakers": [
         {
@@ -33,7 +33,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 5.7
                 },
                 {
                   "name": "Portugal",
@@ -41,7 +41,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.2
                 }
               ]
             }
@@ -54,15 +54,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 5.4
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.68
+                  "price": 1.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.05
                 }
               ]
             }
@@ -75,15 +75,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.75
+                  "price": 5.8
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.72
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.25
                 }
               ]
             }
@@ -96,7 +96,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.38
+                  "price": 5.25
                 },
                 {
                   "name": "Portugal",
@@ -104,7 +104,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.69
+                  "price": 3.3
                 }
               ]
             }
@@ -117,15 +117,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.4
+                  "price": 5.6
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.68
+                  "price": 1.62
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.1
                 }
               ]
             }
@@ -138,15 +138,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.3
+                  "price": 6.0
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.66
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.3
                 }
               ]
             }
@@ -159,36 +159,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.75
+                  "price": 5.8
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.72
+                  "price": 1.67
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.9
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
+                  "price": 3.25
                 }
               ]
             }
@@ -201,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.75
+                  "price": 6.0
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.69
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.2
                 }
               ]
             }
@@ -222,15 +201,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 6.0
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.67
+                  "price": 1.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.4
                 }
               ]
             }
@@ -243,78 +222,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.9
+                  "price": 6.5
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.72
+                  "price": 1.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.24
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.68
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.78
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.6
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.73
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.72
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.65
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
+                  "price": 3.4
                 }
               ]
             }
@@ -327,36 +243,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 4.6
+                  "price": 5.0
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.67
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 4.6
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.67
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
+                  "price": 3.3
                 }
               ]
             }
@@ -369,15 +264,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.15
+                  "price": 5.95
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.75
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.3
                 }
               ]
             }
@@ -390,15 +285,15 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.15
+                  "price": 5.95
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.75
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.3
                 }
               ]
             }
@@ -411,91 +306,7 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 6.0
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.74
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 6.0
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.73
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.89
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.68
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.74
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.75
-                },
-                {
-                  "name": "Portugal",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Croatia",
-                  "price": 5.4
+                  "price": 7.0
                 },
                 {
                   "name": "Portugal",
@@ -510,13 +321,13 @@
           ]
         },
         {
-          "title": "BetAnything",
+          "title": "Betfair",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.5
+                  "price": 7.2
                 },
                 {
                   "name": "Portugal",
@@ -537,58 +348,58 @@
               "outcomes": [
                 {
                   "name": "Croatia",
-                  "price": 5.85
+                  "price": 6.49
                 },
                 {
                   "name": "Portugal",
-                  "price": 1.74
+                  "price": 1.64
                 },
                 {
                   "name": "Draw",
-                  "price": 3.66
+                  "price": 3.59
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 5.85,
-      "home_win": 1.74,
-      "draw": 3.66,
+      "away_win": 6.49,
+      "home_win": 1.64,
+      "draw": 3.59,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.78
+          "price": 2.38
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.0
+          "price": 1.54
         }
       ],
       "handicap": [
         {
           "name": "Croatia",
-          "line": 1.0,
-          "price": 1.72
+          "line": 0.5,
+          "price": 2.15
         },
         {
           "name": "Portugal",
-          "line": -1.0,
-          "price": 2.13
+          "line": -0.5,
+          "price": 1.65
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.56,
+      "prob_home": 0.58,
       "prob_draw": 0.27,
-      "prob_away": 0.17,
-      "ev_home": 0.97,
-      "ev_draw": 0.99,
-      "ev_away": 0.99,
+      "prob_away": 0.15,
+      "ev_home": 0.95,
+      "ev_draw": 0.97,
+      "ev_away": 0.97,
       "recommendation": "PASS",
-      "best_ev": 0.99
+      "best_ev": 0.97
     }
   }
 ]
