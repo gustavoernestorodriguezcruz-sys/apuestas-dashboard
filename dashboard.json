@@ -1,42 +1,1114 @@
 [
   {
-    "home": "Mexico",
-    "away": "Ecuador",
-    "fecha": "2026-07-01T01:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "England",
-    "away": "Congo DR",
-    "fecha": "2026-07-01T16:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Belgium",
-    "away": "Senegal",
-    "fecha": "2026-07-01T20:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "United States",
     "away": "Bosnia-Herzegovina",
     "fecha": "2026-07-02T00:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Spain",
+    "away": "Austria",
+    "fecha": "2026-07-02T19:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.5
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.33
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 12.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.33
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.8
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.5
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.31
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.7
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.33
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.51
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.1
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.31
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 11.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 12.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 12.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.5
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 9.5
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.2
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Austria",
+                  "price": 10.0
+                },
+                {
+                  "name": "Spain",
+                  "price": 1.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 10.0,
+      "home_win": 1.32,
+      "draw": 5.2,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.74
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.94
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Austria",
+          "line": 1.5,
+          "price": 1.88
+        },
+        {
+          "name": "Spain",
+          "line": -1.5,
+          "price": 1.93
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.72,
+      "prob_draw": 0.18,
+      "prob_away": 0.1,
+      "ev_home": 0.95,
+      "ev_draw": 0.94,
+      "ev_away": 1.0,
+      "recommendation": "PASS",
+      "best_ev": 1.0
+    }
+  },
+  {
+    "home": "Portugal",
+    "away": "Croatia",
+    "fecha": "2026-07-02T23:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.7
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.1
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.3
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.78
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.8
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.6
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.0
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.73
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.3
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.78
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.4
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.1
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.73
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.2
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.87
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.78
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.53
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.3
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.35
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.76
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.84
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.8
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.8
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.85
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.85
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.4
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.4
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.15
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.77
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.0
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.73
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 4.9
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.77
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.15
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.77
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Croatia",
+                  "price": 5.21
+                },
+                {
+                  "name": "Portugal",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.71
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 5.21,
+      "home_win": 1.74,
+      "draw": 3.71,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.96
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.8
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Croatia",
+          "line": 0.5,
+          "price": 2.08
+        },
+        {
+          "name": "Portugal",
+          "line": -0.5,
+          "price": 1.76
+        }
+      ]
+    },
+    "prediction": {
+      "prob_home": 0.55,
+      "prob_draw": 0.26,
+      "prob_away": 0.19,
+      "ev_home": 0.96,
+      "ev_draw": 0.96,
+      "ev_away": 0.99,
+      "recommendation": "PASS",
+      "best_ev": 0.99
     }
   }
 ]
