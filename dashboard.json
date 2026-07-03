@@ -3,155 +3,24 @@
     "home": "Switzerland",
     "away": "Algeria",
     "fecha": "2026-07-03T03:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {
       "bookmakers": [
         {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.4
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.89
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.6
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.3
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.87
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.6
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.3
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.75
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.18
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betclic (FR)",
@@ -160,120 +29,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.4
+                  "price": 100.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.98
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.1
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.58
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.34
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.33
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.18
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.4
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
+                  "price": 100.0
                 }
               ]
             }
@@ -286,15 +50,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.3
+                  "price": 1000.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.96
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 150.0
                 }
               ]
             }
@@ -307,15 +71,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.2
+                  "price": 1000.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.94
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 190.0
                 }
               ]
             }
@@ -328,15 +92,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.3
+                  "price": 34.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.98
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 29.0
                 }
               ]
             }
@@ -349,57 +113,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.3
+                  "price": 34.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.98
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.4
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.7
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
+                  "price": 29.0
                 }
               ]
             }
@@ -412,15 +134,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 4.6
+                  "price": 1000.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 2.06
+                  "price": 1.01
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 60.0
                 }
               ]
             }
@@ -433,57 +155,15 @@
               "outcomes": [
                 {
                   "name": "Algeria",
-                  "price": 3.75
+                  "price": 151.0
                 },
                 {
                   "name": "Switzerland",
-                  "price": 1.95
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 3.8
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.48
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.01
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.24
+                  "price": 61.0
                 }
               ]
             }
@@ -491,84 +171,46 @@
         },
         {
           "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.48
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.27
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Algeria",
-                  "price": 4.5
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
+          "markets": []
         }
       ],
-      "away_win": 4.5,
-      "home_win": 2.0,
-      "draw": 3.25,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.14
+          "price": 8.5
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.68
+          "price": 1.05
         }
       ],
+      "away_win": 151.0,
+      "home_win": 1.0,
+      "draw": 61.0,
       "handicap": [
         {
           "name": "Algeria",
-          "line": 0.5,
-          "price": 1.85
+          "line": -0.0,
+          "price": 2.16
         },
         {
           "name": "Switzerland",
-          "line": -0.5,
-          "price": 1.96
+          "line": 0.0,
+          "price": 1.76
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.49,
-      "prob_draw": 0.3,
-      "prob_away": 0.22,
+      "prob_home": 0.98,
+      "prob_draw": 0.02,
+      "prob_away": 0.01,
       "ev_home": 0.98,
-      "ev_draw": 0.97,
-      "ev_away": 0.99,
-      "recommendation": "PASS",
-      "best_ev": 0.99
+      "ev_draw": 1.22,
+      "ev_away": 1.51,
+      "recommendation": "away",
+      "best_ev": 1.51
     }
   },
   {
@@ -585,15 +227,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.55
+                  "price": 3.7
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.55
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
+                  "price": 2.85
                 }
               ]
             }
@@ -606,11 +248,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.45
+                  "price": 3.6
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.48
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
@@ -627,11 +269,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.35
+                  "price": 3.5
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.43
+                  "price": 2.38
                 },
                 {
                   "name": "Draw",
@@ -648,15 +290,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.55
+                  "price": 3.7
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.55
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
+                  "price": 2.85
                 }
               ]
             }
@@ -669,36 +311,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.55
+                  "price": 3.75
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.35
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Australia",
-                  "price": 3.5
-                },
-                {
-                  "name": "Egypt",
-                  "price": 2.53
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.93
+                  "price": 2.95
                 }
               ]
             }
@@ -711,15 +332,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.4
+                  "price": 3.6
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.43
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 2.97
+                  "price": 2.9
                 }
               ]
             }
@@ -732,15 +353,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.35
+                  "price": 3.5
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.49
+                  "price": 2.41
                 },
                 {
                   "name": "Draw",
-                  "price": 2.9
+                  "price": 2.85
                 }
               ]
             }
@@ -753,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.3
+                  "price": 3.48
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.46
+                  "price": 2.39
                 },
                 {
                   "name": "Draw",
-                  "price": 2.85
+                  "price": 2.82
                 }
               ]
             }
@@ -774,7 +395,7 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Egypt",
@@ -782,7 +403,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 2.9
+                  "price": 2.8
                 }
               ]
             }
@@ -795,15 +416,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.3
+                  "price": 3.4
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.4
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 2.85
+                  "price": 2.9
                 }
               ]
             }
@@ -816,11 +437,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.3
+                  "price": 3.45
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.45
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
@@ -837,15 +458,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.38
+                  "price": 3.6
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.48
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 2.99
+                  "price": 3.02
                 }
               ]
             }
@@ -858,7 +479,7 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.32
+                  "price": 3.52
                 },
                 {
                   "name": "Egypt",
@@ -879,15 +500,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.6
+                  "price": 3.75
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.56
+                  "price": 2.54
                 },
                 {
                   "name": "Draw",
-                  "price": 2.98
+                  "price": 2.94
                 }
               ]
             }
@@ -900,15 +521,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.6
+                  "price": 3.75
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.56
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
-                  "price": 2.98
+                  "price": 2.94
                 }
               ]
             }
@@ -921,15 +542,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.42
+                  "price": 3.68
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.53
+                  "price": 2.42
                 },
                 {
                   "name": "Draw",
-                  "price": 2.89
+                  "price": 2.88
                 }
               ]
             }
@@ -942,15 +563,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.35
+                  "price": 3.55
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.52
+                  "price": 2.45
                 },
                 {
                   "name": "Draw",
-                  "price": 2.92
+                  "price": 2.9
                 }
               ]
             }
@@ -963,15 +584,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.35
+                  "price": 3.55
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.52
+                  "price": 2.45
                 },
                 {
                   "name": "Draw",
-                  "price": 2.92
+                  "price": 2.9
                 }
               ]
             }
@@ -984,15 +605,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.41
+                  "price": 3.63
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.54
+                  "price": 2.42
                 },
                 {
                   "name": "Draw",
-                  "price": 3.04
+                  "price": 3.05
                 }
               ]
             }
@@ -1005,11 +626,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.1
+                  "price": 3.3
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.4
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -1026,11 +647,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.4
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -1047,15 +668,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.35
+                  "price": 3.65
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.5
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 2.8
+                  "price": 2.85
                 }
               ]
             }
@@ -1068,15 +689,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.43
+                  "price": 3.65
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.55
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 2.85
+                  "price": 2.83
                 }
               ]
             }
@@ -1089,24 +710,24 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.43
+                  "price": 3.65
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.55
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 2.85
+                  "price": 2.83
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 3.43,
-      "away_win": 2.55,
-      "draw": 2.85,
+      "home_win": 3.65,
+      "away_win": 2.48,
+      "draw": 2.83,
       "over_under": [
         {
           "name": "Over",
@@ -1116,31 +737,31 @@
         {
           "name": "Under",
           "line": 1.5,
-          "price": 2.38
+          "price": 2.35
         }
       ],
       "handicap": [
         {
           "name": "Australia",
           "line": 0.0,
-          "price": 2.22
+          "price": 2.33
         },
         {
           "name": "Egypt",
           "line": 0.0,
-          "price": 1.67
+          "price": 1.61
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.28,
+      "prob_home": 0.27,
       "prob_draw": 0.34,
-      "prob_away": 0.38,
-      "ev_home": 0.96,
-      "ev_draw": 0.97,
+      "prob_away": 0.39,
+      "ev_home": 0.99,
+      "ev_draw": 0.96,
       "ev_away": 0.97,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.99
     }
   },
   {
