@@ -23,7 +23,7 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Egypt",
@@ -31,7 +31,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 2.95
+                  "price": 2.9
                 }
               ]
             }
@@ -44,7 +44,7 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.6
+                  "price": 3.65
                 },
                 {
                   "name": "Egypt",
@@ -52,7 +52,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
+                  "price": 2.85
                 }
               ]
             }
@@ -65,11 +65,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.5
+                  "price": 3.55
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.32
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -86,7 +86,7 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.7
+                  "price": 3.75
                 },
                 {
                   "name": "Egypt",
@@ -94,7 +94,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 2.95
+                  "price": 2.9
                 }
               ]
             }
@@ -116,27 +116,6 @@
                 {
                   "name": "Draw",
                   "price": 2.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Australia",
-                  "price": 3.78
-                },
-                {
-                  "name": "Egypt",
-                  "price": 2.42
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.9
                 }
               ]
             }
@@ -170,11 +149,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.41
+                  "price": 2.38
                 },
                 {
                   "name": "Draw",
@@ -195,11 +174,11 @@
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.39
+                  "price": 2.31
                 },
                 {
                   "name": "Draw",
-                  "price": 2.82
+                  "price": 2.94
                 }
               ]
             }
@@ -275,15 +254,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.72
+                  "price": 3.62
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.41
+                  "price": 2.36
                 },
                 {
                   "name": "Draw",
-                  "price": 2.92
+                  "price": 2.86
                 }
               ]
             }
@@ -296,15 +275,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.52
+                  "price": 3.58
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.47
+                  "price": 2.37
                 },
                 {
                   "name": "Draw",
-                  "price": 2.9
+                  "price": 2.86
                 }
               ]
             }
@@ -317,15 +296,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.85
+                  "price": 3.8
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.46
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 2.96
+                  "price": 2.94
                 }
               ]
             }
@@ -338,15 +317,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.85
+                  "price": 3.8
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.46
+                  "price": 2.5
                 },
                 {
                   "name": "Draw",
-                  "price": 2.98
+                  "price": 2.94
                 }
               ]
             }
@@ -359,11 +338,11 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.79
+                  "price": 3.76
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.42
+                  "price": 2.43
                 },
                 {
                   "name": "Draw",
@@ -422,15 +401,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.73
+                  "price": 3.74
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.41
+                  "price": 2.44
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
+                  "price": 2.96
                 }
               ]
             }
@@ -506,15 +485,15 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.8
+                  "price": 3.81
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.38
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
+                  "price": 2.85
                 }
               ]
             }
@@ -527,29 +506,29 @@
               "outcomes": [
                 {
                   "name": "Australia",
-                  "price": 3.8
+                  "price": 3.79
                 },
                 {
                   "name": "Egypt",
-                  "price": 2.38
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
+                  "price": 2.86
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 3.8,
-      "away_win": 2.38,
-      "draw": 2.88,
+      "home_win": 3.79,
+      "away_win": 2.4,
+      "draw": 2.86,
       "over_under": [
         {
           "name": "Over",
           "line": 1.5,
-          "price": 1.53
+          "price": 1.54
         },
         {
           "name": "Under",
@@ -560,23 +539,23 @@
       "handicap": [
         {
           "name": "Australia",
-          "line": 0.0,
-          "price": 2.33
+          "line": 0.5,
+          "price": 1.63
         },
         {
           "name": "Egypt",
-          "line": 0.0,
-          "price": 1.61
+          "line": -0.5,
+          "price": 2.29
         }
       ]
     },
     "prediction": {
       "prob_home": 0.26,
       "prob_draw": 0.34,
-      "prob_away": 0.41,
+      "prob_away": 0.4,
       "ev_home": 0.99,
-      "ev_draw": 0.98,
-      "ev_away": 0.98,
+      "ev_draw": 0.97,
+      "ev_away": 0.96,
       "recommendation": "PASS",
       "best_ev": 0.99
     }
