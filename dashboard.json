@@ -23,71 +23,16 @@
     "home": "Paraguay",
     "away": "France",
     "fecha": "2026-07-04T21:00:00Z",
-    "estado": "paused",
+    "estado": "finished",
     "odds": {
       "bookmakers": [
         {
           "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.34
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.34
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.28
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Unibet (SE)",
@@ -96,15 +41,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.34
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 14.0
+                  "price": 251.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 17.0
                 }
               ]
             }
@@ -117,15 +62,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.35
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 14.75
+                  "price": 12.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 10.25
                 }
               ]
             }
@@ -133,24 +78,7 @@
         },
         {
           "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.34
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 18.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.93
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Winamax (FR)",
@@ -159,15 +87,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.31
+                  "price": 1.0
                 },
                 {
                   "name": "Paraguay",
-                  "price": 12.5
+                  "price": 500.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 29.0
                 }
               ]
             }
@@ -180,15 +108,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.35
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 13.0
+                  "price": 450.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 26.0
                 }
               ]
             }
@@ -201,15 +129,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.35
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 14.0
+                  "price": 400.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 20.0
                 }
               ]
             }
@@ -217,24 +145,7 @@
         },
         {
           "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.39
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 23.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
+          "markets": []
         },
         {
           "title": "Betfair",
@@ -243,15 +154,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.38
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 22.0
+                  "price": 1000.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 90.0
                 }
               ]
             }
@@ -264,15 +175,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.36
+                  "price": 1.0
                 },
                 {
                   "name": "Paraguay",
-                  "price": 15.0
+                  "price": 126.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 17.0
                 }
               ]
             }
@@ -285,15 +196,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.36
+                  "price": 1.0
                 },
                 {
                   "name": "Paraguay",
-                  "price": 15.0
+                  "price": 126.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 17.0
                 }
               ]
             }
@@ -306,79 +217,58 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.25
+                  "price": 1.01
                 },
                 {
                   "name": "Paraguay",
-                  "price": 13.0
+                  "price": 151.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.4
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 14.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.05
+                  "price": 29.0
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.4,
-      "home_win": 14.75,
-      "draw": 4.05,
       "over_under": [
         {
           "name": "Over",
           "line": 1.5,
-          "price": 1.7
+          "price": 5.0
         },
         {
           "name": "Under",
           "line": 1.5,
-          "price": 2.07
+          "price": 1.11
         }
       ],
+      "away_win": 1.01,
+      "home_win": 151.0,
+      "draw": 29.0,
       "handicap": [
         {
           "name": "France",
-          "line": -1.5,
-          "price": 2.25
+          "line": -0.25,
+          "price": 2.32
         },
         {
           "name": "Paraguay",
-          "line": 1.5,
-          "price": 1.6
+          "line": 0.25,
+          "price": 1.65
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.07,
-      "prob_draw": 0.24,
-      "prob_away": 0.69,
-      "ev_home": 1.03,
-      "ev_draw": 0.97,
+      "prob_home": 0.01,
+      "prob_draw": 0.03,
+      "prob_away": 0.96,
+      "ev_home": 1.51,
+      "ev_draw": 0.87,
       "ev_away": 0.97,
       "recommendation": "home",
-      "best_ev": 1.03
+      "best_ev": 1.51
     }
   }
 ]
