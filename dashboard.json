@@ -13,362 +13,10 @@
     "home": "Canada",
     "away": "Morocco",
     "fecha": "2026-07-04T17:00:00Z",
-    "estado": "inplay",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 23.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 23.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 21.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 21.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 29.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 20.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.27
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 25.29
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.28
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.36
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 11.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 20.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.27
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 36.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.31
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 26.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.34
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 24.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 18.5
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.29
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 19.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Canada",
-                  "price": 39.0
-                },
-                {
-                  "name": "Morocco",
-                  "price": 1.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.35
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 39.0,
-      "away_win": 1.3,
-      "draw": 4.35,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 1.5,
-          "price": 1.82
-        },
-        {
-          "name": "Under",
-          "line": 1.5,
-          "price": 1.82
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Canada",
-          "line": 0.0,
-          "price": 1.94
-        },
-        {
-          "name": "Morocco",
-          "line": -0.0,
-          "price": 1.96
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.03,
-      "prob_draw": 0.22,
-      "prob_away": 0.75,
-      "ev_home": 1.17,
-      "ev_draw": 0.96,
-      "ev_away": 0.98,
-      "recommendation": "home",
-      "best_ev": 1.17
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -385,7 +33,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.21
                 },
                 {
                   "name": "Paraguay",
@@ -393,7 +41,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 7.0
                 }
               ]
             }
@@ -406,15 +54,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Paraguay",
-                  "price": 16.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 6.5
                 }
               ]
             }
@@ -427,15 +75,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.17
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
-                  "price": 17.0
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 6.75
                 }
               ]
             }
@@ -448,7 +96,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.21
                 },
                 {
                   "name": "Paraguay",
@@ -456,7 +104,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 7.0
                 }
               ]
             }
@@ -490,7 +138,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.22
+                  "price": 1.21
                 },
                 {
                   "name": "Paraguay",
@@ -498,7 +146,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 7.75
                 }
               ]
             }
@@ -511,7 +159,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Paraguay",
@@ -519,7 +167,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.7
+                  "price": 7.25
                 }
               ]
             }
@@ -536,11 +184,11 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 14.25
+                  "price": 14.5
                 },
                 {
                   "name": "Draw",
-                  "price": 6.95
+                  "price": 7.0
                 }
               ]
             }
@@ -553,15 +201,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
-                  "price": 19.0
+                  "price": 14.4
                 },
                 {
                   "name": "Draw",
-                  "price": 6.2
+                  "price": 6.53
                 }
               ]
             }
@@ -574,7 +222,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.19
+                  "price": 1.2
                 },
                 {
                   "name": "Paraguay",
@@ -582,7 +230,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.45
+                  "price": 7.15
                 }
               ]
             }
@@ -595,11 +243,11 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.17
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
@@ -616,15 +264,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.25
+                  "price": 7.0
                 }
               ]
             }
@@ -637,15 +285,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Paraguay",
-                  "price": 18.0
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.2
+                  "price": 7.0
                 }
               ]
             }
@@ -662,11 +310,11 @@
                 },
                 {
                   "name": "Paraguay",
-                  "price": 24.0
+                  "price": 22.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 7.2
                 }
               ]
             }
@@ -679,15 +327,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.2
+                  "price": 1.21
                 },
                 {
                   "name": "Paraguay",
-                  "price": 25.0
+                  "price": 22.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.6
+                  "price": 7.4
                 }
               ]
             }
@@ -700,15 +348,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.21
+                  "price": 1.22
                 },
                 {
                   "name": "Paraguay",
-                  "price": 17.0
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 6.4
                 }
               ]
             }
@@ -721,15 +369,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.21
+                  "price": 1.22
                 },
                 {
                   "name": "Paraguay",
-                  "price": 17.0
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 6.4
                 }
               ]
             }
@@ -784,7 +432,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
@@ -792,7 +440,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.45
+                  "price": 7.05
                 }
               ]
             }
@@ -813,7 +461,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.8
+                  "price": 6.6
                 }
               ]
             }
@@ -834,28 +482,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "France",
-                  "price": 1.19
-                },
-                {
-                  "name": "Paraguay",
-                  "price": 20.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
+                  "price": 6.75
                 }
               ]
             }
@@ -868,7 +495,7 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 1.18
+                  "price": 1.19
                 },
                 {
                   "name": "Paraguay",
@@ -876,26 +503,26 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.45
+                  "price": 7.05
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 1.18,
+      "away_win": 1.19,
       "home_win": 19.5,
-      "draw": 7.45,
+      "draw": 7.05,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.57
+          "price": 1.63
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.3
+          "price": 2.23
         }
       ],
       "handicap": [
@@ -913,13 +540,13 @@
     },
     "prediction": {
       "prob_home": 0.05,
-      "prob_draw": 0.13,
-      "prob_away": 0.82,
+      "prob_draw": 0.14,
+      "prob_away": 0.81,
       "ev_home": 0.98,
-      "ev_draw": 0.97,
-      "ev_away": 0.97,
+      "ev_draw": 0.99,
+      "ev_away": 0.96,
       "recommendation": "PASS",
-      "best_ev": 0.98
+      "best_ev": 0.99
     }
   }
 ]
