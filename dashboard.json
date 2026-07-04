@@ -1,32 +1,1655 @@
 [
   {
-    "home": "Switzerland",
-    "away": "Algeria",
-    "fecha": "2026-07-03T03:00:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Colombia",
+    "away": "Ghana",
+    "fecha": "2026-07-04T01:30:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.42
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 9.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.38
+                },
+                {
+                  "name": "Ghana",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.4
+                },
+                {
+                  "name": "Ghana",
+                  "price": 9.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.4
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.4
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 9.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.45
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.42
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.42
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.42
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.11
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.33
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.48
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.58
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.4
+                },
+                {
+                  "name": "Ghana",
+                  "price": 7.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.44
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.46
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.46
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.47
+                },
+                {
+                  "name": "Ghana",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.46
+                },
+                {
+                  "name": "Ghana",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.45
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 9.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.41
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.45
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Colombia",
+                  "price": 1.43
+                },
+                {
+                  "name": "Ghana",
+                  "price": 8.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 1.43,
+      "away_win": 8.65,
+      "draw": 4.25,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.97
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.79
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Colombia",
+          "line": -1.0,
+          "price": 1.71
+        },
+        {
+          "name": "Ghana",
+          "line": 1.0,
+          "price": 2.15
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.67,
+      "prob_draw": 0.22,
+      "prob_away": 0.11,
+      "ev_home": 0.96,
+      "ev_draw": 0.94,
+      "ev_away": 0.95,
+      "recommendation": "PASS",
+      "best_ev": 0.96
     }
   },
   {
-    "home": "Australia",
-    "away": "Egypt",
-    "fecha": "2026-07-03T18:00:00Z",
-    "estado": "finished",
-    "odds": {},
+    "home": "Canada",
+    "away": "Morocco",
+    "fecha": "2026-07-04T17:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.7
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.81
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 5.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.8
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.83
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 5.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.85
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.53
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.4
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.86
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.3
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.86
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 5.1
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.81
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.6
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.86
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.52
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.6
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.84
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.5
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.87
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.47
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.46
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.45
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 5.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 5.0
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.96
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.7
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.7
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.81
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.33
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.4
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.5
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.91
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.8
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "Canada",
+                  "price": 4.8
+                },
+                {
+                  "name": "Morocco",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "home_win": 4.8,
+      "away_win": 1.88,
+      "draw": 3.35,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 2.2
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.57
+        }
+      ],
+      "handicap": [
+        {
+          "name": "Canada",
+          "line": 0.5,
+          "price": 1.96
+        },
+        {
+          "name": "Morocco",
+          "line": -0.5,
+          "price": 1.94
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.2,
+      "prob_draw": 0.29,
+      "prob_away": 0.51,
+      "ev_home": 0.96,
+      "ev_draw": 0.97,
+      "ev_away": 0.96,
+      "recommendation": "PASS",
+      "best_ev": 0.97
     }
   },
   {
-    "home": "Argentina",
-    "away": "Cape Verde Islands",
-    "fecha": "2026-07-03T22:00:00Z",
-    "estado": "inplay",
-    "odds": {},
+    "home": "Paraguay",
+    "away": "France",
+    "fecha": "2026-07-04T21:00:00Z",
+    "estado": "timed",
+    "odds": {
+      "bookmakers": [
+        {
+          "title": "Unibet (NL)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.18
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PMU (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.15
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 18.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "LeoVegas (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.17
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 19.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (SE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.18
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "GTbets",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 14.66
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.78
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "1xBet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.21
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Unibet (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betclic (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 16.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Marathon Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 15.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "MyBookie.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.11
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 26.84
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Pinnacle",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.31
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (FR)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 14.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Winamax (DE)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 14.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tipico",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.17
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 18.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Matchbook",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.2
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 24.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betfair",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.2
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 24.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Nordic Bet",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.21
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Betsson",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.21
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 20.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "888sport",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.18
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 13.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "William Hill",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.18
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 15.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetOnline.ag",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.2
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Codere (IT)",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.19
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 15.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Everygame",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.18
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "France",
+                  "price": 1.2
+                },
+                {
+                  "name": "Paraguay",
+                  "price": 17.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.1
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "away_win": 1.2,
+      "home_win": 17.0,
+      "draw": 7.1,
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 1.63
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 2.23
+        }
+      ],
+      "handicap": [
+        {
+          "name": "France",
+          "line": -1.5,
+          "price": 1.65
+        },
+        {
+          "name": "Paraguay",
+          "line": 1.5,
+          "price": 2.25
+        }
+      ]
+    },
     "prediction": {
-      "recommendation": "⚠️ Sin datos"
+      "prob_home": 0.06,
+      "prob_draw": 0.14,
+      "prob_away": 0.81,
+      "ev_home": 1.02,
+      "ev_draw": 0.99,
+      "ev_away": 0.97,
+      "recommendation": "home",
+      "best_ev": 1.02
     }
   }
 ]
