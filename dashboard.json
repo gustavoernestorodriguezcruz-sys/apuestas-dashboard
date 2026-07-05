@@ -13,11 +13,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.77
+                  "price": 1.75
                 },
                 {
                   "name": "Norway",
-                  "price": 4.5
+                  "price": 4.6
                 },
                 {
                   "name": "Draw",
@@ -38,11 +38,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.4
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.55
                 }
               ]
             }
@@ -59,11 +59,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -80,11 +80,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -97,15 +97,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.79
+                  "price": 1.78
                 },
                 {
                   "name": "Norway",
-                  "price": 4.6
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.6
                 }
               ]
             }
@@ -118,15 +118,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.82
+                  "price": 1.77
                 },
                 {
                   "name": "Norway",
-                  "price": 4.45
+                  "price": 4.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.68
+                  "price": 3.75
                 }
               ]
             }
@@ -139,15 +139,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.76
+                  "price": 1.75
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.8
                 }
               ]
             }
@@ -160,11 +160,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.83
+                  "price": 1.78
                 },
                 {
                   "name": "Norway",
-                  "price": 4.2
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
@@ -181,15 +181,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.88
+                  "price": 1.82
                 },
                 {
                   "name": "Norway",
-                  "price": 4.54
+                  "price": 4.79
                 },
                 {
                   "name": "Draw",
-                  "price": 3.81
+                  "price": 3.87
                 }
               ]
             }
@@ -202,11 +202,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.82
+                  "price": 1.77
                 },
                 {
                   "name": "Norway",
-                  "price": 4.2
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
@@ -223,15 +223,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.8
+                  "price": 1.75
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.5
                 }
               ]
             }
@@ -244,11 +244,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.85
+                  "price": 1.8
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
@@ -265,15 +265,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.88
+                  "price": 1.85
                 },
                 {
                   "name": "Norway",
-                  "price": 4.9
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.85
                 }
               ]
             }
@@ -286,15 +286,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.88
+                  "price": 1.84
                 },
                 {
                   "name": "Norway",
-                  "price": 4.8
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -328,15 +328,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.82
+                  "price": 1.77
                 },
                 {
                   "name": "Norway",
-                  "price": 4.51
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.76
+                  "price": 3.8
                 }
               ]
             }
@@ -349,11 +349,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.8
+                  "price": 1.76
                 },
                 {
                   "name": "Norway",
-                  "price": 4.2
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
@@ -370,11 +370,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.78
+                  "price": 1.74
                 },
                 {
                   "name": "Norway",
-                  "price": 4.2
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
@@ -391,11 +391,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.88
+                  "price": 1.85
                 },
                 {
                   "name": "Norway",
-                  "price": 4.4
+                  "price": 4.55
                 },
                 {
                   "name": "Draw",
@@ -412,11 +412,11 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.88
+                  "price": 1.85
                 },
                 {
                   "name": "Norway",
-                  "price": 4.4
+                  "price": 4.55
                 },
                 {
                   "name": "Draw",
@@ -433,15 +433,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.82
+                  "price": 1.81
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.73
                 }
               ]
             }
@@ -454,15 +454,15 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.82
+                  "price": 1.81
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.73
                 }
               ]
             }
@@ -475,45 +475,24 @@
               "outcomes": [
                 {
                   "name": "Brazil",
-                  "price": 1.8
+                  "price": 1.75
                 },
                 {
                   "name": "Norway",
-                  "price": 4.4
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Brazil",
-                  "price": 1.88
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
+                  "price": 3.65
                 }
               ]
             }
           ]
         }
       ],
-      "home_win": 1.88,
-      "away_win": 4.5,
-      "draw": 3.75,
+      "home_win": 1.75,
+      "away_win": 4.75,
+      "draw": 3.65,
       "over_under": [
         {
           "name": "Over",
@@ -530,24 +509,24 @@
         {
           "name": "Brazil",
           "line": -1.5,
-          "price": 3.24
+          "price": 3.1
         },
         {
           "name": "Norway",
           "line": 1.5,
-          "price": 1.37
+          "price": 1.4
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.52,
+      "prob_home": 0.54,
       "prob_draw": 0.26,
-      "prob_away": 0.22,
-      "ev_home": 0.98,
-      "ev_draw": 0.98,
-      "ev_away": 0.99,
+      "prob_away": 0.2,
+      "ev_home": 0.95,
+      "ev_draw": 0.95,
+      "ev_away": 0.95,
       "recommendation": "PASS",
-      "best_ev": 0.99
+      "best_ev": 0.95
     }
   },
   {
@@ -585,15 +564,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.52
+                  "price": 2.5
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.19
+                  "price": 3.23
                 },
                 {
                   "name": "Draw",
-                  "price": 3.27
+                  "price": 3.28
                 }
               ]
             }
@@ -606,11 +585,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.44
+                  "price": 2.42
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.1
+                  "price": 3.12
                 },
                 {
                   "name": "Draw",
@@ -690,11 +669,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.35
+                  "price": 2.3
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
@@ -711,15 +690,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.41
+                  "price": 2.4
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.22
+                  "price": 3.21
                 },
                 {
                   "name": "Draw",
-                  "price": 3.26
+                  "price": 3.27
                 }
               ]
             }
@@ -858,7 +837,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.5
+                  "price": 2.46
                 },
                 {
                   "name": "Mexico",
@@ -879,15 +858,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.38
+                  "price": 2.39
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.1
+                  "price": 3.07
                 },
                 {
                   "name": "Draw",
-                  "price": 3.16
+                  "price": 3.18
                 }
               ]
             }
@@ -921,11 +900,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.5
+                  "price": 2.46
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.35
+                  "price": 3.4
                 },
                 {
                   "name": "Draw",
@@ -942,7 +921,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.42
+                  "price": 2.45
                 },
                 {
                   "name": "Mexico",
@@ -963,7 +942,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.42
+                  "price": 2.45
                 },
                 {
                   "name": "Mexico",
@@ -984,15 +963,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.46
+                  "price": 2.49
                 },
                 {
                   "name": "Mexico",
-                  "price": 3.17
+                  "price": 3.13
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.24
                 }
               ]
             }
@@ -1000,48 +979,6 @@
         },
         {
           "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.35
-                },
-                {
-                  "name": "Mexico",
-                  "price": 3.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.45
-                },
-                {
-                  "name": "Mexico",
-                  "price": 3.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.27
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
           "markets": [
             {
               "outcomes": [
@@ -1060,16 +997,37 @@
               ]
             }
           ]
+        },
+        {
+          "title": "BetAnything",
+          "markets": [
+            {
+              "outcomes": [
+                {
+                  "name": "England",
+                  "price": 2.4
+                },
+                {
+                  "name": "Mexico",
+                  "price": 3.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
         }
       ],
       "away_win": 2.4,
-      "home_win": 3.15,
+      "home_win": 3.1,
       "draw": 3.2,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.35
+          "price": 2.38
         },
         {
           "name": "Under",
@@ -1081,20 +1039,20 @@
         {
           "name": "England",
           "line": 0.0,
-          "price": 1.73
+          "price": 1.72
         },
         {
           "name": "Mexico",
           "line": 0.0,
-          "price": 2.19
+          "price": 2.2
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.3,
+      "prob_home": 0.31,
       "prob_draw": 0.3,
       "prob_away": 0.4,
-      "ev_home": 0.94,
+      "ev_home": 0.96,
       "ev_draw": 0.96,
       "ev_away": 0.96,
       "recommendation": "PASS",
