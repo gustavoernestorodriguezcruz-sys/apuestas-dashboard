@@ -23,7 +23,7 @@
     "home": "Switzerland",
     "away": "Colombia",
     "fecha": "2026-07-07T20:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {
       "bookmakers": [
         {
@@ -33,15 +33,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.25
+                  "price": 2.2
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.65
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 2.6
                 }
               ]
             }
@@ -54,15 +54,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.25
+                  "price": 2.4
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.5
+                  "price": 3.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.7
                 }
               ]
             }
@@ -75,15 +75,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.33
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.6
+                  "price": 3.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.75
                 }
               ]
             }
@@ -96,15 +96,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.33
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.75
+                  "price": 3.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.75
                 }
               ]
             }
@@ -117,36 +117,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.33
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.75
+                  "price": 3.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.29
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.54
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.04
+                  "price": 2.75
                 }
               ]
             }
@@ -159,57 +138,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.25
+                  "price": 2.45
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.65
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.26
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.15
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
+                  "price": 2.5
                 }
               ]
             }
@@ -222,36 +159,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.2
+                  "price": 2.4
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.5
+                  "price": 3.45
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.31
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.13
+                  "price": 2.55
                 }
               ]
             }
@@ -264,7 +180,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.25
+                  "price": 2.45
                 },
                 {
                   "name": "Switzerland",
@@ -272,7 +188,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 2.5
                 }
               ]
             }
@@ -285,36 +201,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.2
+                  "price": 2.4
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.5
+                  "price": 3.45
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.36
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.13
+                  "price": 2.45
                 }
               ]
             }
@@ -327,15 +222,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.38
+                  "price": 2.54
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.8
+                  "price": 4.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 2.8
                 }
               ]
             }
@@ -348,57 +243,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.34
+                  "price": 2.43
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.69
+                  "price": 3.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.09
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.32
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.33
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.61
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.09
+                  "price": 2.79
                 }
               ]
             }
@@ -411,15 +264,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.45
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.65
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.68
                 }
               ]
             }
@@ -432,15 +285,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.45
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.65
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.68
                 }
               ]
             }
@@ -453,15 +306,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.38
+                  "price": 2.52
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.75
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 2.84
                 }
               ]
             }
@@ -478,74 +331,11 @@
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.3
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
                   "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.25
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 2.3
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
+                  "price": 2.88
                 }
               ]
             }
@@ -553,42 +343,42 @@
         }
       ],
       "away_win": 2.3,
-      "home_win": 3.5,
-      "draw": 3.05,
+      "home_win": 3.0,
+      "draw": 2.88,
       "over_under": [
         {
           "name": "Over",
-          "line": 2.5,
-          "price": 2.2
+          "line": 1.5,
+          "price": 1.64
         },
         {
           "name": "Under",
-          "line": 2.5,
-          "price": 1.57
+          "line": 1.5,
+          "price": 2.04
         }
       ],
       "handicap": [
         {
           "name": "Colombia",
           "line": -0.5,
-          "price": 2.19
+          "price": 2.4
         },
         {
           "name": "Switzerland",
           "line": 0.5,
-          "price": 1.68
+          "price": 1.5
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.27,
+      "prob_home": 0.3,
       "prob_draw": 0.31,
-      "prob_away": 0.41,
-      "ev_home": 0.95,
-      "ev_draw": 0.95,
-      "ev_away": 0.94,
+      "prob_away": 0.39,
+      "ev_home": 0.9,
+      "ev_draw": 0.89,
+      "ev_away": 0.9,
       "recommendation": "PASS",
-      "best_ev": 0.95
+      "best_ev": 0.9
     }
   }
 ]
