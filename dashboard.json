@@ -13,572 +13,10 @@
     "home": "Argentina",
     "away": "Egypt",
     "fecha": "2026-07-07T16:00:00Z",
-    "estado": "live",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.28
-                },
-                {
-                  "name": "Egypt",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.34
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.34
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.3
-                },
-                {
-                  "name": "Egypt",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.35
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.37
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.84
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.38
-                },
-                {
-                  "name": "Egypt",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.34
-                },
-                {
-                  "name": "Egypt",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Pinnacle",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.36
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.4
-                },
-                {
-                  "name": "Egypt",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.3
-                },
-                {
-                  "name": "Egypt",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.33
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.4
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.4
-                },
-                {
-                  "name": "Egypt",
-                  "price": 10.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.36
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 1.33
-                },
-                {
-                  "name": "Egypt",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.75
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "home_win": 1.33,
-      "away_win": 11.0,
-      "draw": 4.75,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 2.5,
-          "price": 2.2
-        },
-        {
-          "name": "Under",
-          "line": 2.5,
-          "price": 1.62
-        }
-      ],
-      "handicap": [
-        {
-          "name": "Argentina",
-          "line": -1.5,
-          "price": 2.05
-        },
-        {
-          "name": "Egypt",
-          "line": 1.5,
-          "price": 1.79
-        }
-      ]
-    },
+    "estado": "finished",
+    "odds": {},
     "prediction": {
-      "prob_home": 0.71,
-      "prob_draw": 0.2,
-      "prob_away": 0.09,
-      "ev_home": 0.94,
-      "ev_draw": 0.95,
-      "ev_away": 0.99,
-      "recommendation": "PASS",
-      "best_ev": 0.99
+      "recommendation": "⚠️ Sin datos"
     }
   },
   {
@@ -595,7 +33,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.23
+                  "price": 2.25
                 },
                 {
                   "name": "Switzerland",
@@ -637,7 +75,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.28
+                  "price": 2.3
                 },
                 {
                   "name": "Switzerland",
@@ -645,7 +83,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -658,7 +96,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.28
+                  "price": 2.3
                 },
                 {
                   "name": "Switzerland",
@@ -666,7 +104,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -679,7 +117,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.28
+                  "price": 2.3
                 },
                 {
                   "name": "Switzerland",
@@ -687,7 +125,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -700,15 +138,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.25
+                  "price": 2.29
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.64
+                  "price": 3.54
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.04
                 }
               ]
             }
@@ -721,11 +159,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.22
+                  "price": 2.25
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.75
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
@@ -767,11 +205,11 @@
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.85
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.25
                 }
               ]
             }
@@ -784,15 +222,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.15
+                  "price": 2.2
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.6
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.16
+                  "price": 3.1
                 }
               ]
             }
@@ -868,15 +306,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.32
+                  "price": 2.36
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.75
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.13
                 }
               ]
             }
@@ -889,7 +327,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.36
+                  "price": 2.38
                 },
                 {
                   "name": "Switzerland",
@@ -910,15 +348,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.3
+                  "price": 2.34
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.76
+                  "price": 3.69
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.09
                 }
               ]
             }
@@ -952,15 +390,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.29
+                  "price": 2.33
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.73
+                  "price": 3.61
                 },
                 {
                   "name": "Draw",
-                  "price": 3.08
+                  "price": 3.09
                 }
               ]
             }
@@ -1015,7 +453,7 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.36
+                  "price": 2.38
                 },
                 {
                   "name": "Switzerland",
@@ -1036,11 +474,11 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.2
+                  "price": 2.3
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.4
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -1057,15 +495,15 @@
               "outcomes": [
                 {
                   "name": "Colombia",
-                  "price": 2.2
+                  "price": 2.3
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.5
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
-                  "price": 2.9
+                  "price": 3.0
                 }
               ]
             }
@@ -1103,7 +541,7 @@
                 },
                 {
                   "name": "Switzerland",
-                  "price": 3.55
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
@@ -1115,42 +553,42 @@
         }
       ],
       "away_win": 2.3,
-      "home_win": 3.55,
+      "home_win": 3.5,
       "draw": 3.05,
       "over_under": [
         {
           "name": "Over",
           "line": 2.5,
-          "price": 2.23
+          "price": 2.2
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 1.56
+          "price": 1.57
         }
       ],
       "handicap": [
         {
           "name": "Colombia",
           "line": -0.5,
-          "price": 2.14
+          "price": 2.19
         },
         {
           "name": "Switzerland",
           "line": 0.5,
-          "price": 1.71
+          "price": 1.68
         }
       ]
     },
     "prediction": {
       "prob_home": 0.27,
       "prob_draw": 0.31,
-      "prob_away": 0.42,
-      "ev_home": 0.96,
+      "prob_away": 0.41,
+      "ev_home": 0.95,
       "ev_draw": 0.95,
-      "ev_away": 0.97,
+      "ev_away": 0.94,
       "recommendation": "PASS",
-      "best_ev": 0.97
+      "best_ev": 0.95
     }
   }
 ]
