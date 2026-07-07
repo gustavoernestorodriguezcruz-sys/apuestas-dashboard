@@ -24,29 +24,7 @@
     "away": "Colombia",
     "fecha": "2026-07-07T20:00:00Z",
     "estado": "finished",
-    "odds": {
-      "bookmakers": [
-        {
-          "title": "Tipico",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Colombia",
-                  "price": 4.0
-                },
-                {
-                  "name": "Switzerland",
-                  "price": 1.2
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "away_win": 4.0,
-      "home_win": 1.2
-    },
+    "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
