@@ -3,7 +3,7 @@
     "home": "Spain",
     "away": "Belgium",
     "fecha": "2026-07-10T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {
       "bookmakers": [
         {
@@ -13,57 +13,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.7
+                  "price": 7.72
                 },
                 {
                   "name": "Spain",
-                  "price": 1.67
+                  "price": 2.14
                 },
                 {
                   "name": "Draw",
-                  "price": 3.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "GTbets",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.6
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.64
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.01
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "1xBet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.96
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.87
+                  "price": 2.25
                 }
               ]
             }
@@ -76,57 +34,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 8.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Marathon Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.9
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.57
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 6.0
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
+                  "price": 1.9
                 }
               ]
             }
@@ -139,15 +55,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.85
+                  "price": 7.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.6
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 2.05
                 }
               ]
             }
@@ -160,15 +76,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 8.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.56
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.25
+                  "price": 1.94
                 }
               ]
             }
@@ -181,15 +97,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 8.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.56
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.25
+                  "price": 1.94
                 }
               ]
             }
@@ -202,36 +118,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 8.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.56
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetOnline.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.9
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.95
+                  "price": 1.94
                 }
               ]
             }
@@ -244,15 +139,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.7
+                  "price": 8.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.48
+                  "price": 2.14
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 1.83
                 }
               ]
             }
@@ -265,15 +160,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.8
+                  "price": 7.75
                 },
                 {
                   "name": "Spain",
-                  "price": 1.6
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 1.88
                 }
               ]
             }
@@ -286,15 +181,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.9
+                  "price": 8.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.64
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 1.94
                 }
               ]
             }
@@ -307,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 8.9
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 1.88
                 }
               ]
             }
@@ -328,15 +223,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.75
+                  "price": 9.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 1.95
                 }
               ]
             }
@@ -349,15 +244,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 6.2
+                  "price": 9.8
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.48
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 2.0
                 }
               ]
             }
@@ -370,15 +265,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 6.0
+                  "price": 9.2
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.42
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 2.06
                 }
               ]
             }
@@ -391,57 +286,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.0
+                  "price": 7.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.6
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "William Hill",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.0
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.62
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "BetAnything",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.7
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.61
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.9
+                  "price": 1.91
                 }
               ]
             }
@@ -454,57 +307,15 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 5.25
+                  "price": 10.0
                 },
                 {
                   "name": "Spain",
-                  "price": 1.65
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Codere (IT)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.4
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.64
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Everygame",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "Belgium",
-                  "price": 5.5
-                },
-                {
-                  "name": "Spain",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
+                  "price": 1.95
                 }
               ]
             }
@@ -517,56 +328,56 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 4.75
+                  "price": 10.5
                 },
                 {
                   "name": "Spain",
-                  "price": 1.62
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 1.9
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 4.75,
-      "home_win": 1.62,
-      "draw": 3.9,
+      "away_win": 10.5,
+      "home_win": 2.2,
+      "draw": 1.9,
       "handicap": [
         {
           "name": "Belgium",
-          "line": 0.75,
-          "price": 2.07
+          "line": 0.5,
+          "price": 1.79
         },
         {
           "name": "Spain",
-          "line": -0.75,
-          "price": 1.87
+          "line": -0.5,
+          "price": 2.13
         }
       ],
       "over_under": [
         {
           "name": "Over",
-          "line": 2.75,
-          "price": 2.03
+          "line": 3.0,
+          "price": 2.19
         },
         {
           "name": "Under",
-          "line": 2.75,
-          "price": 1.88
+          "line": 3.0,
+          "price": 1.72
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.57,
-      "prob_draw": 0.24,
-      "prob_away": 0.19,
+      "prob_home": 0.42,
+      "prob_draw": 0.49,
+      "prob_away": 0.09,
       "ev_home": 0.92,
-      "ev_draw": 0.94,
-      "ev_away": 0.9,
+      "ev_draw": 0.93,
+      "ev_away": 0.94,
       "recommendation": "PASS",
       "best_ev": 0.94
     }
