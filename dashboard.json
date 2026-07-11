@@ -34,15 +34,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.97
+                  "price": 1.95
                 },
                 {
                   "name": "Norway",
-                  "price": 3.8
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -76,7 +76,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.92
+                  "price": 1.9
                 },
                 {
                   "name": "Norway",
@@ -139,15 +139,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.97
+                  "price": 1.95
                 },
                 {
                   "name": "Norway",
-                  "price": 3.8
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -160,15 +160,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.94
+                  "price": 1.92
                 },
                 {
                   "name": "Norway",
-                  "price": 3.65
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.8
                 }
               ]
             }
@@ -181,15 +181,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.93
+                  "price": 1.91
                 },
                 {
                   "name": "Norway",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -244,15 +244,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.97
+                  "price": 1.96
                 },
                 {
                   "name": "Norway",
-                  "price": 3.98
+                  "price": 3.94
                 },
                 {
                   "name": "Draw",
-                  "price": 3.79
+                  "price": 3.85
                 }
               ]
             }
@@ -265,15 +265,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.94
+                  "price": 1.97
                 },
                 {
                   "name": "Norway",
-                  "price": 3.97
+                  "price": 3.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.85
                 }
               ]
             }
@@ -307,7 +307,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.0
+                  "price": 2.02
                 },
                 {
                   "name": "Norway",
@@ -315,7 +315,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.9
                 }
               ]
             }
@@ -328,7 +328,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.03
+                  "price": 2.0
                 },
                 {
                   "name": "Norway",
@@ -336,7 +336,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.75
                 }
               ]
             }
@@ -374,11 +374,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 3.85
+                  "price": 3.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.85
                 }
               ]
             }
@@ -496,15 +496,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.91
+                  "price": 1.95
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.7
                 }
               ]
             }
@@ -517,7 +517,7 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.93
+                  "price": 1.91
                 },
                 {
                   "name": "Norway",
@@ -532,7 +532,7 @@
           ]
         }
       ],
-      "away_win": 1.93,
+      "away_win": 1.91,
       "home_win": 3.8,
       "draw": 3.8,
       "over_under": [
@@ -566,9 +566,9 @@
       "prob_away": 0.5,
       "ev_home": 0.95,
       "ev_draw": 0.95,
-      "ev_away": 0.96,
+      "ev_away": 0.95,
       "recommendation": "PASS",
-      "best_ev": 0.96
+      "best_ev": 0.95
     }
   }
 ]
