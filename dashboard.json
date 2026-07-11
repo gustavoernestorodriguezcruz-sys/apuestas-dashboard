@@ -7,168 +7,21 @@
     "odds": {
       "bookmakers": [
         {
-          "title": "Winamax (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.3
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.28
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Winamax (DE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "MyBookie.ag",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.25
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "Tipico",
           "markets": [
             {
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.4
+                  "price": 1.2
                 },
                 {
                   "name": "Norway",
-                  "price": 4.7
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Unibet (NL)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.28
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "LeoVegas (SE)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.28
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.12
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "PMU (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.4
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.28
+                  "price": 5.0
                 }
               ]
             }
@@ -181,205 +34,58 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.13
+                  "price": 5.8
                 },
                 {
                   "name": "Norway",
-                  "price": 5.15
+                  "price": 11.43
                 },
                 {
                   "name": "Draw",
-                  "price": 2.69
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betfair",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.58
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.46
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Matchbook",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.62
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.48
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Coolbet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.5
-                },
-                {
-                  "name": "Norway",
-                  "price": 5.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Nordic Bet",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.38
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.28
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betsson",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.38
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.28
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "888sport",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.3
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Betclic (FR)",
-          "markets": [
-            {
-              "outcomes": [
-                {
-                  "name": "England",
-                  "price": 2.35
-                },
-                {
-                  "name": "Norway",
-                  "price": 4.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.3
+                  "price": 1.27
                 }
               ]
             }
           ]
         }
       ],
-      "away_win": 2.35,
-      "home_win": 4.6,
-      "draw": 2.3,
-      "over_under": [
-        {
-          "name": "Over",
-          "line": 3.5,
-          "price": 2.8
-        },
-        {
-          "name": "Under",
-          "line": 3.5,
-          "price": 1.4
-        }
-      ],
+      "away_win": 5.8,
+      "home_win": 11.43,
+      "draw": 1.27,
       "handicap": [
         {
           "name": "England",
-          "line": -0.5,
-          "price": 2.25
+          "line": -0.0,
+          "price": 1.43
         },
         {
           "name": "Norway",
-          "line": 0.5,
-          "price": 1.5
+          "line": 0.0,
+          "price": 3.04
+        }
+      ],
+      "over_under": [
+        {
+          "name": "Over",
+          "line": 2.5,
+          "price": 4.06
+        },
+        {
+          "name": "Under",
+          "line": 2.5,
+          "price": 1.26
         }
       ]
     },
     "prediction": {
-      "prob_home": 0.2,
-      "prob_draw": 0.4,
-      "prob_away": 0.39,
-      "ev_home": 0.92,
-      "ev_draw": 0.92,
-      "ev_away": 0.92,
+      "prob_home": 0.08,
+      "prob_draw": 0.75,
+      "prob_away": 0.16,
+      "ev_home": 0.91,
+      "ev_draw": 0.95,
+      "ev_away": 0.93,
       "recommendation": "PASS",
-      "best_ev": 0.92
+      "best_ev": 0.95
     }
   }
 ]
