@@ -21,7 +21,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -244,15 +244,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.95
+                  "price": 1.96
                 },
                 {
                   "name": "Norway",
-                  "price": 4.07
+                  "price": 4.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.76
+                  "price": 3.75
                 }
               ]
             }
@@ -265,11 +265,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.93
+                  "price": 1.94
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 3.97
                 },
                 {
                   "name": "Draw",
@@ -286,15 +286,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 2.0
+                  "price": 2.02
                 },
                 {
                   "name": "Norway",
-                  "price": 4.1
+                  "price": 4.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.8
                 }
               ]
             }
@@ -311,7 +311,7 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.1
+                  "price": 4.0
                 },
                 {
                   "name": "Draw",
@@ -496,11 +496,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 1.93
+                  "price": 1.94
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 3.97
                 },
                 {
                   "name": "Draw",
