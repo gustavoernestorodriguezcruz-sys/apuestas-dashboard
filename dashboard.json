@@ -21,7 +21,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -59,11 +59,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 3.85
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -248,11 +248,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.02
+                  "price": 4.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.77
+                  "price": 3.75
                 }
               ]
             }
@@ -269,11 +269,11 @@
                 },
                 {
                   "name": "Norway",
-                  "price": 4.0
+                  "price": 4.02
                 },
                 {
                   "name": "Draw",
-                  "price": 3.77
+                  "price": 3.76
                 }
               ]
             }
@@ -539,12 +539,12 @@
         {
           "name": "Over",
           "line": 2.5,
-          "price": 1.72
+          "price": 1.71
         },
         {
           "name": "Under",
           "line": 2.5,
-          "price": 2.15
+          "price": 2.17
         }
       ],
       "handicap": [
