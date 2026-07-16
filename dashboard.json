@@ -1,9 +1,19 @@
 [
   {
-    "home": "England",
-    "away": "Argentina",
-    "fecha": "2026-07-15T19:00:00Z",
-    "estado": "finished",
+    "home": "Botafogo FR",
+    "away": "Santos FC",
+    "fecha": "2026-07-16T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "EC Vitória",
+    "away": "CR Vasco da Gama",
+    "fecha": "2026-07-16T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
