@@ -1,19 +1,29 @@
 [
   {
-    "home": "Botafogo FR",
-    "away": "Santos FC",
-    "fecha": "2026-07-16T22:30:00Z",
-    "estado": "paused",
+    "home": "EC Bahia",
+    "away": "Chapecoense AF",
+    "fecha": "2026-07-17T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "CR Vasco da Gama",
-    "fecha": "2026-07-16T22:30:00Z",
-    "estado": "paused",
+    "home": "Fluminense FC",
+    "away": "RB Bragantino",
+    "fecha": "2026-07-17T23:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Mirassol FC",
+    "away": "Grêmio FBPA",
+    "fecha": "2026-07-17T23:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
