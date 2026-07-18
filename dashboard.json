@@ -1,29 +1,9 @@
 [
   {
-    "home": "EC Bahia",
-    "away": "Chapecoense AF",
-    "fecha": "2026-07-17T22:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Mirassol FC",
-    "away": "Grêmio FBPA",
-    "fecha": "2026-07-17T23:00:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fluminense FC",
-    "away": "RB Bragantino",
-    "fecha": "2026-07-17T23:00:00Z",
-    "estado": "live",
+    "home": "France",
+    "away": "England",
+    "fecha": "2026-07-18T21:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
