@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "home": "CA Mineiro",
+    "away": "EC Bahia",
+    "fecha": "2026-07-21T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  }
+]
