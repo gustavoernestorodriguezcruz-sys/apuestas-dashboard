@@ -30,20 +30,20 @@
     }
   },
   {
-    "home": "Botafogo FR",
-    "away": "EC Vitória",
+    "home": "SC Corinthians Paulista",
+    "away": "Clube do Remo",
     "fecha": "2026-07-23T22:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "SC Corinthians Paulista",
-    "away": "Clube do Remo",
+    "home": "Botafogo FR",
+    "away": "EC Vitória",
     "fecha": "2026-07-23T22:30:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
