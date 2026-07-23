@@ -1,5 +1,15 @@
 [
   {
+    "home": "São Paulo FC",
+    "away": "CA Paranaense",
+    "fecha": "2026-07-23T00:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Chapecoense AF",
     "away": "CR Flamengo",
     "fecha": "2026-07-23T00:30:00Z",
@@ -12,16 +22,6 @@
   {
     "home": "SC Internacional",
     "away": "Cruzeiro EC",
-    "fecha": "2026-07-23T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "São Paulo FC",
-    "away": "CA Paranaense",
     "fecha": "2026-07-23T00:30:00Z",
     "estado": "finished",
     "odds": {},
