@@ -1,19 +1,19 @@
 [
   {
-    "home": "SC Internacional",
-    "away": "Cruzeiro EC",
+    "home": "Chapecoense AF",
+    "away": "CR Flamengo",
     "fecha": "2026-07-23T00:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Chapecoense AF",
-    "away": "CR Flamengo",
+    "home": "SC Internacional",
+    "away": "Cruzeiro EC",
     "fecha": "2026-07-23T00:30:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,17 +23,7 @@
     "home": "São Paulo FC",
     "away": "CA Paranaense",
     "fecha": "2026-07-23T00:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SC Corinthians Paulista",
-    "away": "Clube do Remo",
-    "fecha": "2026-07-23T22:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -42,6 +32,16 @@
   {
     "home": "Botafogo FR",
     "away": "EC Vitória",
+    "fecha": "2026-07-23T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Corinthians Paulista",
+    "away": "Clube do Remo",
     "fecha": "2026-07-23T22:30:00Z",
     "estado": "timed",
     "odds": {},
