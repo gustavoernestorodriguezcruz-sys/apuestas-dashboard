@@ -1,19 +1,19 @@
 [
   {
-    "home": "CA Paranaense",
-    "away": "SC Internacional",
+    "home": "Santos FC",
+    "away": "Chapecoense AF",
     "fecha": "2026-07-25T21:30:00Z",
-    "estado": "timed",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Santos FC",
-    "away": "Chapecoense AF",
+    "home": "CA Paranaense",
+    "away": "SC Internacional",
     "fecha": "2026-07-25T21:30:00Z",
-    "estado": "timed",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
