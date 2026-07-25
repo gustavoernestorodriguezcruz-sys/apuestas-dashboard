@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "home": "Santos FC",
+    "away": "Chapecoense AF",
+    "fecha": "2026-07-25T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CA Paranaense",
+    "away": "SC Internacional",
+    "fecha": "2026-07-25T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Vasco da Gama",
+    "away": "Mirassol FC",
+    "fecha": "2026-07-25T23:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  }
+]
