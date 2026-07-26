@@ -1,29 +1,69 @@
 [
   {
-    "home": "Santos FC",
-    "away": "Chapecoense AF",
-    "fecha": "2026-07-25T21:30:00Z",
-    "estado": "finished",
+    "home": "Cruzeiro EC",
+    "away": "Botafogo FR",
+    "fecha": "2026-07-26T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "CA Paranaense",
-    "away": "SC Internacional",
-    "fecha": "2026-07-25T21:30:00Z",
-    "estado": "finished",
+    "home": "EC Bahia",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-07-26T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "CR Vasco da Gama",
-    "away": "Mirassol FC",
-    "fecha": "2026-07-25T23:30:00Z",
-    "estado": "inplay",
+    "home": "RB Bragantino",
+    "away": "Coritiba FBC",
+    "fecha": "2026-07-26T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Flamengo",
+    "away": "São Paulo FC",
+    "fecha": "2026-07-26T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Grêmio FBPA",
+    "away": "Fluminense FC",
+    "fecha": "2026-07-26T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SE Palmeiras",
+    "away": "CA Mineiro",
+    "fecha": "2026-07-26T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Clube do Remo",
+    "away": "EC Vitória",
+    "fecha": "2026-07-26T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
