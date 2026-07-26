@@ -20,8 +20,8 @@
     }
   },
   {
-    "home": "RB Bragantino",
-    "away": "Coritiba FBC",
+    "home": "Grêmio FBPA",
+    "away": "Fluminense FC",
     "fecha": "2026-07-26T21:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -40,19 +40,9 @@
     }
   },
   {
-    "home": "Grêmio FBPA",
-    "away": "Fluminense FC",
+    "home": "RB Bragantino",
+    "away": "Coritiba FBC",
     "fecha": "2026-07-26T21:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SE Palmeiras",
-    "away": "CA Mineiro",
-    "fecha": "2026-07-26T22:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -62,6 +52,16 @@
   {
     "home": "Clube do Remo",
     "away": "EC Vitória",
+    "fecha": "2026-07-26T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SE Palmeiras",
+    "away": "CA Mineiro",
     "fecha": "2026-07-26T22:30:00Z",
     "estado": "timed",
     "odds": {},
