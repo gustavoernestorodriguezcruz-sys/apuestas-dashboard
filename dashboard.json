@@ -1,17 +1,7 @@
 [
   {
-    "home": "Botafogo FR",
-    "away": "Grêmio FBPA",
-    "fecha": "2026-07-29T00:00:00Z",
-    "estado": "postponed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "São Paulo FC",
-    "away": "Santos FC",
+    "home": "Chapecoense AF",
+    "away": "CR Vasco da Gama",
     "fecha": "2026-07-29T00:00:00Z",
     "estado": "postponed",
     "odds": {},
@@ -30,8 +20,18 @@
     }
   },
   {
-    "home": "Chapecoense AF",
-    "away": "CR Vasco da Gama",
+    "home": "São Paulo FC",
+    "away": "Santos FC",
+    "fecha": "2026-07-29T00:00:00Z",
+    "estado": "postponed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "Grêmio FBPA",
     "fecha": "2026-07-29T00:00:00Z",
     "estado": "postponed",
     "odds": {},
