@@ -1,5 +1,25 @@
 [
   {
+    "home": "CA Mineiro",
+    "away": "RB Bragantino",
+    "fecha": "2026-07-29T00:00:00Z",
+    "estado": "postponed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Chapecoense AF",
+    "away": "CR Vasco da Gama",
+    "fecha": "2026-07-29T00:00:00Z",
+    "estado": "postponed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "São Paulo FC",
     "away": "Santos FC",
     "fecha": "2026-07-29T00:00:00Z",
@@ -20,28 +40,8 @@
     }
   },
   {
-    "home": "Chapecoense AF",
-    "away": "CR Vasco da Gama",
-    "fecha": "2026-07-29T00:00:00Z",
-    "estado": "postponed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Mineiro",
-    "away": "RB Bragantino",
-    "fecha": "2026-07-29T00:00:00Z",
-    "estado": "postponed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SC Internacional",
-    "away": "CR Flamengo",
+    "home": "Mirassol FC",
+    "away": "Clube do Remo",
     "fecha": "2026-07-29T22:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,8 +50,8 @@
     }
   },
   {
-    "home": "Mirassol FC",
-    "away": "Clube do Remo",
+    "home": "SC Internacional",
+    "away": "CR Flamengo",
     "fecha": "2026-07-29T22:30:00Z",
     "estado": "timed",
     "odds": {},
