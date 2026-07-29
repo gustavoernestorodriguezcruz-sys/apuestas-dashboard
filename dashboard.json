@@ -1,17 +1,7 @@
 [
   {
-    "home": "Botafogo FR",
-    "away": "Grêmio FBPA",
-    "fecha": "2026-07-29T00:00:00Z",
-    "estado": "postponed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "São Paulo FC",
-    "away": "Santos FC",
+    "home": "CA Mineiro",
+    "away": "RB Bragantino",
     "fecha": "2026-07-29T00:00:00Z",
     "estado": "postponed",
     "odds": {},
@@ -30,10 +20,40 @@
     }
   },
   {
-    "home": "CA Mineiro",
-    "away": "RB Bragantino",
+    "home": "São Paulo FC",
+    "away": "Santos FC",
     "fecha": "2026-07-29T00:00:00Z",
     "estado": "postponed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "Grêmio FBPA",
+    "fecha": "2026-07-29T00:00:00Z",
+    "estado": "postponed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Mirassol FC",
+    "away": "Clube do Remo",
+    "fecha": "2026-07-29T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Internacional",
+    "away": "CR Flamengo",
+    "fecha": "2026-07-29T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
