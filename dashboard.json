@@ -1,19 +1,19 @@
 [
   {
-    "home": "Fluminense FC",
-    "away": "EC Bahia",
+    "home": "EC Vitória",
+    "away": "SE Palmeiras",
     "fecha": "2026-07-30T00:30:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "SE Palmeiras",
+    "home": "Fluminense FC",
+    "away": "EC Bahia",
     "fecha": "2026-07-30T00:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
