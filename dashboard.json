@@ -1,29 +1,9 @@
 [
   {
-    "home": "EC Vitória",
-    "away": "SE Palmeiras",
-    "fecha": "2026-07-30T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fluminense FC",
-    "away": "EC Bahia",
-    "fecha": "2026-07-30T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SC Corinthians Paulista",
-    "away": "CA Paranaense",
-    "fecha": "2026-07-30T22:30:00Z",
-    "estado": "paused",
+    "home": "Coritiba FBC",
+    "away": "Cruzeiro EC",
+    "fecha": "2026-07-31T00:30:00Z",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
