@@ -53,7 +53,7 @@
     "home": "Grêmio FBPA",
     "away": "São Paulo FC",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "CF Estrela da Amadora",
     "away": "Sporting Clube de Portugal",
     "fecha": "2026-08-08T19:30:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "Clube do Remo",
     "away": "CA Mineiro",
     "fecha": "2026-08-08T21:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
