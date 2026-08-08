@@ -43,7 +43,7 @@
     "home": "PSV",
     "away": "Fortuna Sittard",
     "fecha": "2026-08-08T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Grêmio FBPA",
     "away": "São Paulo FC",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "AZ",
     "away": "ADO Den Haag",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
