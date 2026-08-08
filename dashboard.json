@@ -1,15 +1,5 @@
 [
   {
-    "home": "NEC",
-    "away": "Telstar 1963",
-    "fecha": "2026-08-08T14:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "CS Marítimo",
     "away": "Casa Pia AC",
     "fecha": "2026-08-08T14:30:00Z",
@@ -20,10 +10,20 @@
     }
   },
   {
+    "home": "NEC",
+    "away": "Telstar 1963",
+    "fecha": "2026-08-08T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Go Ahead Eagles",
     "away": "Willem II Tilburg",
     "fecha": "2026-08-08T16:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Vitória SC",
     "away": "FC Arouca",
     "fecha": "2026-08-08T17:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "PSV",
     "away": "Fortuna Sittard",
     "fecha": "2026-08-08T18:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
