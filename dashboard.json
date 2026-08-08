@@ -23,7 +23,7 @@
     "home": "Go Ahead Eagles",
     "away": "Willem II Tilburg",
     "fecha": "2026-08-08T16:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Vitória SC",
     "away": "FC Arouca",
     "fecha": "2026-08-08T17:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,6 +43,16 @@
     "home": "PSV",
     "away": "Fortuna Sittard",
     "fecha": "2026-08-08T18:00:00Z",
+    "estado": "live",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AZ",
+    "away": "ADO Den Haag",
+    "fecha": "2026-08-08T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -52,16 +62,6 @@
   {
     "home": "Grêmio FBPA",
     "away": "São Paulo FC",
-    "fecha": "2026-08-08T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AZ",
-    "away": "ADO Den Haag",
     "fecha": "2026-08-08T19:00:00Z",
     "estado": "timed",
     "odds": {},
