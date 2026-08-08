@@ -3,7 +3,7 @@
     "home": "CS Marítimo",
     "away": "Casa Pia AC",
     "fecha": "2026-08-08T14:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-08 13:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Go Ahead Eagles",
     "away": "Willem II Tilburg",
     "fecha": "2026-08-08T16:45:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Vitória SC",
     "away": "FC Arouca",
     "fecha": "2026-08-08T17:00:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "PSV",
     "away": "Fortuna Sittard",
     "fecha": "2026-08-08T18:00:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "AZ",
     "away": "ADO Den Haag",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "CF Estrela da Amadora",
     "away": "Sporting Clube de Portugal",
     "fecha": "2026-08-08T19:30:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
