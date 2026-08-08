@@ -50,20 +50,20 @@
     }
   },
   {
-    "home": "Grêmio FBPA",
-    "away": "São Paulo FC",
+    "home": "AZ",
+    "away": "ADO Den Haag",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "timed",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "AZ",
-    "away": "ADO Den Haag",
+    "home": "Grêmio FBPA",
+    "away": "São Paulo FC",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
