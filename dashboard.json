@@ -1,19 +1,109 @@
 [
   {
-    "home": "SC Cambuur-Leeuwarden",
-    "away": "SBV Excelsior",
-    "fecha": "2026-08-07T18:00:00Z",
-    "estado": "finished",
+    "home": "CS Marítimo",
+    "away": "Casa Pia AC",
+    "fecha": "2026-08-08T14:30:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "GD Estoril Praia",
-    "away": "FC Famalicão",
-    "fecha": "2026-08-07T19:15:00Z",
-    "estado": "finished",
+    "home": "NEC",
+    "away": "Telstar 1963",
+    "fecha": "2026-08-08T14:30:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Go Ahead Eagles",
+    "away": "Willem II Tilburg",
+    "fecha": "2026-08-08T16:45:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Vitória SC",
+    "away": "FC Arouca",
+    "fecha": "2026-08-08T17:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "PSV",
+    "away": "Fortuna Sittard",
+    "fecha": "2026-08-08T18:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Grêmio FBPA",
+    "away": "São Paulo FC",
+    "fecha": "2026-08-08T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AZ",
+    "away": "ADO Den Haag",
+    "fecha": "2026-08-08T19:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CF Estrela da Amadora",
+    "away": "Sporting Clube de Portugal",
+    "fecha": "2026-08-08T19:30:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Clube do Remo",
+    "away": "CA Mineiro",
+    "fecha": "2026-08-08T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Coritiba FBC",
+    "away": "Chapecoense AF",
+    "fecha": "2026-08-08T23:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "Fluminense FC",
+    "fecha": "2026-08-09T00:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
