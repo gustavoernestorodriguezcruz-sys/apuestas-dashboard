@@ -3,7 +3,7 @@
     "home": "CS Marítimo",
     "away": "Casa Pia AC",
     "fecha": "2026-08-08T14:30:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "NEC",
     "away": "Telstar 1963",
     "fecha": "2026-08-08T14:30:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
