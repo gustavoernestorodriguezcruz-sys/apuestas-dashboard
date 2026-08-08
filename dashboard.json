@@ -83,7 +83,7 @@
     "home": "Clube do Remo",
     "away": "CA Mineiro",
     "fecha": "2026-08-08T21:30:00Z",
-    "estado": "live",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +93,7 @@
     "home": "Coritiba FBC",
     "away": "Chapecoense AF",
     "fecha": "2026-08-08T23:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
