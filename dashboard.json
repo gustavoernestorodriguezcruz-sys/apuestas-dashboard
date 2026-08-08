@@ -1,19 +1,19 @@
 [
   {
-    "home": "CS Marítimo",
-    "away": "Casa Pia AC",
+    "home": "NEC",
+    "away": "Telstar 1963",
     "fecha": "2026-08-08T14:30:00Z",
-    "estado": "2026-08-08 13:30:00z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "NEC",
-    "away": "Telstar 1963",
+    "home": "CS Marítimo",
+    "away": "Casa Pia AC",
     "fecha": "2026-08-08T14:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-08 13:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "AZ",
     "away": "ADO Den Haag",
     "fecha": "2026-08-08T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
