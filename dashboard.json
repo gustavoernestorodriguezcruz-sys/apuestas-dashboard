@@ -73,7 +73,7 @@
     "home": "EC Bahia",
     "away": "CR Vasco da Gama",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "SE Palmeiras",
     "away": "SC Internacional",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,17 +93,7 @@
     "home": "Gil Vicente FC",
     "away": "Rio Ave FC",
     "fecha": "2026-08-09T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Moreirense FC",
-    "away": "Sporting Clube de Braga",
-    "fecha": "2026-08-09T19:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -113,6 +103,26 @@
     "home": "Sport Lisboa e Benfica",
     "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
+    "estado": "live",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Moreirense FC",
+    "away": "Sporting Clube de Braga",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "live",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Santos FC",
+    "away": "CA Paranaense",
+    "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -122,16 +132,6 @@
   {
     "home": "RB Bragantino",
     "away": "SC Corinthians Paulista",
-    "fecha": "2026-08-09T21:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Santos FC",
-    "away": "CA Paranaense",
     "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
