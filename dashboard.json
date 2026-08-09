@@ -1,108 +1,148 @@
 [
   {
-    "home": "CS Marítimo",
-    "away": "Casa Pia AC",
-    "fecha": "2026-08-08T14:30:00Z",
-    "estado": "2026-08-08 13:30:00z",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "NEC",
-    "away": "Telstar 1963",
-    "fecha": "2026-08-08T14:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Go Ahead Eagles",
-    "away": "Willem II Tilburg",
-    "fecha": "2026-08-08T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Vitória SC",
-    "away": "FC Arouca",
-    "fecha": "2026-08-08T17:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "PSV",
-    "away": "Fortuna Sittard",
-    "fecha": "2026-08-08T18:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Grêmio FBPA",
-    "away": "São Paulo FC",
-    "fecha": "2026-08-08T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AZ",
-    "away": "ADO Den Haag",
-    "fecha": "2026-08-08T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CF Estrela da Amadora",
-    "away": "Sporting Clube de Portugal",
-    "fecha": "2026-08-08T19:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Clube do Remo",
-    "away": "CA Mineiro",
-    "fecha": "2026-08-08T21:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Coritiba FBC",
-    "away": "Chapecoense AF",
-    "fecha": "2026-08-08T23:30:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Botafogo FR",
     "away": "Fluminense FC",
     "fecha": "2026-08-09T00:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sparta Rotterdam",
+    "away": "Feyenoord Rotterdam",
+    "fecha": "2026-08-09T10:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Groningen",
+    "away": "FC Utrecht",
+    "fecha": "2026-08-09T12:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "PEC Zwolle",
+    "away": "AFC Ajax",
+    "fecha": "2026-08-09T12:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Cruzeiro EC",
+    "away": "Mirassol FC",
+    "fecha": "2026-08-09T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Heerenveen",
+    "away": "FC Twente '65",
+    "fecha": "2026-08-09T14:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Porto",
+    "away": "FC Alverca",
+    "fecha": "2026-08-09T17:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "EC Bahia",
+    "away": "CR Vasco da Gama",
+    "fecha": "2026-08-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SE Palmeiras",
+    "away": "SC Internacional",
+    "fecha": "2026-08-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Gil Vicente FC",
+    "away": "Rio Ave FC",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Moreirense FC",
+    "away": "Sporting Clube de Braga",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Santos FC",
+    "away": "CA Paranaense",
+    "fecha": "2026-08-09T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-08-09T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Flamengo",
+    "away": "EC Vitória",
+    "fecha": "2026-08-09T22:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
