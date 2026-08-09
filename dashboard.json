@@ -20,20 +20,20 @@
     }
   },
   {
-    "home": "FC Groningen",
-    "away": "FC Utrecht",
+    "home": "PEC Zwolle",
+    "away": "AFC Ajax",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "live",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "PEC Zwolle",
-    "away": "AFC Ajax",
+    "home": "FC Groningen",
+    "away": "FC Utrecht",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "live",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -70,8 +70,8 @@
     }
   },
   {
-    "home": "EC Bahia",
-    "away": "CR Vasco da Gama",
+    "home": "SE Palmeiras",
+    "away": "SC Internacional",
     "fecha": "2026-08-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -80,8 +80,8 @@
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "SC Internacional",
+    "home": "EC Bahia",
+    "away": "CR Vasco da Gama",
     "fecha": "2026-08-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -100,8 +100,8 @@
     }
   },
   {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
+    "home": "Moreirense FC",
+    "away": "Sporting Clube de Braga",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "Moreirense FC",
-    "away": "Sporting Clube de Braga",
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
