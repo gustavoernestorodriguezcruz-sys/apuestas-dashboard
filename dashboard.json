@@ -20,8 +20,8 @@
     }
   },
   {
-    "home": "PEC Zwolle",
-    "away": "AFC Ajax",
+    "home": "FC Groningen",
+    "away": "FC Utrecht",
     "fecha": "2026-08-09T12:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "FC Groningen",
-    "away": "FC Utrecht",
+    "home": "PEC Zwolle",
+    "away": "AFC Ajax",
     "fecha": "2026-08-09T12:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -70,16 +70,6 @@
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "SC Internacional",
-    "fecha": "2026-08-09T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "EC Bahia",
     "away": "CR Vasco da Gama",
     "fecha": "2026-08-09T19:00:00Z",
@@ -90,8 +80,18 @@
     }
   },
   {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
+    "home": "SE Palmeiras",
+    "away": "SC Internacional",
+    "fecha": "2026-08-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Gil Vicente FC",
+    "away": "Rio Ave FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "Gil Vicente FC",
-    "away": "Rio Ave FC",
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
