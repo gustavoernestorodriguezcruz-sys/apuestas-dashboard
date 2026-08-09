@@ -23,7 +23,7 @@
     "home": "PEC Zwolle",
     "away": "AFC Ajax",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "FC Groningen",
     "away": "FC Utrecht",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Cruzeiro EC",
     "away": "Mirassol FC",
     "fecha": "2026-08-09T14:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -90,16 +90,6 @@
     }
   },
   {
-    "home": "Gil Vicente FC",
-    "away": "Rio Ave FC",
-    "fecha": "2026-08-09T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Moreirense FC",
     "away": "Sporting Clube de Braga",
     "fecha": "2026-08-09T19:30:00Z",
@@ -112,6 +102,16 @@
   {
     "home": "Sport Lisboa e Benfica",
     "away": "Académico de Viseu FC",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Gil Vicente FC",
+    "away": "Rio Ave FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
