@@ -63,7 +63,7 @@
     "home": "FC Porto",
     "away": "FC Alverca",
     "fecha": "2026-08-09T17:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "EC Bahia",
     "away": "CR Vasco da Gama",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "SE Palmeiras",
     "away": "SC Internacional",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "Santos FC",
-    "away": "CA Paranaense",
+    "home": "RB Bragantino",
+    "away": "SC Corinthians Paulista",
     "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -130,8 +130,8 @@
     }
   },
   {
-    "home": "RB Bragantino",
-    "away": "SC Corinthians Paulista",
+    "home": "Santos FC",
+    "away": "CA Paranaense",
     "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
