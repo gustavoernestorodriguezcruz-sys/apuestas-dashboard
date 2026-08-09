@@ -53,7 +53,7 @@
     "home": "SC Heerenveen",
     "away": "FC Twente '65",
     "fecha": "2026-08-09T14:45:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -90,8 +90,8 @@
     }
   },
   {
-    "home": "Moreirense FC",
-    "away": "Sporting Clube de Braga",
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -100,8 +100,8 @@
     }
   },
   {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
+    "home": "Moreirense FC",
+    "away": "Sporting Clube de Braga",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
