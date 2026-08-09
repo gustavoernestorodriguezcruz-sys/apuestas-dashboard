@@ -70,16 +70,6 @@
     }
   },
   {
-    "home": "EC Bahia",
-    "away": "CR Vasco da Gama",
-    "fecha": "2026-08-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "SE Palmeiras",
     "away": "SC Internacional",
     "fecha": "2026-08-09T19:00:00Z",
@@ -90,8 +80,18 @@
     }
   },
   {
-    "home": "Gil Vicente FC",
-    "away": "Rio Ave FC",
+    "home": "EC Bahia",
+    "away": "CR Vasco da Gama",
+    "fecha": "2026-08-09T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -110,20 +110,10 @@
     }
   },
   {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
+    "home": "Gil Vicente FC",
+    "away": "Rio Ave FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "RB Bragantino",
-    "away": "SC Corinthians Paulista",
-    "fecha": "2026-08-09T21:30:00Z",
-    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -133,7 +123,17 @@
     "home": "Santos FC",
     "away": "CA Paranaense",
     "fecha": "2026-08-09T21:30:00Z",
-    "estado": "live",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-08-09T21:30:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -143,7 +143,7 @@
     "home": "CR Flamengo",
     "away": "EC Vitória",
     "fecha": "2026-08-09T22:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
