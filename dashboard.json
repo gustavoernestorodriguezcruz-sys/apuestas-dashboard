@@ -13,7 +13,7 @@
     "home": "Sparta Rotterdam",
     "away": "Feyenoord Rotterdam",
     "fecha": "2026-08-09T10:15:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "FC Groningen",
     "away": "FC Utrecht",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "PEC Zwolle",
     "away": "AFC Ajax",
     "fecha": "2026-08-09T12:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -100,16 +100,6 @@
     }
   },
   {
-    "home": "Moreirense FC",
-    "away": "Sporting Clube de Braga",
-    "fecha": "2026-08-09T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Sport Lisboa e Benfica",
     "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
@@ -120,9 +110,9 @@
     }
   },
   {
-    "home": "RB Bragantino",
-    "away": "SC Corinthians Paulista",
-    "fecha": "2026-08-09T21:30:00Z",
+    "home": "Moreirense FC",
+    "away": "Sporting Clube de Braga",
+    "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -132,6 +122,16 @@
   {
     "home": "Santos FC",
     "away": "CA Paranaense",
+    "fecha": "2026-08-09T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "SC Corinthians Paulista",
     "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
