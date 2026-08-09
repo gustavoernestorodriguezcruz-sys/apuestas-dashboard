@@ -73,7 +73,7 @@
     "home": "SE Palmeiras",
     "away": "SC Internacional",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,17 +83,7 @@
     "home": "EC Bahia",
     "away": "CR Vasco da Gama",
     "fecha": "2026-08-09T19:00:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
-    "fecha": "2026-08-09T19:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -102,6 +92,16 @@
   {
     "home": "Moreirense FC",
     "away": "Sporting Clube de Braga",
+    "fecha": "2026-08-09T19:30:00Z",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-09T19:30:00Z",
     "estado": "inplay",
     "odds": {},
