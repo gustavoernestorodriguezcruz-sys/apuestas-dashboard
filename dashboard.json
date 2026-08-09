@@ -53,7 +53,7 @@
     "home": "SC Heerenveen",
     "away": "FC Twente '65",
     "fecha": "2026-08-09T14:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -100,16 +100,6 @@
     }
   },
   {
-    "home": "Sport Lisboa e Benfica",
-    "away": "Académico de Viseu FC",
-    "fecha": "2026-08-09T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Moreirense FC",
     "away": "Sporting Clube de Braga",
     "fecha": "2026-08-09T19:30:00Z",
@@ -120,9 +110,9 @@
     }
   },
   {
-    "home": "Santos FC",
-    "away": "CA Paranaense",
-    "fecha": "2026-08-09T21:30:00Z",
+    "home": "Sport Lisboa e Benfica",
+    "away": "Académico de Viseu FC",
+    "fecha": "2026-08-09T19:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -132,6 +122,16 @@
   {
     "home": "RB Bragantino",
     "away": "SC Corinthians Paulista",
+    "fecha": "2026-08-09T21:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Santos FC",
+    "away": "CA Paranaense",
     "fecha": "2026-08-09T21:30:00Z",
     "estado": "timed",
     "odds": {},
