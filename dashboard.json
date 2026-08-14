@@ -1,19 +1,39 @@
 [
   {
-    "home": "Cruzeiro EC",
-    "away": "CR Flamengo",
-    "fecha": "2026-08-13T00:30:00Z",
-    "estado": "finished",
+    "home": "CA Rosario Central",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-08-14T00:30:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Mirassol FC",
-    "away": "LDU de Quito",
-    "fecha": "2026-08-13T22:00:00Z",
-    "estado": "scheduled",
+    "home": "Telstar 1963",
+    "away": "Sparta Rotterdam",
+    "fecha": "2026-08-14T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Wolverhampton Wanderers FC",
+    "away": "Blackburn Rovers FC",
+    "fecha": "2026-08-14T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "Vitória SC",
+    "fecha": "2026-08-14T19:15:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
