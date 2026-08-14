@@ -13,7 +13,7 @@
     "home": "Telstar 1963",
     "away": "Sparta Rotterdam",
     "fecha": "2026-08-14T18:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Wolverhampton Wanderers FC",
     "away": "Blackburn Rovers FC",
     "fecha": "2026-08-14T19:00:00Z",
-    "estado": "paused",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Sporting Clube de Portugal",
     "away": "Vitória SC",
     "fecha": "2026-08-14T19:15:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
