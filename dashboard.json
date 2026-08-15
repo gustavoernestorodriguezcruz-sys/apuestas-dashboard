@@ -10,40 +10,10 @@
     }
   },
   {
-    "home": "Charlton Athletic FC",
-    "away": "Derby County FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Norwich City FC",
-    "away": "West Bromwich Albion FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Middlesbrough FC",
-    "away": "Lincoln City FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Stoke City FC",
     "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +23,7 @@
     "home": "Portsmouth FC",
     "away": "Queens Park Rangers FC",
     "fecha": "2026-08-15T14:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,17 +33,37 @@
     "home": "Bristol City FC",
     "away": "Millwall FC",
     "fecha": "2026-08-15T14:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Alverca",
-    "away": "CF Estrela da Amadora",
-    "fecha": "2026-08-15T14:30:00Z",
-    "estado": "inplay",
+    "home": "Charlton Athletic FC",
+    "away": "Derby County FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Norwich City FC",
+    "away": "West Bromwich Albion FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Middlesbrough FC",
+    "away": "Lincoln City FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -82,6 +72,16 @@
   {
     "home": "Willem II Tilburg",
     "away": "NEC",
+    "fecha": "2026-08-15T14:30:00Z",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Alverca",
+    "away": "CF Estrela da Amadora",
     "fecha": "2026-08-15T14:30:00Z",
     "estado": "inplay",
     "odds": {},
