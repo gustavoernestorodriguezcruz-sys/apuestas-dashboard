@@ -10,6 +10,16 @@
     }
   },
   {
+    "home": "Stoke City FC",
+    "away": "Swansea City AFC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Portsmouth FC",
     "away": "Queens Park Rangers FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -22,16 +32,6 @@
   {
     "home": "Bristol City FC",
     "away": "Millwall FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stoke City FC",
-    "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "timed",
     "odds": {},
