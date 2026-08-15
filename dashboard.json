@@ -40,16 +40,6 @@
     }
   },
   {
-    "home": "Stoke City FC",
-    "away": "Swansea City AFC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Portsmouth FC",
     "away": "Queens Park Rangers FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -70,9 +60,9 @@
     }
   },
   {
-    "home": "Willem II Tilburg",
-    "away": "NEC",
-    "fecha": "2026-08-15T14:30:00Z",
+    "home": "Stoke City FC",
+    "away": "Swansea City AFC",
+    "fecha": "2026-08-15T14:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -82,6 +72,16 @@
   {
     "home": "FC Alverca",
     "away": "CF Estrela da Amadora",
+    "fecha": "2026-08-15T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Willem II Tilburg",
+    "away": "NEC",
     "fecha": "2026-08-15T14:30:00Z",
     "estado": "timed",
     "odds": {},
