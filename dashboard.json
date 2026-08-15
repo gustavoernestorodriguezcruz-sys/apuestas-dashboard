@@ -10,36 +10,6 @@
     }
   },
   {
-    "home": "Middlesbrough FC",
-    "away": "Lincoln City FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Charlton Athletic FC",
-    "away": "Derby County FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Norwich City FC",
-    "away": "West Bromwich Albion FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Stoke City FC",
     "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -70,9 +40,29 @@
     }
   },
   {
-    "home": "FC Alverca",
-    "away": "CF Estrela da Amadora",
-    "fecha": "2026-08-15T14:30:00Z",
+    "home": "Charlton Athletic FC",
+    "away": "Derby County FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Norwich City FC",
+    "away": "West Bromwich Albion FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Middlesbrough FC",
+    "away": "Lincoln City FC",
+    "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -90,10 +80,20 @@
     }
   },
   {
+    "home": "FC Alverca",
+    "away": "CF Estrela da Amadora",
+    "fecha": "2026-08-15T14:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Sheffield United FC",
     "away": "Birmingham City FC",
     "fecha": "2026-08-15T16:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -103,7 +103,7 @@
     "home": "FC Utrecht",
     "away": "AZ",
     "fecha": "2026-08-15T16:45:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -123,7 +123,7 @@
     "home": "Deportivo Alavés",
     "away": "Getafe CF",
     "fecha": "2026-08-15T17:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
