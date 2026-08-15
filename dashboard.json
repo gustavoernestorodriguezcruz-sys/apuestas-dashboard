@@ -10,36 +10,6 @@
     }
   },
   {
-    "home": "Middlesbrough FC",
-    "away": "Lincoln City FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Charlton Athletic FC",
-    "away": "Derby County FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Norwich City FC",
-    "away": "West Bromwich Albion FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Stoke City FC",
     "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -70,9 +40,29 @@
     }
   },
   {
-    "home": "FC Alverca",
-    "away": "CF Estrela da Amadora",
-    "fecha": "2026-08-15T14:30:00Z",
+    "home": "Charlton Athletic FC",
+    "away": "Derby County FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Norwich City FC",
+    "away": "West Bromwich Albion FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Middlesbrough FC",
+    "away": "Lincoln City FC",
+    "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -82,6 +72,16 @@
   {
     "home": "Willem II Tilburg",
     "away": "NEC",
+    "fecha": "2026-08-15T14:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Alverca",
+    "away": "CF Estrela da Amadora",
     "fecha": "2026-08-15T14:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -133,7 +133,7 @@
     "home": "SBV Excelsior",
     "away": "PSV",
     "fecha": "2026-08-15T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -143,17 +143,7 @@
     "home": "Fortuna Sittard",
     "away": "SC Cambuur-Leeuwarden",
     "fecha": "2026-08-15T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sevilla FC",
-    "away": "Rayo Vallecano de Madrid",
-    "fecha": "2026-08-15T19:30:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -174,6 +164,16 @@
     "away": "SE Palmeiras",
     "fecha": "2026-08-15T19:30:00Z",
     "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sevilla FC",
+    "away": "Rayo Vallecano de Madrid",
+    "fecha": "2026-08-15T19:30:00Z",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
