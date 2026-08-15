@@ -70,20 +70,20 @@
     }
   },
   {
-    "home": "Willem II Tilburg",
-    "away": "NEC",
+    "home": "FC Alverca",
+    "away": "CF Estrela da Amadora",
     "fecha": "2026-08-15T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Alverca",
-    "away": "CF Estrela da Amadora",
+    "home": "Willem II Tilburg",
+    "away": "NEC",
     "fecha": "2026-08-15T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
