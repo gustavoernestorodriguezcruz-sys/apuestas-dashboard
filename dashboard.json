@@ -10,16 +10,6 @@
     }
   },
   {
-    "home": "Portsmouth FC",
-    "away": "Queens Park Rangers FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Bristol City FC",
     "away": "Millwall FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -40,6 +30,26 @@
     }
   },
   {
+    "home": "Portsmouth FC",
+    "away": "Queens Park Rangers FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Middlesbrough FC",
+    "away": "Lincoln City FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Charlton Athletic FC",
     "away": "Derby County FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -52,16 +62,6 @@
   {
     "home": "Norwich City FC",
     "away": "West Bromwich Albion FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Middlesbrough FC",
-    "away": "Lincoln City FC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -150,10 +150,20 @@
     }
   },
   {
+    "home": "Sevilla FC",
+    "away": "Rayo Vallecano de Madrid",
+    "fecha": "2026-08-15T19:30:00Z",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Rio Ave FC",
     "away": "FC Porto",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,17 +173,7 @@
     "home": "Fluminense FC",
     "away": "SE Palmeiras",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "paused",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sevilla FC",
-    "away": "Rayo Vallecano de Madrid",
-    "fecha": "2026-08-15T19:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
