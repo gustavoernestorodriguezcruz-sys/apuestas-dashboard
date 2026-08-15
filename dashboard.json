@@ -10,16 +10,6 @@
     }
   },
   {
-    "home": "Stoke City FC",
-    "away": "Swansea City AFC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Portsmouth FC",
     "away": "Queens Park Rangers FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -32,6 +22,16 @@
   {
     "home": "Bristol City FC",
     "away": "Millwall FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Stoke City FC",
+    "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -70,8 +70,8 @@
     }
   },
   {
-    "home": "Willem II Tilburg",
-    "away": "NEC",
+    "home": "FC Alverca",
+    "away": "CF Estrela da Amadora",
     "fecha": "2026-08-15T14:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -80,8 +80,8 @@
     }
   },
   {
-    "home": "FC Alverca",
-    "away": "CF Estrela da Amadora",
+    "home": "Willem II Tilburg",
+    "away": "NEC",
     "fecha": "2026-08-15T14:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -143,7 +143,7 @@
     "home": "Fortuna Sittard",
     "away": "SC Cambuur-Leeuwarden",
     "fecha": "2026-08-15T19:00:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +153,7 @@
     "home": "Rio Ave FC",
     "away": "FC Porto",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,7 +163,7 @@
     "home": "Fluminense FC",
     "away": "SE Palmeiras",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "Sevilla FC",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
