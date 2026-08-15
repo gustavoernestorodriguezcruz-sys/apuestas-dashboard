@@ -123,7 +123,7 @@
     "home": "Deportivo Alavés",
     "away": "Getafe CF",
     "fecha": "2026-08-15T17:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +153,7 @@
     "home": "Sevilla FC",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,7 +163,7 @@
     "home": "Rio Ave FC",
     "away": "FC Porto",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "timed",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "Fluminense FC",
     "away": "SE Palmeiras",
     "fecha": "2026-08-15T19:30:00Z",
-    "estado": "2026-08-15 18:30:00z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
