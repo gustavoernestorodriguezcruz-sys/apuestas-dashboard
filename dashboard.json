@@ -10,28 +10,8 @@
     }
   },
   {
-    "home": "Portsmouth FC",
-    "away": "Queens Park Rangers FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Bristol City FC",
-    "away": "Millwall FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stoke City FC",
-    "away": "Swansea City AFC",
+    "home": "Charlton Athletic FC",
+    "away": "Derby County FC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -60,8 +40,28 @@
     }
   },
   {
-    "home": "Charlton Athletic FC",
-    "away": "Derby County FC",
+    "home": "Portsmouth FC",
+    "away": "Queens Park Rangers FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Bristol City FC",
+    "away": "Millwall FC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Stoke City FC",
+    "away": "Swansea City AFC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Sevilla FC",
-    "away": "Rayo Vallecano de Madrid",
+    "home": "Rio Ave FC",
+    "away": "FC Porto",
     "fecha": "2026-08-15T19:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -170,8 +170,8 @@
     }
   },
   {
-    "home": "Rio Ave FC",
-    "away": "FC Porto",
+    "home": "Sevilla FC",
+    "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-08-15T19:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -183,7 +183,7 @@
     "home": "CA Paranaense",
     "away": "RB Bragantino",
     "fecha": "2026-08-15T21:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
