@@ -10,6 +10,16 @@
     }
   },
   {
+    "home": "Stoke City FC",
+    "away": "Swansea City AFC",
+    "fecha": "2026-08-15T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Portsmouth FC",
     "away": "Queens Park Rangers FC",
     "fecha": "2026-08-15T14:00:00Z",
@@ -30,8 +40,8 @@
     }
   },
   {
-    "home": "Stoke City FC",
-    "away": "Swansea City AFC",
+    "home": "Middlesbrough FC",
+    "away": "Lincoln City FC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -52,16 +62,6 @@
   {
     "home": "Norwich City FC",
     "away": "West Bromwich Albion FC",
-    "fecha": "2026-08-15T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Middlesbrough FC",
-    "away": "Lincoln City FC",
     "fecha": "2026-08-15T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,16 +150,6 @@
     }
   },
   {
-    "home": "Fluminense FC",
-    "away": "SE Palmeiras",
-    "fecha": "2026-08-15T19:30:00Z",
-    "estado": "2026-08-15 19:30:00z",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Sevilla FC",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-08-15T19:30:00Z",
@@ -174,6 +164,16 @@
     "away": "FC Porto",
     "fecha": "2026-08-15T19:30:00Z",
     "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Fluminense FC",
+    "away": "SE Palmeiras",
+    "fecha": "2026-08-15T19:30:00Z",
+    "estado": "2026-08-15 19:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
