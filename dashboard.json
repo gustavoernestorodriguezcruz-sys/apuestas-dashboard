@@ -20,8 +20,8 @@
     }
   },
   {
-    "home": "Feyenoord Rotterdam",
-    "away": "Go Ahead Eagles",
+    "home": "Watford FC",
+    "away": "Southampton FC",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Watford FC",
-    "away": "Southampton FC",
+    "home": "Feyenoord Rotterdam",
+    "away": "Go Ahead Eagles",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -140,8 +140,8 @@
     }
   },
   {
-    "home": "FC Famalicão",
-    "away": "CS Marítimo",
+    "home": "Sporting Clube de Braga",
+    "away": "Gil Vicente FC",
     "fecha": "2026-08-16T19:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Sporting Clube de Braga",
-    "away": "Gil Vicente FC",
+    "home": "FC Famalicão",
+    "away": "CS Marítimo",
     "fecha": "2026-08-16T19:30:00Z",
     "estado": "timed",
     "odds": {},
