@@ -3,7 +3,7 @@
     "home": "São Paulo FC",
     "away": "Coritiba FBC",
     "fecha": "2026-08-16T00:00:00Z",
-    "estado": "live",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -100,8 +100,8 @@
     }
   },
   {
-    "home": "FC Arouca",
-    "away": "Moreirense FC",
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Levante UD",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Levante UD",
+    "home": "FC Arouca",
+    "away": "Moreirense FC",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "timed",
     "odds": {},
