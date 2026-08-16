@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Feyenoord Rotterdam",
-    "away": "Go Ahead Eagles",
+    "home": "Watford FC",
+    "away": "Southampton FC",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Watford FC",
-    "away": "Southampton FC",
+    "home": "Feyenoord Rotterdam",
+    "away": "Go Ahead Eagles",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -163,7 +163,7 @@
     "home": "Mirassol FC",
     "away": "CR Flamengo",
     "fecha": "2026-08-16T21:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "EC Vitória",
     "away": "Botafogo FR",
     "fecha": "2026-08-16T21:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
