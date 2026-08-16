@@ -3,7 +3,7 @@
     "home": "São Paulo FC",
     "away": "Coritiba FBC",
     "fecha": "2026-08-16T00:00:00Z",
-    "estado": "finished",
+    "estado": "2026-08-15 23:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "FC Twente '65",
     "away": "PEC Zwolle",
     "fecha": "2026-08-16T12:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Watford FC",
     "away": "Southampton FC",
     "fecha": "2026-08-16T12:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Feyenoord Rotterdam",
     "away": "Go Ahead Eagles",
     "fecha": "2026-08-16T12:30:00Z",
-    "estado": "paused",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Chapecoense AF",
     "away": "EC Bahia",
     "fecha": "2026-08-16T14:00:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 13:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "CD Nacional",
     "away": "GD Estoril Praia",
     "fecha": "2026-08-16T14:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 13:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -100,18 +100,18 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Levante UD",
+    "home": "FC Arouca",
+    "away": "Moreirense FC",
     "fecha": "2026-08-16T17:00:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 16:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Arouca",
-    "away": "Moreirense FC",
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Levante UD",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -123,7 +123,7 @@
     "home": "CA Mineiro",
     "away": "Grêmio FBPA",
     "fecha": "2026-08-16T19:00:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 18:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -133,17 +133,7 @@
     "home": "CR Vasco da Gama",
     "away": "Santos FC",
     "fecha": "2026-08-16T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Braga",
-    "away": "Gil Vicente FC",
-    "fecha": "2026-08-16T19:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 18:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +143,17 @@
     "home": "FC Famalicão",
     "away": "CS Marítimo",
     "fecha": "2026-08-16T19:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 18:30:00z",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Braga",
+    "away": "Gil Vicente FC",
+    "fecha": "2026-08-16T19:30:00Z",
+    "estado": "2026-08-16 18:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,7 +163,7 @@
     "home": "EC Vitória",
     "away": "Botafogo FR",
     "fecha": "2026-08-16T21:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 20:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "Mirassol FC",
     "away": "CR Flamengo",
     "fecha": "2026-08-16T21:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 20:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -183,7 +183,7 @@
     "home": "SC Corinthians Paulista",
     "away": "Cruzeiro EC",
     "fecha": "2026-08-16T22:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-16 21:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
