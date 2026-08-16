@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Levante UD",
+    "home": "FC Arouca",
+    "away": "Moreirense FC",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "FC Arouca",
-    "away": "Moreirense FC",
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Levante UD",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -143,7 +143,7 @@
     "home": "CA Mineiro",
     "away": "Grêmio FBPA",
     "fecha": "2026-08-16T19:00:00Z",
-    "estado": "2026-08-16 18:00:00z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +153,7 @@
     "home": "FC Famalicão",
     "away": "CS Marítimo",
     "fecha": "2026-08-16T19:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
