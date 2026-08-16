@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Feyenoord Rotterdam",
-    "away": "Go Ahead Eagles",
+    "home": "Watford FC",
+    "away": "Southampton FC",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Watford FC",
-    "away": "Southampton FC",
+    "home": "Feyenoord Rotterdam",
+    "away": "Go Ahead Eagles",
     "fecha": "2026-08-16T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Levante UD",
+    "home": "FC Arouca",
+    "away": "Moreirense FC",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "FC Arouca",
-    "away": "Moreirense FC",
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Levante UD",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "finished",
     "odds": {},
