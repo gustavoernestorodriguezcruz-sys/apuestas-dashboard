@@ -63,7 +63,7 @@
     "home": "CD Nacional",
     "away": "GD Estoril Praia",
     "fecha": "2026-08-16T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,17 +73,7 @@
     "home": "AFC Ajax",
     "away": "SC Heerenveen",
     "fecha": "2026-08-16T14:45:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Racing Club de Santander",
-    "away": "Villarreal CF",
-    "fecha": "2026-08-16T15:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -100,10 +90,10 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Levante UD",
-    "fecha": "2026-08-16T17:00:00Z",
-    "estado": "timed",
+    "home": "Real Racing Club de Santander",
+    "away": "Villarreal CF",
+    "fecha": "2026-08-16T15:00:00Z",
+    "estado": "live",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -114,6 +104,16 @@
     "away": "Moreirense FC",
     "fecha": "2026-08-16T17:00:00Z",
     "estado": "2026-08-16 16:00:00z",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Levante UD",
+    "fecha": "2026-08-16T17:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -140,8 +140,8 @@
     }
   },
   {
-    "home": "Sporting Clube de Braga",
-    "away": "Gil Vicente FC",
+    "home": "FC Famalicão",
+    "away": "CS Marítimo",
     "fecha": "2026-08-16T19:30:00Z",
     "estado": "2026-08-16 18:30:00z",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "FC Famalicão",
-    "away": "CS Marítimo",
+    "home": "Sporting Clube de Braga",
+    "away": "Gil Vicente FC",
     "fecha": "2026-08-16T19:30:00Z",
     "estado": "2026-08-16 18:30:00z",
     "odds": {},
