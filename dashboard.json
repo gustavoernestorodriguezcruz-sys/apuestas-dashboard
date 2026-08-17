@@ -1,19 +1,19 @@
 [
   {
-    "home": "RC Deportivo La Coruña",
-    "away": "Elche CF",
+    "home": "Cardiff City FC",
+    "away": "Wrexham AFC",
     "fecha": "2026-08-17T19:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Cardiff City FC",
-    "away": "Wrexham AFC",
+    "home": "RC Deportivo La Coruña",
+    "away": "Elche CF",
     "fecha": "2026-08-17T19:00:00Z",
-    "estado": "live",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
