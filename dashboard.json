@@ -1,39 +1,9 @@
 [
   {
-    "home": "RC Deportivo La Coruña",
-    "away": "Elche CF",
-    "fecha": "2026-08-17T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Cardiff City FC",
-    "away": "Wrexham AFC",
-    "fecha": "2026-08-17T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Casa Pia AC",
-    "away": "Sport Lisboa e Benfica",
-    "fecha": "2026-08-17T19:15:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SC Internacional",
-    "away": "Clube do Remo",
-    "fecha": "2026-08-17T23:00:00Z",
-    "estado": "live",
+    "home": "CS Independiente Rivadavia",
+    "away": "Fluminense FC",
+    "fecha": "2026-08-18T22:00:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
