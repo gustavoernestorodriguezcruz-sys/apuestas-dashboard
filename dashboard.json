@@ -1,8 +1,48 @@
 [
   {
-    "home": "CS Independiente Rivadavia",
-    "away": "Fluminense FC",
-    "fecha": "2026-08-18T22:00:00Z",
+    "home": "CD Universidad Católica",
+    "away": "Estudiantes de La Plata",
+    "fecha": "2026-08-19T00:30:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CAR Independiente del Valle",
+    "away": "CD Tolima",
+    "fecha": "2026-08-19T00:30:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Club Atlético de Madrid",
+    "away": "Málaga CF",
+    "fecha": "2026-08-19T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CD Coquimbo Unido",
+    "away": "CA Platense",
+    "fecha": "2026-08-19T22:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Club Cerro Porteño",
+    "away": "SE Palmeiras",
+    "fecha": "2026-08-19T22:00:00Z",
     "estado": "scheduled",
     "odds": {},
     "prediction": {
