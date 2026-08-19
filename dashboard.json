@@ -1,7 +1,7 @@
 [
   {
-    "home": "CAR Independiente del Valle",
-    "away": "CD Tolima",
+    "home": "CD Universidad Católica",
+    "away": "Estudiantes de La Plata",
     "fecha": "2026-08-19T00:30:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "CD Universidad Católica",
-    "away": "Estudiantes de La Plata",
+    "home": "CAR Independiente del Valle",
+    "away": "CD Tolima",
     "fecha": "2026-08-19T00:30:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Club Cerro Porteño",
-    "away": "SE Palmeiras",
+    "home": "CD Coquimbo Unido",
+    "away": "CA Platense",
     "fecha": "2026-08-19T22:00:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "CD Coquimbo Unido",
-    "away": "CA Platense",
+    "home": "Club Cerro Porteño",
+    "away": "SE Palmeiras",
     "fecha": "2026-08-19T22:00:00Z",
     "estado": "scheduled",
     "odds": {},
