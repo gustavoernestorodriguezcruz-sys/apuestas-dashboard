@@ -1,28 +1,8 @@
 [
   {
-    "home": "CD Universidad Católica",
-    "away": "Estudiantes de La Plata",
-    "fecha": "2026-08-19T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Club Atlético de Madrid",
-    "away": "Málaga CF",
-    "fecha": "2026-08-19T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Club Cerro Porteño",
-    "away": "SE Palmeiras",
-    "fecha": "2026-08-19T22:00:00Z",
+    "home": "CR Flamengo",
+    "away": "Cruzeiro EC",
+    "fecha": "2026-08-20T00:30:00Z",
     "estado": "scheduled",
     "odds": {},
     "prediction": {
@@ -30,9 +10,19 @@
     }
   },
   {
-    "home": "CD Coquimbo Unido",
-    "away": "CA Platense",
-    "fecha": "2026-08-19T22:00:00Z",
+    "home": "Rayo Vallecano de Madrid",
+    "away": "Deportivo Alavés",
+    "fecha": "2026-08-20T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "LDU de Quito",
+    "away": "Mirassol FC",
+    "fecha": "2026-08-20T22:00:00Z",
     "estado": "scheduled",
     "odds": {},
     "prediction": {
