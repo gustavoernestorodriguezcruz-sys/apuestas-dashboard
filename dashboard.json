@@ -1,29 +1,49 @@
 [
   {
-    "home": "CR Flamengo",
-    "away": "Cruzeiro EC",
-    "fecha": "2026-08-20T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Rayo Vallecano de Madrid",
-    "away": "Deportivo Alavés",
-    "fecha": "2026-08-20T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "LDU de Quito",
-    "away": "Mirassol FC",
-    "fecha": "2026-08-20T22:00:00Z",
+    "home": "SC Corinthians Paulista",
+    "away": "CA Rosario Central",
+    "fecha": "2026-08-21T00:30:00Z",
     "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Olympique de Marseille",
+    "away": "RC Strasbourg Alsace",
+    "fecha": "2026-08-21T18:45:00Z",
+    "estado": "2026-08-21 18:45:00z",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Arsenal FC",
+    "away": "Coventry City FC",
+    "fecha": "2026-08-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Betis Balompié",
+    "away": "Real Sociedad de Fútbol",
+    "fecha": "2026-08-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "NEC",
+    "away": "SBV Excelsior",
+    "fecha": "2026-08-22T00:00:00Z",
+    "estado": "postponed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
