@@ -50,16 +50,6 @@
     }
   },
   {
-    "home": "Southampton FC",
-    "away": "Stoke City FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Preston North End FC",
     "away": "Wolverhampton Wanderers FC",
     "fecha": "2026-08-22T14:00:00Z",
@@ -100,18 +90,8 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "Cardiff City FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Everton FC",
-    "away": "Crystal Palace FC",
+    "home": "Southampton FC",
+    "away": "Stoke City FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -152,6 +132,26 @@
   {
     "home": "Ipswich Town FC",
     "away": "Sunderland AFC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Cardiff City FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Everton FC",
+    "away": "Crystal Palace FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
