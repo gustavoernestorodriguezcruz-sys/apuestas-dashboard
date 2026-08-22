@@ -200,6 +200,16 @@
     }
   },
   {
+    "home": "Udinese Calcio",
+    "away": "Como 1907",
+    "fecha": "2026-08-22T16:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Brentford FC",
     "away": "Tottenham Hotspur FC",
     "fecha": "2026-08-22T16:30:00Z",
@@ -212,16 +222,6 @@
   {
     "home": "FC Internazionale Milano",
     "away": "AC Monza",
-    "fecha": "2026-08-22T16:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Udinese Calcio",
-    "away": "Como 1907",
     "fecha": "2026-08-22T16:30:00Z",
     "estado": "timed",
     "odds": {},
