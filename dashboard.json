@@ -10,30 +10,10 @@
     }
   },
   {
-    "home": "Lincoln City FC",
-    "away": "Portsmouth FC",
-    "fecha": "2026-08-22T11:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Hull City AFC",
-    "away": "Manchester United FC",
-    "fecha": "2026-08-22T11:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Birmingham City FC",
     "away": "Bristol City FC",
     "fecha": "2026-08-22T11:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -50,48 +30,28 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "Cardiff City FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
+    "home": "Hull City AFC",
+    "away": "Manchester United FC",
+    "fecha": "2026-08-22T11:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Wrexham AFC",
-    "away": "Watford FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
+    "home": "Lincoln City FC",
+    "away": "Portsmouth FC",
+    "fecha": "2026-08-22T11:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Swansea City AFC",
-    "away": "Sheffield United FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Queens Park Rangers FC",
-    "away": "Bolton Wanderers FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Nottingham Forest FC",
-    "away": "Leeds United FC",
+    "home": "Blackburn Rovers FC",
+    "away": "Middlesbrough FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -110,18 +70,8 @@
     }
   },
   {
-    "home": "Preston North End FC",
-    "away": "Wolverhampton Wanderers FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Blackburn Rovers FC",
-    "away": "Middlesbrough FC",
+    "home": "Nottingham Forest FC",
+    "away": "Leeds United FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -140,8 +90,38 @@
     }
   },
   {
+    "home": "Preston North End FC",
+    "away": "Wolverhampton Wanderers FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Swansea City AFC",
+    "away": "Sheffield United FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Ipswich Town FC",
     "away": "Sunderland AFC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Cardiff City FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,9 +140,19 @@
     }
   },
   {
-    "home": "CS Marítimo",
-    "away": "Académico de Viseu FC",
-    "fecha": "2026-08-22T14:30:00Z",
+    "home": "Queens Park Rangers FC",
+    "away": "Bolton Wanderers FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Wrexham AFC",
+    "away": "Watford FC",
+    "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -172,6 +162,16 @@
   {
     "home": "Fortuna Sittard",
     "away": "AZ",
+    "fecha": "2026-08-22T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CS Marítimo",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-08-22T14:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -200,8 +200,8 @@
     }
   },
   {
-    "home": "Brentford FC",
-    "away": "Tottenham Hotspur FC",
+    "home": "FC Internazionale Milano",
+    "away": "AC Monza",
     "fecha": "2026-08-22T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -220,8 +220,8 @@
     }
   },
   {
-    "home": "FC Internazionale Milano",
-    "away": "AC Monza",
+    "home": "Brentford FC",
+    "away": "Tottenham Hotspur FC",
     "fecha": "2026-08-22T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -260,36 +260,6 @@
     }
   },
   {
-    "home": "Toulouse FC",
-    "away": "Olympique Lyonnais",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Parma Calcio 1913",
-    "away": "Cagliari Calcio",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Genoa CFC",
-    "away": "SSC Napoli",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "OGC Nice",
     "away": "FC Lorient",
     "fecha": "2026-08-22T18:45:00Z",
@@ -310,6 +280,26 @@
     }
   },
   {
+    "home": "Parma Calcio 1913",
+    "away": "Cagliari Calcio",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Toulouse FC",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Le Mans FC",
     "away": "Stade Brestois 29",
     "fecha": "2026-08-22T18:45:00Z",
@@ -320,9 +310,9 @@
     }
   },
   {
-    "home": "SC Heerenveen",
-    "away": "PEC Zwolle",
-    "fecha": "2026-08-22T19:00:00Z",
+    "home": "Genoa CFC",
+    "away": "SSC Napoli",
+    "fecha": "2026-08-22T18:45:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -340,9 +330,9 @@
     }
   },
   {
-    "home": "Sporting Clube de Portugal",
-    "away": "FC Alverca",
-    "fecha": "2026-08-22T19:30:00Z",
+    "home": "SC Heerenveen",
+    "away": "PEC Zwolle",
+    "fecha": "2026-08-22T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -352,6 +342,16 @@
   {
     "home": "RCD Espanyol de Barcelona",
     "away": "Real Madrid CF",
+    "fecha": "2026-08-22T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "FC Alverca",
     "fecha": "2026-08-22T19:30:00Z",
     "estado": "timed",
     "odds": {},
