@@ -163,7 +163,7 @@
     "home": "Fortuna Sittard",
     "away": "AZ",
     "fecha": "2026-08-22T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "CS Marítimo",
     "away": "Académico de Viseu FC",
     "fecha": "2026-08-22T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
