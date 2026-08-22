@@ -50,16 +50,6 @@
     }
   },
   {
-    "home": "Nottingham Forest FC",
-    "away": "Leeds United FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Southampton FC",
     "away": "Stoke City FC",
     "fecha": "2026-08-22T14:00:00Z",
@@ -100,8 +90,8 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "Cardiff City FC",
+    "home": "Nottingham Forest FC",
+    "away": "Leeds United FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -152,6 +142,16 @@
   {
     "home": "Ipswich Town FC",
     "away": "Sunderland AFC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Cardiff City FC",
     "fecha": "2026-08-22T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -270,16 +270,6 @@
     }
   },
   {
-    "home": "Parma Calcio 1913",
-    "away": "Cagliari Calcio",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Toulouse FC",
     "away": "Olympique Lyonnais",
     "fecha": "2026-08-22T18:45:00Z",
@@ -320,10 +310,20 @@
     }
   },
   {
+    "home": "Parma Calcio 1913",
+    "away": "Cagliari Calcio",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Fluminense FC",
     "away": "Clube do Remo",
     "fecha": "2026-08-22T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -333,7 +333,7 @@
     "home": "SC Heerenveen",
     "away": "PEC Zwolle",
     "fecha": "2026-08-22T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
