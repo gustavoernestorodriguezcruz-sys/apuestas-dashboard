@@ -10,16 +10,6 @@
     }
   },
   {
-    "home": "Lincoln City FC",
-    "away": "Portsmouth FC",
-    "fecha": "2026-08-22T11:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Birmingham City FC",
     "away": "Bristol City FC",
     "fecha": "2026-08-22T11:30:00Z",
@@ -43,6 +33,86 @@
     "home": "Hull City AFC",
     "away": "Manchester United FC",
     "fecha": "2026-08-22T11:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Lincoln City FC",
+    "away": "Portsmouth FC",
+    "fecha": "2026-08-22T11:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Southampton FC",
+    "away": "Stoke City FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Preston North End FC",
+    "away": "Wolverhampton Wanderers FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Blackburn Rovers FC",
+    "away": "Middlesbrough FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "West Ham United FC",
+    "away": "Charlton Athletic FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Nottingham Forest FC",
+    "away": "Leeds United FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Cardiff City FC",
+    "fecha": "2026-08-22T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Everton FC",
+    "away": "Crystal Palace FC",
+    "fecha": "2026-08-22T14:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -90,69 +160,9 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "Cardiff City FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Everton FC",
-    "away": "Crystal Palace FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Blackburn Rovers FC",
-    "away": "Middlesbrough FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "West Ham United FC",
-    "away": "Charlton Athletic FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Nottingham Forest FC",
-    "away": "Leeds United FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Southampton FC",
-    "away": "Stoke City FC",
-    "fecha": "2026-08-22T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Preston North End FC",
-    "away": "Wolverhampton Wanderers FC",
-    "fecha": "2026-08-22T14:00:00Z",
+    "home": "Fortuna Sittard",
+    "away": "AZ",
+    "fecha": "2026-08-22T14:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -162,16 +172,6 @@
   {
     "home": "CS Marítimo",
     "away": "Académico de Viseu FC",
-    "fecha": "2026-08-22T14:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fortuna Sittard",
-    "away": "AZ",
     "fecha": "2026-08-22T14:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -260,6 +260,26 @@
     }
   },
   {
+    "home": "OGC Nice",
+    "away": "FC Lorient",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Toulouse FC",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Le Mans FC",
     "away": "Stade Brestois 29",
     "fecha": "2026-08-22T18:45:00Z",
@@ -300,19 +320,9 @@
     }
   },
   {
-    "home": "Toulouse FC",
-    "away": "Olympique Lyonnais",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "OGC Nice",
-    "away": "FC Lorient",
-    "fecha": "2026-08-22T18:45:00Z",
+    "home": "Fluminense FC",
+    "away": "Clube do Remo",
+    "fecha": "2026-08-22T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -330,9 +340,9 @@
     }
   },
   {
-    "home": "Fluminense FC",
-    "away": "Clube do Remo",
-    "fecha": "2026-08-22T19:00:00Z",
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Real Madrid CF",
+    "fecha": "2026-08-22T19:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -342,16 +352,6 @@
   {
     "home": "Sporting Clube de Portugal",
     "away": "FC Alverca",
-    "fecha": "2026-08-22T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Real Madrid CF",
     "fecha": "2026-08-22T19:30:00Z",
     "estado": "timed",
     "odds": {},
