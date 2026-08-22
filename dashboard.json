@@ -10,6 +10,16 @@
     }
   },
   {
+    "home": "Birmingham City FC",
+    "away": "Bristol City FC",
+    "fecha": "2026-08-22T11:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Millwall FC",
     "away": "Norwich City FC",
     "fecha": "2026-08-22T11:30:00Z",
@@ -22,16 +32,6 @@
   {
     "home": "Hull City AFC",
     "away": "Manchester United FC",
-    "fecha": "2026-08-22T11:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Birmingham City FC",
-    "away": "Bristol City FC",
     "fecha": "2026-08-22T11:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -200,10 +200,20 @@
     }
   },
   {
+    "home": "Brentford FC",
+    "away": "Tottenham Hotspur FC",
+    "fecha": "2026-08-22T16:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "FC Internazionale Milano",
     "away": "AC Monza",
     "fecha": "2026-08-22T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -213,17 +223,7 @@
     "home": "Udinese Calcio",
     "away": "Como 1907",
     "fecha": "2026-08-22T16:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Brentford FC",
-    "away": "Tottenham Hotspur FC",
-    "fecha": "2026-08-22T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -243,7 +243,7 @@
     "home": "GD Estoril Praia",
     "away": "Rio Ave FC",
     "fecha": "2026-08-22T17:00:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -253,7 +253,7 @@
     "home": "Valencia CF",
     "away": "RC Celta de Vigo",
     "fecha": "2026-08-22T17:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -262,6 +262,16 @@
   {
     "home": "OGC Nice",
     "away": "FC Lorient",
+    "fecha": "2026-08-22T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Le Mans FC",
+    "away": "Stade Brestois 29",
     "fecha": "2026-08-22T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -302,16 +312,6 @@
   {
     "home": "Toulouse FC",
     "away": "Olympique Lyonnais",
-    "fecha": "2026-08-22T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Le Mans FC",
-    "away": "Stade Brestois 29",
     "fecha": "2026-08-22T18:45:00Z",
     "estado": "timed",
     "odds": {},
