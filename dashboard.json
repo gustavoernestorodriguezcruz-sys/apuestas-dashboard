@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Brighton & Hove Albion FC",
-    "away": "Aston Villa FC",
+    "home": "Angers SCO",
+    "away": "Lille OSC",
     "fecha": "2026-08-23T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,8 +50,8 @@
     }
   },
   {
-    "home": "Angers SCO",
-    "away": "Lille OSC",
+    "home": "Brighton & Hove Albion FC",
+    "away": "Aston Villa FC",
     "fecha": "2026-08-23T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AC Milan",
+    "home": "Paris Saint-Germain FC",
+    "away": "Stade Rennais FC 1901",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Paris Saint-Germain FC",
-    "away": "Stade Rennais FC 1901",
+    "home": "Torino FC",
+    "away": "AC Milan",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "CR Vasco da Gama",
+    "home": "EC Vitória",
+    "away": "EC Bahia",
     "fecha": "2026-08-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,8 +190,8 @@
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "EC Bahia",
+    "home": "SE Palmeiras",
+    "away": "CR Vasco da Gama",
     "fecha": "2026-08-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -210,8 +210,8 @@
     }
   },
   {
-    "home": "FC Porto",
-    "away": "FC Arouca",
+    "home": "Elche CF",
+    "away": "FC Barcelona",
     "fecha": "2026-08-23T19:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -220,8 +220,8 @@
     }
   },
   {
-    "home": "Elche CF",
-    "away": "FC Barcelona",
+    "home": "FC Porto",
+    "away": "FC Arouca",
     "fecha": "2026-08-23T19:30:00Z",
     "estado": "timed",
     "odds": {},
