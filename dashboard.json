@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Brighton & Hove Albion FC",
-    "away": "Aston Villa FC",
+    "home": "Manchester City FC",
+    "away": "AFC Bournemouth",
     "fecha": "2026-08-23T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,8 +50,8 @@
     }
   },
   {
-    "home": "Manchester City FC",
-    "away": "AFC Bournemouth",
+    "home": "Brighton & Hove Albion FC",
+    "away": "Aston Villa FC",
     "fecha": "2026-08-23T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "Frosinone Calcio",
-    "away": "Juventus FC",
+    "home": "Venezia FC",
+    "away": "US Lecce",
     "fecha": "2026-08-23T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "Venezia FC",
-    "away": "US Lecce",
+    "home": "Frosinone Calcio",
+    "away": "Juventus FC",
     "fecha": "2026-08-23T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Atalanta BC",
-    "away": "US Sassuolo Calcio",
+    "home": "Torino FC",
+    "away": "AC Milan",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AC Milan",
+    "home": "Atalanta BC",
+    "away": "US Sassuolo Calcio",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
