@@ -33,17 +33,7 @@
     "home": "Manchester City FC",
     "away": "AFC Bournemouth",
     "fecha": "2026-08-23T13:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Brighton & Hove Albion FC",
-    "away": "Aston Villa FC",
-    "fecha": "2026-08-23T13:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -60,10 +50,20 @@
     }
   },
   {
+    "home": "Brighton & Hove Albion FC",
+    "away": "Aston Villa FC",
+    "fecha": "2026-08-23T13:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Vitória SC",
     "away": "CD Nacional",
     "fecha": "2026-08-23T14:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "Club Atlético de Madrid",
     "away": "Villarreal CF",
     "fecha": "2026-08-23T15:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +93,7 @@
     "home": "Le Havre AC",
     "away": "AS Monaco FC",
     "fecha": "2026-08-23T15:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AC Milan",
+    "home": "Paris Saint-Germain FC",
+    "away": "Stade Rennais FC 1901",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Paris Saint-Germain FC",
-    "away": "Stade Rennais FC 1901",
+    "home": "Torino FC",
+    "away": "AC Milan",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
