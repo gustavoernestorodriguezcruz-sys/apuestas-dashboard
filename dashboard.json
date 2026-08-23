@@ -63,7 +63,7 @@
     "home": "Vitória SC",
     "away": "CD Nacional",
     "fecha": "2026-08-23T14:30:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -103,7 +103,7 @@
     "home": "Newcastle United FC",
     "away": "Liverpool FC",
     "fecha": "2026-08-23T15:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Paris Saint-Germain FC",
-    "away": "Stade Rennais FC 1901",
+    "home": "Torino FC",
+    "away": "AC Milan",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AC Milan",
+    "home": "Paris Saint-Germain FC",
+    "away": "Stade Rennais FC 1901",
     "fecha": "2026-08-23T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "CR Vasco da Gama",
+    "home": "EC Vitória",
+    "away": "EC Bahia",
     "fecha": "2026-08-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,8 +190,8 @@
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "EC Bahia",
+    "home": "SE Palmeiras",
+    "away": "CR Vasco da Gama",
     "fecha": "2026-08-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
