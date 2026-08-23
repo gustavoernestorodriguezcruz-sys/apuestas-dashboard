@@ -143,7 +143,7 @@
     "home": "Getafe CF",
     "away": "Real Racing Club de Santander",
     "fecha": "2026-08-23T17:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +153,7 @@
     "home": "Paris Saint-Germain FC",
     "away": "Stade Rennais FC 1901",
     "fecha": "2026-08-23T18:45:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,7 +163,7 @@
     "home": "Torino FC",
     "away": "AC Milan",
     "fecha": "2026-08-23T18:45:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "Atalanta BC",
     "away": "US Sassuolo Calcio",
     "fecha": "2026-08-23T18:45:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -213,7 +213,7 @@
     "home": "FC Porto",
     "away": "FC Arouca",
     "fecha": "2026-08-23T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -223,7 +223,7 @@
     "home": "Elche CF",
     "away": "FC Barcelona",
     "fecha": "2026-08-23T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
