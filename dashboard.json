@@ -180,20 +180,20 @@
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "EC Bahia",
+    "home": "SE Palmeiras",
+    "away": "CR Vasco da Gama",
     "fecha": "2026-08-23T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "CR Vasco da Gama",
+    "home": "EC Vitória",
+    "away": "EC Bahia",
     "fecha": "2026-08-23T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -203,7 +203,7 @@
     "home": "RB Bragantino",
     "away": "Grêmio FBPA",
     "fecha": "2026-08-23T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
