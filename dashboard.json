@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "Brighton & Hove Albion FC",
-    "away": "Aston Villa FC",
-    "fecha": "2026-08-23T13:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Manchester City FC",
     "away": "AFC Bournemouth",
     "fecha": "2026-08-23T13:00:00Z",
@@ -52,6 +42,16 @@
   {
     "home": "Angers SCO",
     "away": "Lille OSC",
+    "fecha": "2026-08-23T13:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Brighton & Hove Albion FC",
+    "away": "Aston Villa FC",
     "fecha": "2026-08-23T13:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -110,8 +110,8 @@
     }
   },
   {
-    "home": "Frosinone Calcio",
-    "away": "Juventus FC",
+    "home": "Venezia FC",
+    "away": "US Lecce",
     "fecha": "2026-08-23T16:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "Venezia FC",
-    "away": "US Lecce",
+    "home": "Frosinone Calcio",
+    "away": "Juventus FC",
     "fecha": "2026-08-23T16:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -150,16 +150,6 @@
     }
   },
   {
-    "home": "Atalanta BC",
-    "away": "US Sassuolo Calcio",
-    "fecha": "2026-08-23T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Paris Saint-Germain FC",
     "away": "Stade Rennais FC 1901",
     "fecha": "2026-08-23T18:45:00Z",
@@ -180,9 +170,9 @@
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "EC Bahia",
-    "fecha": "2026-08-23T19:00:00Z",
+    "home": "Atalanta BC",
+    "away": "US Sassuolo Calcio",
+    "fecha": "2026-08-23T18:45:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -192,6 +182,16 @@
   {
     "home": "SE Palmeiras",
     "away": "CR Vasco da Gama",
+    "fecha": "2026-08-23T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "EC Vitória",
+    "away": "EC Bahia",
     "fecha": "2026-08-23T19:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -243,7 +243,7 @@
     "home": "Santos FC",
     "away": "Mirassol FC",
     "fecha": "2026-08-23T21:30:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -253,7 +253,7 @@
     "home": "Coritiba FBC",
     "away": "SC Corinthians Paulista",
     "fecha": "2026-08-23T22:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
