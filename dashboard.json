@@ -23,7 +23,7 @@
     "home": "AS Roma",
     "away": "ACF Fiorentina",
     "fecha": "2026-08-24T18:45:00Z",
-    "estado": "paused",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Fulham FC",
     "away": "Chelsea FC",
     "fecha": "2026-08-24T19:00:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
