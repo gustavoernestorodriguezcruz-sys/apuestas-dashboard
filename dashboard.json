@@ -13,7 +13,7 @@
     "home": "CA Osasuna",
     "away": "Levante UD",
     "fecha": "2026-08-24T17:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "AS Roma",
     "away": "ACF Fiorentina",
     "fecha": "2026-08-24T18:45:00Z",
-    "estado": "inplay",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Gil Vicente FC",
     "away": "Casa Pia AC",
     "fecha": "2026-08-24T19:15:00Z",
-    "estado": "2026-08-24 18:15:00z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Málaga CF",
     "away": "RC Deportivo La Coruña",
     "fecha": "2026-08-24T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
