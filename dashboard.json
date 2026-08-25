@@ -1,69 +1,9 @@
 [
   {
-    "home": "Bologna FC 1909",
-    "away": "SS Lazio",
-    "fecha": "2026-08-24T16:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Osasuna",
-    "away": "Levante UD",
-    "fecha": "2026-08-24T17:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AS Roma",
-    "away": "ACF Fiorentina",
-    "fecha": "2026-08-24T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fulham FC",
-    "away": "Chelsea FC",
-    "fecha": "2026-08-24T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Gil Vicente FC",
-    "away": "Casa Pia AC",
-    "fecha": "2026-08-24T19:15:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Málaga CF",
-    "away": "RC Deportivo La Coruña",
-    "fecha": "2026-08-24T19:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Botafogo FR",
-    "away": "CA Paranaense",
-    "fecha": "2026-08-24T23:00:00Z",
-    "estado": "inplay",
+    "home": "Valencia CF",
+    "away": "Real Betis Balompié",
+    "fecha": "2026-08-25T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
