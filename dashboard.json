@@ -3,7 +3,7 @@
     "home": "Real Racing Club de Santander",
     "away": "Elche CF",
     "fecha": "2026-08-28T17:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "FC Groningen",
     "away": "Fortuna Sittard",
     "fecha": "2026-08-28T18:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,17 +23,7 @@
     "home": "FC Bayern München",
     "away": "VfB Stuttgart",
     "fecha": "2026-08-28T18:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AC Milan",
-    "away": "Venezia FC",
-    "fecha": "2026-08-28T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +33,17 @@
     "home": "Lille OSC",
     "away": "Paris Saint-Germain FC",
     "fecha": "2026-08-28T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AC Milan",
+    "away": "Venezia FC",
+    "fecha": "2026-08-28T18:45:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
