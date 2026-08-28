@@ -1,19 +1,89 @@
 [
   {
-    "home": "RC Celta de Vigo",
-    "away": "CA Osasuna",
-    "fecha": "2026-08-27T18:30:00Z",
-    "estado": "finished",
+    "home": "Real Racing Club de Santander",
+    "away": "Elche CF",
+    "fecha": "2026-08-28T17:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Barcelona",
-    "away": "Athletic Club",
-    "fecha": "2026-08-27T19:00:00Z",
-    "estado": "finished",
+    "home": "FC Groningen",
+    "away": "Fortuna Sittard",
+    "fecha": "2026-08-28T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Bayern München",
+    "away": "VfB Stuttgart",
+    "fecha": "2026-08-28T18:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AC Milan",
+    "away": "Venezia FC",
+    "fecha": "2026-08-28T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Lille OSC",
+    "away": "Paris Saint-Germain FC",
+    "fecha": "2026-08-28T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Crystal Palace FC",
+    "away": "Manchester City FC",
+    "fecha": "2026-08-28T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Wrexham AFC",
+    "away": "Birmingham City FC",
+    "fecha": "2026-08-28T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Rio Ave FC",
+    "away": "Sporting Clube de Portugal",
+    "fecha": "2026-08-28T19:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Deportivo Alavés",
+    "away": "Villarreal CF",
+    "fecha": "2026-08-28T19:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
