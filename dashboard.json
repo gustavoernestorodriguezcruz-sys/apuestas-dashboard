@@ -13,17 +13,7 @@
     "home": "FC Utrecht",
     "away": "PSV",
     "fecha": "2026-08-30T10:15:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Willem II Tilburg",
-    "away": "SC Heerenveen",
-    "fecha": "2026-08-30T12:30:00Z",
-    "estado": "2026-08-30 11:30:00z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,17 +23,17 @@
     "home": "Feyenoord Rotterdam",
     "away": "ADO Den Haag",
     "fecha": "2026-08-30T12:30:00Z",
-    "estado": "2026-08-30 11:30:00z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Chelsea FC",
-    "away": "Brighton & Hove Albion FC",
-    "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
+    "home": "Willem II Tilburg",
+    "away": "SC Heerenveen",
+    "fecha": "2026-08-30T12:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +43,7 @@
     "home": "Leeds United FC",
     "away": "Brentford FC",
     "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +53,7 @@
     "home": "Paris FC",
     "away": "OGC Nice",
     "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +63,17 @@
     "home": "Sunderland AFC",
     "away": "Fulham FC",
     "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Chelsea FC",
+    "away": "Brighton & Hove Albion FC",
+    "fecha": "2026-08-30T13:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "SC Freiburg",
     "away": "SV Werder Bremen",
     "fecha": "2026-08-30T13:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +93,7 @@
     "home": "CA Paranaense",
     "away": "Fluminense FC",
     "fecha": "2026-08-30T14:00:00Z",
-    "estado": "timed",
+    "estado": "paused",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -103,7 +103,7 @@
     "home": "CD Nacional",
     "away": "CF Estrela da Amadora",
     "fecha": "2026-08-30T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -113,7 +113,7 @@
     "home": "Telstar 1963",
     "away": "AFC Ajax",
     "fecha": "2026-08-30T14:45:00Z",
-    "estado": "2026-08-30 13:45:00z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -140,8 +140,8 @@
     }
   },
   {
-    "home": "Manchester United FC",
-    "away": "Ipswich Town FC",
+    "home": "FC Augsburg",
+    "away": "FC Schalke 04",
     "fecha": "2026-08-30T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "FC Augsburg",
-    "away": "FC Schalke 04",
+    "home": "Manchester United FC",
+    "away": "Ipswich Town FC",
     "fecha": "2026-08-30T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -200,6 +200,16 @@
     }
   },
   {
+    "home": "Cagliari Calcio",
+    "away": "FC Internazionale Milano",
+    "fecha": "2026-08-30T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "AS Monaco FC",
     "away": "Olympique de Marseille",
     "fecha": "2026-08-30T18:45:00Z",
@@ -220,9 +230,9 @@
     }
   },
   {
-    "home": "Cagliari Calcio",
-    "away": "FC Internazionale Milano",
-    "fecha": "2026-08-30T18:45:00Z",
+    "home": "CR Flamengo",
+    "away": "Botafogo FR",
+    "fecha": "2026-08-30T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -240,9 +250,9 @@
     }
   },
   {
-    "home": "CR Flamengo",
-    "away": "Botafogo FR",
-    "fecha": "2026-08-30T19:00:00Z",
+    "home": "FC Famalicão",
+    "away": "Gil Vicente FC",
+    "fecha": "2026-08-30T19:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -260,9 +270,9 @@
     }
   },
   {
-    "home": "FC Famalicão",
-    "away": "Gil Vicente FC",
-    "fecha": "2026-08-30T19:30:00Z",
+    "home": "Mirassol FC",
+    "away": "SE Palmeiras",
+    "fecha": "2026-08-30T21:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -272,16 +282,6 @@
   {
     "home": "Grêmio FBPA",
     "away": "Chapecoense AF",
-    "fecha": "2026-08-30T21:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Mirassol FC",
-    "away": "SE Palmeiras",
     "fecha": "2026-08-30T21:30:00Z",
     "estado": "timed",
     "odds": {},
