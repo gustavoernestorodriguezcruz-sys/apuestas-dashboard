@@ -3,7 +3,7 @@
     "home": "CR Vasco da Gama",
     "away": "Cruzeiro EC",
     "fecha": "2026-08-30T00:20:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -163,7 +163,7 @@
     "home": "SSC Napoli",
     "away": "Como 1907",
     "fecha": "2026-08-30T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -173,7 +173,7 @@
     "home": "Casa Pia AC",
     "away": "Moreirense FC",
     "fecha": "2026-08-30T17:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -183,7 +183,7 @@
     "home": "RC Deportivo La Coruña",
     "away": "Valencia CF",
     "fecha": "2026-08-30T17:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -193,7 +193,7 @@
     "home": "SC Cambuur-Leeuwarden",
     "away": "FC Twente '65",
     "fecha": "2026-08-30T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -203,7 +203,7 @@
     "home": "Cagliari Calcio",
     "away": "FC Internazionale Milano",
     "fecha": "2026-08-30T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -213,7 +213,7 @@
     "home": "AS Monaco FC",
     "away": "Olympique de Marseille",
     "fecha": "2026-08-30T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -223,7 +223,7 @@
     "home": "SS Lazio",
     "away": "Genoa CFC",
     "fecha": "2026-08-30T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -233,7 +233,7 @@
     "home": "CR Flamengo",
     "away": "Botafogo FR",
     "fecha": "2026-08-30T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -243,7 +243,7 @@
     "home": "SC Corinthians Paulista",
     "away": "Santos FC",
     "fecha": "2026-08-30T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -253,7 +253,7 @@
     "home": "FC Famalicão",
     "away": "Gil Vicente FC",
     "fecha": "2026-08-30T19:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -263,7 +263,7 @@
     "home": "RC Celta de Vigo",
     "away": "Athletic Club",
     "fecha": "2026-08-30T19:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
