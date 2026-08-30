@@ -3,7 +3,7 @@
     "home": "CR Vasco da Gama",
     "away": "Cruzeiro EC",
     "fecha": "2026-08-30T00:20:00Z",
-    "estado": "finished",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "FC Utrecht",
     "away": "PSV",
     "fecha": "2026-08-30T10:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Willem II Tilburg",
     "away": "SC Heerenveen",
     "fecha": "2026-08-30T12:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-30 11:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Feyenoord Rotterdam",
     "away": "ADO Den Haag",
     "fecha": "2026-08-30T12:30:00Z",
-    "estado": "timed",
+    "estado": "2026-08-30 11:30:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -42,6 +42,16 @@
   {
     "home": "Chelsea FC",
     "away": "Brighton & Hove Albion FC",
+    "fecha": "2026-08-30T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Leeds United FC",
+    "away": "Brentford FC",
     "fecha": "2026-08-30T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -62,16 +72,6 @@
   {
     "home": "Sunderland AFC",
     "away": "Fulham FC",
-    "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Leeds United FC",
-    "away": "Brentford FC",
     "fecha": "2026-08-30T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -113,7 +113,7 @@
     "home": "Telstar 1963",
     "away": "AFC Ajax",
     "fecha": "2026-08-30T14:45:00Z",
-    "estado": "timed",
+    "estado": "2026-08-30 13:45:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -193,7 +193,7 @@
     "home": "SC Cambuur-Leeuwarden",
     "away": "FC Twente '65",
     "fecha": "2026-08-30T18:00:00Z",
-    "estado": "timed",
+    "estado": "2026-08-30 17:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
