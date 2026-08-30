@@ -3,7 +3,7 @@
     "home": "CR Vasco da Gama",
     "away": "Cruzeiro EC",
     "fecha": "2026-08-30T00:20:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -40,26 +40,6 @@
     }
   },
   {
-    "home": "Sunderland AFC",
-    "away": "Fulham FC",
-    "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Leeds United FC",
-    "away": "Brentford FC",
-    "fecha": "2026-08-30T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Chelsea FC",
     "away": "Brighton & Hove Albion FC",
     "fecha": "2026-08-30T13:00:00Z",
@@ -72,6 +52,26 @@
   {
     "home": "Paris FC",
     "away": "OGC Nice",
+    "fecha": "2026-08-30T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sunderland AFC",
+    "away": "Fulham FC",
+    "fecha": "2026-08-30T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Leeds United FC",
+    "away": "Brentford FC",
     "fecha": "2026-08-30T13:00:00Z",
     "estado": "timed",
     "odds": {},
