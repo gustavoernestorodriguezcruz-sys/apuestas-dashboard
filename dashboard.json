@@ -3,7 +3,7 @@
     "home": "US Lecce",
     "away": "AS Roma",
     "fecha": "2026-08-31T16:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "CA Osasuna",
     "away": "Getafe CF",
     "fecha": "2026-08-31T17:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Atalanta BC",
     "away": "Bologna FC 1909",
     "fecha": "2026-08-31T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,17 +33,7 @@
     "home": "Aston Villa FC",
     "away": "Arsenal FC",
     "fecha": "2026-08-31T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sport Lisboa e Benfica",
-    "away": "GD Estoril Praia",
-    "fecha": "2026-08-31T19:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +43,17 @@
     "home": "Sporting Clube de Braga",
     "away": "Vitória SC",
     "fecha": "2026-08-31T19:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sport Lisboa e Benfica",
+    "away": "GD Estoril Praia",
+    "fecha": "2026-08-31T19:15:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "FC Barcelona",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-08-31T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
