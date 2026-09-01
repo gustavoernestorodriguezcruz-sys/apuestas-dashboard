@@ -1,15 +1,5 @@
 [
   {
-    "home": "Sheffield United FC",
-    "away": "Bolton Wanderers FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "West Ham United FC",
     "away": "Wolverhampton Wanderers FC",
     "fecha": "2026-09-01T18:45:00Z",
@@ -20,8 +10,8 @@
     }
   },
   {
-    "home": "Lincoln City FC",
-    "away": "Blackburn Rovers FC",
+    "home": "Sheffield United FC",
+    "away": "Bolton Wanderers FC",
     "fecha": "2026-09-01T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -52,6 +42,16 @@
   {
     "home": "Swansea City AFC",
     "away": "Watford FC",
+    "fecha": "2026-09-01T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Lincoln City FC",
+    "away": "Blackburn Rovers FC",
     "fecha": "2026-09-01T18:45:00Z",
     "estado": "timed",
     "odds": {},
