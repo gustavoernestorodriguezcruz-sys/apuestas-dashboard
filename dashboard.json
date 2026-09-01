@@ -1,19 +1,19 @@
 [
   {
-    "home": "West Ham United FC",
-    "away": "Wolverhampton Wanderers FC",
+    "home": "Sheffield United FC",
+    "away": "Bolton Wanderers FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Sheffield United FC",
-    "away": "Bolton Wanderers FC",
+    "home": "West Ham United FC",
+    "away": "Wolverhampton Wanderers FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Portsmouth FC",
     "away": "Derby County FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Preston North End FC",
     "away": "Bristol City FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Swansea City AFC",
     "away": "Watford FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Lincoln City FC",
     "away": "Blackburn Rovers FC",
     "fecha": "2026-09-01T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "Stoke City FC",
     "away": "Norwich City FC",
     "fecha": "2026-09-01T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "Birmingham City FC",
     "away": "Southampton FC",
     "fecha": "2026-09-01T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
