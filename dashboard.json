@@ -1,5 +1,15 @@
 [
   {
+    "home": "Portsmouth FC",
+    "away": "Derby County FC",
+    "fecha": "2026-09-01T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Preston North End FC",
     "away": "Bristol City FC",
     "fecha": "2026-09-01T18:45:00Z",
@@ -30,8 +40,8 @@
     }
   },
   {
-    "home": "Portsmouth FC",
-    "away": "Derby County FC",
+    "home": "Sheffield United FC",
+    "away": "Bolton Wanderers FC",
     "fecha": "2026-09-01T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,9 +60,9 @@
     }
   },
   {
-    "home": "Sheffield United FC",
-    "away": "Bolton Wanderers FC",
-    "fecha": "2026-09-01T18:45:00Z",
+    "home": "Stoke City FC",
+    "away": "Norwich City FC",
+    "fecha": "2026-09-01T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -62,16 +72,6 @@
   {
     "home": "Birmingham City FC",
     "away": "Southampton FC",
-    "fecha": "2026-09-01T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stoke City FC",
-    "away": "Norwich City FC",
     "fecha": "2026-09-01T19:00:00Z",
     "estado": "timed",
     "odds": {},
