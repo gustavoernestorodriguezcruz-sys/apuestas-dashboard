@@ -20,6 +20,16 @@
     }
   },
   {
+    "home": "Lincoln City FC",
+    "away": "Blackburn Rovers FC",
+    "fecha": "2026-09-01T18:45:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Portsmouth FC",
     "away": "Derby County FC",
     "fecha": "2026-09-01T18:45:00Z",
@@ -42,16 +52,6 @@
   {
     "home": "Swansea City AFC",
     "away": "Watford FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Lincoln City FC",
-    "away": "Blackburn Rovers FC",
     "fecha": "2026-09-01T18:45:00Z",
     "estado": "finished",
     "odds": {},
