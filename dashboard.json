@@ -1,15 +1,5 @@
 [
   {
-    "home": "Queens Park Rangers FC",
-    "away": "Cardiff City FC",
-    "fecha": "2026-09-02T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "West Bromwich Albion FC",
     "away": "Charlton Athletic FC",
     "fecha": "2026-09-02T18:45:00Z",
@@ -22,6 +12,16 @@
   {
     "home": "Millwall FC",
     "away": "Wrexham AFC",
+    "fecha": "2026-09-02T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Queens Park Rangers FC",
+    "away": "Cardiff City FC",
     "fecha": "2026-09-02T18:45:00Z",
     "estado": "timed",
     "odds": {},
