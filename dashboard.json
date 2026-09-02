@@ -1,79 +1,49 @@
 [
   {
-    "home": "Sheffield United FC",
-    "away": "Bolton Wanderers FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
+    "home": "Queens Park Rangers FC",
+    "away": "Cardiff City FC",
+    "fecha": "2026-09-02T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "West Ham United FC",
-    "away": "Wolverhampton Wanderers FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
+    "home": "Millwall FC",
+    "away": "Wrexham AFC",
+    "fecha": "2026-09-02T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Lincoln City FC",
-    "away": "Blackburn Rovers FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
+    "home": "West Bromwich Albion FC",
+    "away": "Charlton Athletic FC",
+    "fecha": "2026-09-02T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Portsmouth FC",
-    "away": "Derby County FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
+    "home": "Burnley FC",
+    "away": "Middlesbrough FC",
+    "fecha": "2026-09-02T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Preston North End FC",
-    "away": "Bristol City FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Swansea City AFC",
-    "away": "Watford FC",
-    "fecha": "2026-09-01T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stoke City FC",
-    "away": "Norwich City FC",
-    "fecha": "2026-09-01T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Birmingham City FC",
-    "away": "Southampton FC",
-    "fecha": "2026-09-01T19:00:00Z",
-    "estado": "finished",
+    "home": "CR Flamengo",
+    "away": "Mirassol FC",
+    "fecha": "2026-09-02T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
