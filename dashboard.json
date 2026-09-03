@@ -3,7 +3,7 @@
     "home": "Toulouse FC",
     "away": "Lille OSC",
     "fecha": "2026-09-03T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "Real Sociedad de Fútbol",
     "away": "RC Celta de Vigo",
     "fecha": "2026-09-03T19:00:00Z",
-    "estado": "paused",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
