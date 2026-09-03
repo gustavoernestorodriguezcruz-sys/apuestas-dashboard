@@ -1,49 +1,19 @@
 [
   {
-    "home": "West Bromwich Albion FC",
-    "away": "Charlton Athletic FC",
-    "fecha": "2026-09-02T18:45:00Z",
-    "estado": "finished",
+    "home": "Toulouse FC",
+    "away": "Lille OSC",
+    "fecha": "2026-09-03T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Millwall FC",
-    "away": "Wrexham AFC",
-    "fecha": "2026-09-02T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Queens Park Rangers FC",
-    "away": "Cardiff City FC",
-    "fecha": "2026-09-02T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Burnley FC",
-    "away": "Middlesbrough FC",
-    "fecha": "2026-09-02T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CR Flamengo",
-    "away": "Mirassol FC",
-    "fecha": "2026-09-02T22:30:00Z",
-    "estado": "inplay",
+    "home": "Real Sociedad de Fútbol",
+    "away": "RC Celta de Vigo",
+    "fecha": "2026-09-03T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
