@@ -13,7 +13,7 @@
     "home": "Sparta Rotterdam",
     "away": "PEC Zwolle",
     "fecha": "2026-09-04T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "VfB Stuttgart",
     "away": "1. FC Köln",
     "fecha": "2026-09-04T18:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,17 +33,7 @@
     "home": "Genoa CFC",
     "away": "Como 1907",
     "fecha": "2026-09-04T18:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Betis Balompié",
-    "away": "Real Madrid CF",
-    "fecha": "2026-09-04T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +43,17 @@
     "home": "Ipswich Town FC",
     "away": "Liverpool FC",
     "fecha": "2026-09-04T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Betis Balompié",
+    "away": "Real Madrid CF",
+    "fecha": "2026-09-04T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "Paris Saint-Germain FC",
     "away": "AS Monaco FC",
     "fecha": "2026-09-04T19:05:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "FC Porto",
     "away": "Moreirense FC",
     "fecha": "2026-09-04T19:15:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
