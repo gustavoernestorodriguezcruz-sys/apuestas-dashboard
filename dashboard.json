@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Real Betis Balompié",
-    "away": "Real Madrid CF",
+    "home": "Ipswich Town FC",
+    "away": "Liverpool FC",
     "fecha": "2026-09-04T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,10 +50,10 @@
     }
   },
   {
-    "home": "Ipswich Town FC",
-    "away": "Liverpool FC",
+    "home": "Real Betis Balompié",
+    "away": "Real Madrid CF",
     "fecha": "2026-09-04T19:00:00Z",
-    "estado": "timed",
+    "estado": "2026-09-04 18:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
