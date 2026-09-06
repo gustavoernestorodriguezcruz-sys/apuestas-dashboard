@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "Telstar 1963",
-    "away": "SC Cambuur-Leeuwarden",
-    "fecha": "2026-09-06T12:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "SC Heerenveen",
     "away": "AZ",
     "fecha": "2026-09-06T12:30:00Z",
@@ -50,8 +40,18 @@
     }
   },
   {
-    "home": "Parma Calcio 1913",
-    "away": "AC Monza",
+    "home": "Telstar 1963",
+    "away": "SC Cambuur-Leeuwarden",
+    "fecha": "2026-09-06T12:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "ES Troyes AC",
+    "away": "RC Strasbourg Alsace",
     "fecha": "2026-09-06T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -80,8 +80,8 @@
     }
   },
   {
-    "home": "ES Troyes AC",
-    "away": "RC Strasbourg Alsace",
+    "home": "Parma Calcio 1913",
+    "away": "AC Monza",
     "fecha": "2026-09-06T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Eintracht Frankfurt",
-    "away": "FC Augsburg",
+    "home": "Arsenal FC",
+    "away": "Chelsea FC",
     "fecha": "2026-09-06T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Arsenal FC",
-    "away": "Chelsea FC",
+    "home": "Eintracht Frankfurt",
+    "away": "FC Augsburg",
     "fecha": "2026-09-06T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "Málaga CF",
-    "away": "Levante UD",
+    "home": "Deportivo Alavés",
+    "away": "CA Osasuna",
     "fecha": "2026-09-06T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,8 +190,8 @@
     }
   },
   {
-    "home": "Deportivo Alavés",
-    "away": "CA Osasuna",
+    "home": "Málaga CF",
+    "away": "Levante UD",
     "fecha": "2026-09-06T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -230,18 +230,8 @@
     }
   },
   {
-    "home": "RCD Espanyol de Barcelona",
-    "away": "Sevilla FC",
-    "fecha": "2026-09-06T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Clube do Remo",
-    "away": "CR Flamengo",
+    "home": "SC Internacional",
+    "away": "Santos FC",
     "fecha": "2026-09-06T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -260,8 +250,18 @@
     }
   },
   {
-    "home": "SC Internacional",
-    "away": "Santos FC",
+    "home": "Clube do Remo",
+    "away": "CR Flamengo",
+    "fecha": "2026-09-06T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Sevilla FC",
     "fecha": "2026-09-06T19:00:00Z",
     "estado": "timed",
     "odds": {},
