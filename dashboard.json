@@ -3,7 +3,7 @@
     "home": "Fluminense FC",
     "away": "CR Vasco da Gama",
     "fecha": "2026-09-06T00:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "SC Heerenveen",
-    "away": "AZ",
-    "fecha": "2026-09-06T12:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Telstar 1963",
     "away": "SC Cambuur-Leeuwarden",
     "fecha": "2026-09-06T12:30:00Z",
@@ -50,19 +40,9 @@
     }
   },
   {
-    "home": "ES Troyes AC",
-    "away": "RC Strasbourg Alsace",
-    "fecha": "2026-09-06T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Everton FC",
-    "away": "Manchester United FC",
-    "fecha": "2026-09-06T13:00:00Z",
+    "home": "SC Heerenveen",
+    "away": "AZ",
+    "fecha": "2026-09-06T12:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -82,6 +62,26 @@
   {
     "home": "Frosinone Calcio",
     "away": "Venezia FC",
+    "fecha": "2026-09-06T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Everton FC",
+    "away": "Manchester United FC",
+    "fecha": "2026-09-06T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "ES Troyes AC",
+    "away": "RC Strasbourg Alsace",
     "fecha": "2026-09-06T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "Arsenal FC",
-    "away": "Chelsea FC",
+    "home": "Eintracht Frankfurt",
+    "away": "FC Augsburg",
     "fecha": "2026-09-06T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -160,8 +160,8 @@
     }
   },
   {
-    "home": "Eintracht Frankfurt",
-    "away": "FC Augsburg",
+    "home": "Arsenal FC",
+    "away": "Chelsea FC",
     "fecha": "2026-09-06T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "Deportivo Alavés",
-    "away": "CA Osasuna",
+    "home": "Málaga CF",
+    "away": "Levante UD",
     "fecha": "2026-09-06T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,8 +190,8 @@
     }
   },
   {
-    "home": "Málaga CF",
-    "away": "Levante UD",
+    "home": "Deportivo Alavés",
+    "away": "CA Osasuna",
     "fecha": "2026-09-06T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -230,26 +230,6 @@
     }
   },
   {
-    "home": "Cruzeiro EC",
-    "away": "CA Paranaense",
-    "fecha": "2026-09-06T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SC Internacional",
-    "away": "Santos FC",
-    "fecha": "2026-09-06T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "RCD Espanyol de Barcelona",
     "away": "Sevilla FC",
     "fecha": "2026-09-06T19:00:00Z",
@@ -262,6 +242,26 @@
   {
     "home": "Clube do Remo",
     "away": "CR Flamengo",
+    "fecha": "2026-09-06T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Cruzeiro EC",
+    "away": "CA Paranaense",
+    "fecha": "2026-09-06T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Internacional",
+    "away": "Santos FC",
     "fecha": "2026-09-06T19:00:00Z",
     "estado": "timed",
     "odds": {},
