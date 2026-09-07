@@ -23,7 +23,7 @@
     "home": "Udinese Calcio",
     "away": "SS Lazio",
     "fecha": "2026-09-07T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "GD Estoril Praia",
     "away": "FC Arouca",
     "fecha": "2026-09-07T19:15:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Elche CF",
     "away": "Real Sociedad de Fútbol",
     "fecha": "2026-09-07T19:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "EC Vitória",
     "away": "Grêmio FBPA",
     "fecha": "2026-09-07T23:00:00Z",
-    "estado": "timed",
+    "estado": "2026-09-07 22:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
