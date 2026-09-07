@@ -3,7 +3,7 @@
     "home": "Cagliari Calcio",
     "away": "US Lecce",
     "fecha": "2026-09-07T16:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "Getafe CF",
     "away": "RC Celta de Vigo",
     "fecha": "2026-09-07T17:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Udinese Calcio",
     "away": "SS Lazio",
     "fecha": "2026-09-07T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "EC Vitória",
     "away": "Grêmio FBPA",
     "fecha": "2026-09-07T23:00:00Z",
-    "estado": "2026-09-07 22:00:00z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
