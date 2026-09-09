@@ -1,7 +1,7 @@
 [
   {
-    "home": "VfB Stuttgart",
-    "away": "Viking FK",
+    "home": "FC Twente '65",
+    "away": "Telstar 1963",
     "fecha": "2026-09-09T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -20,19 +20,9 @@
     }
   },
   {
-    "home": "FC Twente '65",
-    "away": "Telstar 1963",
+    "home": "VfB Stuttgart",
+    "away": "Viking FK",
     "fecha": "2026-09-09T16:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Norwich City FC",
-    "away": "Birmingham City FC",
-    "fecha": "2026-09-09T18:45:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -50,9 +40,9 @@
     }
   },
   {
-    "home": "Paris Saint-Germain FC",
-    "away": "ŠK Slovan Bratislava",
-    "fecha": "2026-09-09T19:00:00Z",
+    "home": "Norwich City FC",
+    "away": "Birmingham City FC",
+    "fecha": "2026-09-09T18:45:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -60,8 +50,8 @@
     }
   },
   {
-    "home": "Sporting Clube de Portugal",
-    "away": "Galatasaray SK",
+    "home": "Liverpool FC",
+    "away": "Club Atlético de Madrid",
     "fecha": "2026-09-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -90,8 +80,18 @@
     }
   },
   {
-    "home": "Liverpool FC",
-    "away": "Club Atlético de Madrid",
+    "home": "Paris Saint-Germain FC",
+    "away": "ŠK Slovan Bratislava",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "Galatasaray SK",
     "fecha": "2026-09-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
