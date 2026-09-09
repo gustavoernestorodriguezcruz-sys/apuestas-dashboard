@@ -1,15 +1,5 @@
 [
   {
-    "home": "VfB Stuttgart",
-    "away": "Viking FK",
-    "fecha": "2026-09-09T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "FC Barcelona",
     "away": "Feyenoord Rotterdam",
     "fecha": "2026-09-09T16:45:00Z",
@@ -30,10 +20,10 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "West Bromwich Albion FC",
-    "fecha": "2026-09-09T18:45:00Z",
-    "estado": "inplay",
+    "home": "VfB Stuttgart",
+    "away": "Viking FK",
+    "fecha": "2026-09-09T16:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,47 +33,17 @@
     "home": "Norwich City FC",
     "away": "Birmingham City FC",
     "fecha": "2026-09-09T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Paris Saint-Germain FC",
-    "away": "ŠK Slovan Bratislava",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Portugal",
-    "away": "Galatasaray SK",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Liverpool FC",
-    "away": "Club Atlético de Madrid",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Charlton Athletic FC",
-    "away": "Queens Park Rangers FC",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "inplay",
+    "home": "Derby County FC",
+    "away": "West Bromwich Albion FC",
+    "fecha": "2026-09-09T18:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +53,47 @@
     "home": "SSC Napoli",
     "away": "Arsenal FC",
     "fecha": "2026-09-09T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Liverpool FC",
+    "away": "Club Atlético de Madrid",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Charlton Athletic FC",
+    "away": "Queens Park Rangers FC",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "Galatasaray SK",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Paris Saint-Germain FC",
+    "away": "ŠK Slovan Bratislava",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -103,7 +103,7 @@
     "home": "Moreirense FC",
     "away": "Sport Lisboa e Benfica",
     "fecha": "2026-09-09T19:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
