@@ -1,5 +1,15 @@
 [
   {
+    "home": "VfB Stuttgart",
+    "away": "Viking FK",
+    "fecha": "2026-09-09T16:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "FC Barcelona",
     "away": "Feyenoord Rotterdam",
     "fecha": "2026-09-09T16:45:00Z",
@@ -12,16 +22,6 @@
   {
     "home": "FC Twente '65",
     "away": "Telstar 1963",
-    "fecha": "2026-09-09T16:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "VfB Stuttgart",
-    "away": "Viking FK",
     "fecha": "2026-09-09T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -43,6 +43,26 @@
     "home": "Derby County FC",
     "away": "West Bromwich Albion FC",
     "fecha": "2026-09-09T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Paris Saint-Germain FC",
+    "away": "ŠK Slovan Bratislava",
+    "fecha": "2026-09-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "Galatasaray SK",
+    "fecha": "2026-09-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -72,26 +92,6 @@
   {
     "home": "Liverpool FC",
     "away": "Club Atlético de Madrid",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Paris Saint-Germain FC",
-    "away": "ŠK Slovan Bratislava",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Portugal",
-    "away": "Galatasaray SK",
     "fecha": "2026-09-09T19:00:00Z",
     "estado": "timed",
     "odds": {},
