@@ -1,119 +1,79 @@
 [
   {
-    "home": "FC Barcelona",
-    "away": "Feyenoord Rotterdam",
-    "fecha": "2026-09-09T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FC Twente '65",
-    "away": "Telstar 1963",
-    "fecha": "2026-09-09T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "VfB Stuttgart",
-    "away": "Viking FK",
-    "fecha": "2026-09-09T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Norwich City FC",
-    "away": "Birmingham City FC",
-    "fecha": "2026-09-09T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Derby County FC",
-    "away": "West Bromwich Albion FC",
-    "fecha": "2026-09-09T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SSC Napoli",
-    "away": "Arsenal FC",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Liverpool FC",
-    "away": "Club Atlético de Madrid",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Charlton Athletic FC",
-    "away": "Queens Park Rangers FC",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Portugal",
-    "away": "Galatasaray SK",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Paris Saint-Germain FC",
-    "away": "ŠK Slovan Bratislava",
-    "fecha": "2026-09-09T19:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Moreirense FC",
-    "away": "Sport Lisboa e Benfica",
-    "fecha": "2026-09-09T19:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SE Palmeiras",
-    "away": "LDU de Quito",
-    "fecha": "2026-09-09T22:00:00Z",
+    "home": "Estudiantes de La Plata",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-09-10T00:30:00Z",
     "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Fenerbahçe SK",
+    "away": "AS Roma",
+    "fecha": "2026-09-10T16:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "PSV",
+    "away": "FK Shakhtar Donetsk",
+    "fecha": "2026-09-10T16:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Como 1907",
+    "away": "RB Leipzig",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Bayern München",
+    "away": "FK Bodø/Glimt",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SK Slavia Praha",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Manchester United FC",
+    "away": "Sabah FK",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CF Estrela da Amadora",
+    "away": "Sporting Clube de Braga",
+    "fecha": "2026-09-10T19:15:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
