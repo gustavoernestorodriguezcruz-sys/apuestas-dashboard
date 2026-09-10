@@ -10,40 +10,20 @@
     }
   },
   {
-    "home": "PSV",
-    "away": "FK Shakhtar Donetsk",
-    "fecha": "2026-09-10T16:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Fenerbahçe SK",
     "away": "AS Roma",
     "fecha": "2026-09-10T16:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Manchester United FC",
-    "away": "Sabah FK",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SK Slavia Praha",
-    "away": "Racing Club de Lens",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "timed",
+    "home": "PSV",
+    "away": "FK Shakhtar Donetsk",
+    "fecha": "2026-09-10T16:45:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -70,10 +50,30 @@
     }
   },
   {
+    "home": "SK Slavia Praha",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Manchester United FC",
+    "away": "Sabah FK",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "CF Estrela da Amadora",
     "away": "Sporting Clube de Braga",
     "fecha": "2026-09-10T19:15:00Z",
-    "estado": "timed",
+    "estado": "2026-09-10 18:15:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
