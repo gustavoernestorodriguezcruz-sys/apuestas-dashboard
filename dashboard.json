@@ -33,7 +33,7 @@
     "home": "FC Bayern München",
     "away": "FK Bodø/Glimt",
     "fecha": "2026-09-10T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,17 +43,7 @@
     "home": "Como 1907",
     "away": "RB Leipzig",
     "fecha": "2026-09-10T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "SK Slavia Praha",
-    "away": "Racing Club de Lens",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +53,17 @@
     "home": "Manchester United FC",
     "away": "Sabah FK",
     "fecha": "2026-09-10T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SK Slavia Praha",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "CF Estrela da Amadora",
     "away": "Sporting Clube de Braga",
     "fecha": "2026-09-10T19:15:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
