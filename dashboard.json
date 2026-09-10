@@ -10,16 +10,6 @@
     }
   },
   {
-    "home": "Fenerbahçe SK",
-    "away": "AS Roma",
-    "fecha": "2026-09-10T16:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "PSV",
     "away": "FK Shakhtar Donetsk",
     "fecha": "2026-09-10T16:45:00Z",
@@ -30,9 +20,9 @@
     }
   },
   {
-    "home": "FC Bayern München",
-    "away": "FK Bodø/Glimt",
-    "fecha": "2026-09-10T19:00:00Z",
+    "home": "Fenerbahçe SK",
+    "away": "AS Roma",
+    "fecha": "2026-09-10T16:45:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -40,8 +30,8 @@
     }
   },
   {
-    "home": "Como 1907",
-    "away": "RB Leipzig",
+    "home": "SK Slavia Praha",
+    "away": "Racing Club de Lens",
     "fecha": "2026-09-10T19:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -60,8 +50,18 @@
     }
   },
   {
-    "home": "SK Slavia Praha",
-    "away": "Racing Club de Lens",
+    "home": "Como 1907",
+    "away": "RB Leipzig",
+    "fecha": "2026-09-10T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Bayern München",
+    "away": "FK Bodø/Glimt",
     "fecha": "2026-09-10T19:00:00Z",
     "estado": "finished",
     "odds": {},
