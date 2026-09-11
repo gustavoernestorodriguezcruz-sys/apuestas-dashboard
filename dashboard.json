@@ -13,7 +13,7 @@
     "home": "AZ",
     "away": "Willem II Tilburg",
     "fecha": "2026-09-11T18:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,17 +23,7 @@
     "home": "1. FC Union Berlin",
     "away": "FC Schalke 04",
     "fecha": "2026-09-11T18:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Venezia FC",
-    "away": "ACF Fiorentina",
-    "fecha": "2026-09-11T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,17 +33,17 @@
     "home": "Stade Rennais FC 1901",
     "away": "Olympique de Marseille",
     "fecha": "2026-09-11T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Sevilla FC",
-    "away": "Valencia CF",
-    "fecha": "2026-09-11T19:00:00Z",
-    "estado": "timed",
+    "home": "Venezia FC",
+    "away": "ACF Fiorentina",
+    "fecha": "2026-09-11T18:45:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +53,17 @@
     "home": "West Ham United FC",
     "away": "Wrexham AFC",
     "fecha": "2026-09-11T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sevilla FC",
+    "away": "Valencia CF",
+    "fecha": "2026-09-11T19:00:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
