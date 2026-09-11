@@ -1,8 +1,8 @@
 [
   {
-    "home": "Estudiantes de La Plata",
-    "away": "SC Corinthians Paulista",
-    "fecha": "2026-09-10T00:30:00Z",
+    "home": "CAR Independiente del Valle",
+    "away": "CR Flamengo",
+    "fecha": "2026-09-11T00:30:00Z",
     "estado": "scheduled",
     "odds": {},
     "prediction": {
@@ -10,70 +10,70 @@
     }
   },
   {
-    "home": "PSV",
-    "away": "FK Shakhtar Donetsk",
-    "fecha": "2026-09-10T16:45:00Z",
-    "estado": "finished",
+    "home": "AZ",
+    "away": "Willem II Tilburg",
+    "fecha": "2026-09-11T18:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Fenerbahçe SK",
-    "away": "AS Roma",
-    "fecha": "2026-09-10T16:45:00Z",
-    "estado": "finished",
+    "home": "1. FC Union Berlin",
+    "away": "FC Schalke 04",
+    "fecha": "2026-09-11T18:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "SK Slavia Praha",
-    "away": "Racing Club de Lens",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "finished",
+    "home": "Stade Rennais FC 1901",
+    "away": "Olympique de Marseille",
+    "fecha": "2026-09-11T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Manchester United FC",
-    "away": "Sabah FK",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "finished",
+    "home": "Venezia FC",
+    "away": "ACF Fiorentina",
+    "fecha": "2026-09-11T18:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Como 1907",
-    "away": "RB Leipzig",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "finished",
+    "home": "West Ham United FC",
+    "away": "Wrexham AFC",
+    "fecha": "2026-09-11T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Bayern München",
-    "away": "FK Bodø/Glimt",
-    "fecha": "2026-09-10T19:00:00Z",
-    "estado": "finished",
+    "home": "Sevilla FC",
+    "away": "Valencia CF",
+    "fecha": "2026-09-11T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "CF Estrela da Amadora",
-    "away": "Sporting Clube de Braga",
-    "fecha": "2026-09-10T19:15:00Z",
-    "estado": "finished",
+    "home": "Coritiba FBC",
+    "away": "CA Paranaense",
+    "fecha": "2026-09-12T00:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
