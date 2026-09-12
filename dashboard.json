@@ -3,7 +3,17 @@
     "home": "Coritiba FBC",
     "away": "CA Paranaense",
     "fecha": "2026-09-12T00:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Bolton Wanderers FC",
+    "away": "Cardiff City FC",
+    "fecha": "2026-09-12T11:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -22,16 +32,6 @@
   {
     "home": "Derby County FC",
     "away": "Birmingham City FC",
-    "fecha": "2026-09-12T11:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Bolton Wanderers FC",
-    "away": "Cardiff City FC",
     "fecha": "2026-09-12T11:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -60,6 +60,16 @@
     }
   },
   {
+    "home": "Borussia Dortmund",
+    "away": "SC Paderborn 07",
+    "fecha": "2026-09-12T13:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "SC Freiburg",
     "away": "Borussia Mönchengladbach",
     "fecha": "2026-09-12T13:30:00Z",
@@ -70,8 +80,8 @@
     }
   },
   {
-    "home": "Borussia Dortmund",
-    "away": "SC Paderborn 07",
+    "home": "FC Augsburg",
+    "away": "Bayer 04 Leverkusen",
     "fecha": "2026-09-12T13:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -100,9 +110,9 @@
     }
   },
   {
-    "home": "FC Augsburg",
-    "away": "Bayer 04 Leverkusen",
-    "fecha": "2026-09-12T13:30:00Z",
+    "home": "Swansea City AFC",
+    "away": "Burnley FC",
+    "fecha": "2026-09-12T14:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -130,8 +140,18 @@
     }
   },
   {
-    "home": "Swansea City AFC",
-    "away": "Burnley FC",
+    "home": "Blackburn Rovers FC",
+    "away": "Millwall FC",
+    "fecha": "2026-09-12T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AFC Bournemouth",
+    "away": "Brentford FC",
     "fecha": "2026-09-12T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -202,26 +222,6 @@
   {
     "home": "Watford FC",
     "away": "Stoke City FC",
-    "fecha": "2026-09-12T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Blackburn Rovers FC",
-    "away": "Millwall FC",
-    "fecha": "2026-09-12T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AFC Bournemouth",
-    "away": "Brentford FC",
     "fecha": "2026-09-12T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -350,6 +350,16 @@
     }
   },
   {
+    "home": "Paris FC",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-09-12T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "FC Lorient",
     "away": "Toulouse FC",
     "fecha": "2026-09-12T18:45:00Z",
@@ -380,9 +390,19 @@
     }
   },
   {
-    "home": "Paris FC",
-    "away": "Olympique Lyonnais",
-    "fecha": "2026-09-12T18:45:00Z",
+    "home": "CA Mineiro",
+    "away": "Fluminense FC",
+    "fecha": "2026-09-12T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Madrid CF",
+    "away": "Rayo Vallecano de Madrid",
+    "fecha": "2026-09-12T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -402,26 +422,6 @@
   {
     "home": "Grêmio FBPA",
     "away": "CR Vasco da Gama",
-    "fecha": "2026-09-12T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Mineiro",
-    "away": "Fluminense FC",
-    "fecha": "2026-09-12T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Madrid CF",
-    "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-09-12T19:00:00Z",
     "estado": "timed",
     "odds": {},
