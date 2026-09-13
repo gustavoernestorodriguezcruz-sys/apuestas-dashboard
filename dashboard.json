@@ -3,7 +3,7 @@
     "home": "Santos FC",
     "away": "Cruzeiro EC",
     "fecha": "2026-09-13T00:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -60,8 +60,8 @@
     }
   },
   {
-    "home": "US Lecce",
-    "away": "AC Monza",
+    "home": "Lille OSC",
+    "away": "ES Troyes AC",
     "fecha": "2026-09-13T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -70,8 +70,8 @@
     }
   },
   {
-    "home": "Lille OSC",
-    "away": "ES Troyes AC",
+    "home": "US Lecce",
+    "away": "AC Monza",
     "fecha": "2026-09-13T13:00:00Z",
     "estado": "timed",
     "odds": {},
