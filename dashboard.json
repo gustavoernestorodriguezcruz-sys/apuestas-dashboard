@@ -1,7 +1,7 @@
 [
   {
-    "home": "Torino FC",
-    "away": "AS Roma",
+    "home": "Como 1907",
+    "away": "Parma Calcio 1913",
     "fecha": "2026-09-14T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "Como 1907",
-    "away": "Parma Calcio 1913",
+    "home": "Torino FC",
+    "away": "AS Roma",
     "fecha": "2026-09-14T16:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Villarreal CF",
-    "away": "Real Betis Balompié",
+    "home": "Leeds United FC",
+    "away": "Newcastle United FC",
     "fecha": "2026-09-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -50,8 +50,8 @@
     }
   },
   {
-    "home": "Leeds United FC",
-    "away": "Newcastle United FC",
+    "home": "Villarreal CF",
+    "away": "Real Betis Balompié",
     "fecha": "2026-09-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -83,7 +83,7 @@
     "home": "EC Bahia",
     "away": "Clube do Remo",
     "fecha": "2026-09-14T23:00:00Z",
-    "estado": "timed",
+    "estado": "2026-09-14 23:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
