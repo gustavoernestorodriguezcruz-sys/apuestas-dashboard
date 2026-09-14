@@ -1,19 +1,19 @@
 [
   {
-    "home": "Como 1907",
-    "away": "Parma Calcio 1913",
+    "home": "Torino FC",
+    "away": "AS Roma",
     "fecha": "2026-09-14T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AS Roma",
+    "home": "Como 1907",
+    "away": "Parma Calcio 1913",
     "fecha": "2026-09-14T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Rio Ave FC",
     "away": "CF Estrela da Amadora",
     "fecha": "2026-09-14T17:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,17 +33,7 @@
     "home": "FC Internazionale Milano",
     "away": "Udinese Calcio",
     "fecha": "2026-09-14T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Leeds United FC",
-    "away": "Newcastle United FC",
-    "fecha": "2026-09-14T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +43,17 @@
     "home": "Villarreal CF",
     "away": "Real Betis Balompié",
     "fecha": "2026-09-14T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Leeds United FC",
+    "away": "Newcastle United FC",
+    "fecha": "2026-09-14T19:00:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "Moreirense FC",
     "away": "CS Marítimo",
     "fecha": "2026-09-14T19:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "Sporting Clube de Braga",
     "away": "GD Estoril Praia",
     "fecha": "2026-09-14T19:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "EC Bahia",
     "away": "Clube do Remo",
     "fecha": "2026-09-14T23:00:00Z",
-    "estado": "2026-09-14 23:00:00z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
