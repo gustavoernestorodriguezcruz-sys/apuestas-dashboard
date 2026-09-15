@@ -3,17 +3,7 @@
     "home": "Rayo Vallecano de Madrid",
     "away": "RCD Espanyol de Barcelona",
     "fecha": "2026-09-15T17:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AFC Ajax",
-    "away": "Willem II Tilburg",
-    "fecha": "2026-09-15T18:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +13,17 @@
     "home": "Deportivo Alavés",
     "away": "Valencia CF",
     "fecha": "2026-09-15T18:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AFC Ajax",
+    "away": "Willem II Tilburg",
+    "fecha": "2026-09-15T18:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Middlesbrough FC",
     "away": "Millwall FC",
     "fecha": "2026-09-15T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Bristol City FC",
     "away": "Lincoln City FC",
     "fecha": "2026-09-15T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Elche CF",
     "away": "Real Madrid CF",
     "fecha": "2026-09-15T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
