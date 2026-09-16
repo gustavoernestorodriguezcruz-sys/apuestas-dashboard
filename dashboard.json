@@ -1,69 +1,59 @@
 [
   {
-    "home": "Rayo Vallecano de Madrid",
-    "away": "RCD Espanyol de Barcelona",
-    "fecha": "2026-09-15T17:00:00Z",
-    "estado": "finished",
+    "home": "RC Deportivo La Coruña",
+    "away": "Sevilla FC",
+    "fecha": "2026-09-16T17:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Deportivo Alavés",
-    "away": "Valencia CF",
-    "fecha": "2026-09-15T18:00:00Z",
-    "estado": "finished",
+    "home": "Club Atlético de Madrid",
+    "away": "CA Osasuna",
+    "fecha": "2026-09-16T17:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "AFC Ajax",
-    "away": "Willem II Tilburg",
-    "fecha": "2026-09-15T18:00:00Z",
-    "estado": "finished",
+    "home": "Levante UD",
+    "away": "Athletic Club",
+    "fecha": "2026-09-16T19:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Middlesbrough FC",
-    "away": "Millwall FC",
-    "fecha": "2026-09-15T18:45:00Z",
-    "estado": "finished",
+    "home": "FC Barcelona",
+    "away": "Real Racing Club de Santander",
+    "fecha": "2026-09-16T19:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Bristol City FC",
-    "away": "Lincoln City FC",
-    "fecha": "2026-09-15T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Elche CF",
-    "away": "Real Madrid CF",
-    "fecha": "2026-09-15T19:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Platense",
-    "away": "Fluminense FC",
-    "fecha": "2026-09-15T22:00:00Z",
+    "home": "LDU de Quito",
+    "away": "SE Palmeiras",
+    "fecha": "2026-09-16T22:00:00Z",
     "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "Grêmio FBPA",
+    "fecha": "2026-09-16T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
