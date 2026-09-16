@@ -1,15 +1,5 @@
 [
   {
-    "home": "Club Atlético de Madrid",
-    "away": "CA Osasuna",
-    "fecha": "2026-09-16T17:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "RC Deportivo La Coruña",
     "away": "Sevilla FC",
     "fecha": "2026-09-16T17:00:00Z",
@@ -20,9 +10,9 @@
     }
   },
   {
-    "home": "FC Barcelona",
-    "away": "Real Racing Club de Santander",
-    "fecha": "2026-09-16T19:30:00Z",
+    "home": "Club Atlético de Madrid",
+    "away": "CA Osasuna",
+    "fecha": "2026-09-16T17:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -32,6 +22,16 @@
   {
     "home": "Levante UD",
     "away": "Athletic Club",
+    "fecha": "2026-09-16T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Barcelona",
+    "away": "Real Racing Club de Santander",
     "fecha": "2026-09-16T19:30:00Z",
     "estado": "timed",
     "odds": {},
