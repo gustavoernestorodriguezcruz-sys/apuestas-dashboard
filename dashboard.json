@@ -1,8 +1,8 @@
 [
   {
-    "home": "SC Corinthians Paulista",
-    "away": "Estudiantes de La Plata",
-    "fecha": "2026-09-17T00:30:00Z",
+    "home": "CR Flamengo",
+    "away": "CAR Independiente del Valle",
+    "fecha": "2026-09-18T00:30:00Z",
     "estado": "scheduled",
     "odds": {},
     "prediction": {
@@ -10,20 +10,70 @@
     }
   },
   {
-    "home": "Real Betis Balompié",
-    "away": "Getafe CF",
-    "fecha": "2026-09-17T17:00:00Z",
-    "estado": "finished",
+    "home": "FC Groningen",
+    "away": "PEC Zwolle",
+    "fecha": "2026-09-18T18:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Málaga CF",
-    "away": "Villarreal CF",
-    "fecha": "2026-09-17T19:30:00Z",
-    "estado": "finished",
+    "home": "FC Bayern München",
+    "away": "1. FC Union Berlin",
+    "fecha": "2026-09-18T18:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AS Monaco FC",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-09-18T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AC Monza",
+    "away": "US Sassuolo Calcio",
+    "fecha": "2026-09-18T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Bristol City FC",
+    "away": "Watford FC",
+    "fecha": "2026-09-18T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Brentford FC",
+    "away": "Chelsea FC",
+    "fecha": "2026-09-18T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RCD Espanyol de Barcelona",
+    "away": "Elche CF",
+    "fecha": "2026-09-18T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
