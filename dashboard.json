@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "AC Monza",
-    "away": "US Sassuolo Calcio",
-    "fecha": "2026-09-18T18:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "AS Monaco FC",
     "away": "Racing Club de Lens",
     "fecha": "2026-09-18T18:45:00Z",
@@ -50,10 +40,10 @@
     }
   },
   {
-    "home": "Bristol City FC",
-    "away": "Watford FC",
-    "fecha": "2026-09-18T19:00:00Z",
-    "estado": "inplay",
+    "home": "AC Monza",
+    "away": "US Sassuolo Calcio",
+    "fecha": "2026-09-18T18:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +53,17 @@
     "home": "RCD Espanyol de Barcelona",
     "away": "Elche CF",
     "fecha": "2026-09-18T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Bristol City FC",
+    "away": "Watford FC",
+    "fecha": "2026-09-18T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "Brentford FC",
     "away": "Chelsea FC",
     "fecha": "2026-09-18T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
