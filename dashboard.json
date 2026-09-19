@@ -150,6 +150,16 @@
     }
   },
   {
+    "home": "Wrexham AFC",
+    "away": "Southampton FC",
+    "fecha": "2026-09-19T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Everton FC",
     "away": "Ipswich Town FC",
     "fecha": "2026-09-19T14:00:00Z",
@@ -182,16 +192,6 @@
   {
     "home": "Lincoln City FC",
     "away": "Swansea City AFC",
-    "fecha": "2026-09-19T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Wrexham AFC",
-    "away": "Southampton FC",
     "fecha": "2026-09-19T14:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -260,6 +260,16 @@
     }
   },
   {
+    "home": "Nottingham Forest FC",
+    "away": "Coventry City FC",
+    "fecha": "2026-09-19T16:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "VfB Stuttgart",
     "away": "Borussia Dortmund",
     "fecha": "2026-09-19T16:30:00Z",
@@ -272,16 +282,6 @@
   {
     "home": "RC Celta de Vigo",
     "away": "Real Racing Club de Santander",
-    "fecha": "2026-09-19T16:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Nottingham Forest FC",
-    "away": "Coventry City FC",
     "fecha": "2026-09-19T16:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -303,7 +303,7 @@
     "home": "FC Alverca",
     "away": "Rio Ave FC",
     "fecha": "2026-09-19T17:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -313,37 +313,7 @@
     "home": "AFC Ajax",
     "away": "SBV Excelsior",
     "fecha": "2026-09-19T18:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Venezia FC",
-    "away": "SS Lazio",
-    "fecha": "2026-09-19T18:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Toulouse FC",
-    "away": "Le Havre AC",
-    "fecha": "2026-09-19T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Olympique Lyonnais",
-    "away": "Stade Rennais FC 1901",
-    "fecha": "2026-09-19T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -353,7 +323,37 @@
     "home": "Le Mans FC",
     "away": "FC Lorient",
     "fecha": "2026-09-19T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Venezia FC",
+    "away": "SS Lazio",
+    "fecha": "2026-09-19T18:45:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Toulouse FC",
+    "away": "Le Havre AC",
+    "fecha": "2026-09-19T18:45:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Olympique Lyonnais",
+    "away": "Stade Rennais FC 1901",
+    "fecha": "2026-09-19T18:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -363,7 +363,7 @@
     "home": "Angers SCO",
     "away": "ES Troyes AC",
     "fecha": "2026-09-19T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -373,7 +373,7 @@
     "home": "Willem II Tilburg",
     "away": "Fortuna Sittard",
     "fecha": "2026-09-19T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -383,7 +383,7 @@
     "home": "Sevilla FC",
     "away": "FC Barcelona",
     "fecha": "2026-09-19T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -393,7 +393,7 @@
     "home": "CA Mineiro",
     "away": "Chapecoense AF",
     "fecha": "2026-09-19T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -403,7 +403,7 @@
     "home": "Sporting Clube de Portugal",
     "away": "FC Arouca",
     "fecha": "2026-09-19T19:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -413,7 +413,7 @@
     "home": "Mirassol FC",
     "away": "Botafogo FR",
     "fecha": "2026-09-19T20:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
