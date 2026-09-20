@@ -60,8 +60,8 @@
     }
   },
   {
-    "home": "AZ",
-    "away": "Telstar 1963",
+    "home": "FC Twente '65",
+    "away": "PSV",
     "fecha": "2026-09-20T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -70,8 +70,8 @@
     }
   },
   {
-    "home": "FC Twente '65",
-    "away": "PSV",
+    "home": "AZ",
+    "away": "Telstar 1963",
     "fecha": "2026-09-20T12:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -110,16 +110,6 @@
     }
   },
   {
-    "home": "AFC Bournemouth",
-    "away": "Liverpool FC",
-    "fecha": "2026-09-20T13:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Frosinone Calcio",
     "away": "Como 1907",
     "fecha": "2026-09-20T13:00:00Z",
@@ -132,6 +122,16 @@
   {
     "home": "Leeds United FC",
     "away": "Crystal Palace FC",
+    "fecha": "2026-09-20T13:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AFC Bournemouth",
+    "away": "Liverpool FC",
     "fecha": "2026-09-20T13:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -170,8 +170,8 @@
     }
   },
   {
-    "home": "Vitória SC",
-    "away": "Moreirense FC",
+    "home": "CF Estrela da Amadora",
+    "away": "Académico de Viseu FC",
     "fecha": "2026-09-20T14:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "CF Estrela da Amadora",
-    "away": "Académico de Viseu FC",
+    "home": "Vitória SC",
+    "away": "Moreirense FC",
     "fecha": "2026-09-20T14:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -260,8 +260,8 @@
     }
   },
   {
-    "home": "CD Santa Clara",
-    "away": "Sporting Clube de Braga",
+    "home": "GD Estoril Praia",
+    "away": "Casa Pia AC",
     "fecha": "2026-09-20T17:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -270,8 +270,8 @@
     }
   },
   {
-    "home": "GD Estoril Praia",
-    "away": "Casa Pia AC",
+    "home": "CD Santa Clara",
+    "away": "Sporting Clube de Braga",
     "fecha": "2026-09-20T17:00:00Z",
     "estado": "finished",
     "odds": {},
@@ -293,7 +293,7 @@
     "home": "Olympique de Marseille",
     "away": "Paris Saint-Germain FC",
     "fecha": "2026-09-20T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -303,7 +303,7 @@
     "home": "AC Milan",
     "away": "US Lecce",
     "fecha": "2026-09-20T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -313,17 +313,7 @@
     "home": "SC Corinthians Paulista",
     "away": "Fluminense FC",
     "fecha": "2026-09-20T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Valencia CF",
-    "away": "Real Sociedad de Fútbol",
-    "fecha": "2026-09-20T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -333,7 +323,17 @@
     "home": "EC Vitória",
     "away": "Cruzeiro EC",
     "fecha": "2026-09-20T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Valencia CF",
+    "away": "Real Sociedad de Fútbol",
+    "fecha": "2026-09-20T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -343,7 +343,7 @@
     "home": "FC Porto",
     "away": "Sport Lisboa e Benfica",
     "fecha": "2026-09-20T19:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -353,7 +353,7 @@
     "home": "CR Flamengo",
     "away": "RB Bragantino",
     "fecha": "2026-09-20T21:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
