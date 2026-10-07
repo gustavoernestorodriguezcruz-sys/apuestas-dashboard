@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "home": "SC Internacional",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-10-07T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Clube do Remo",
+    "away": "Grêmio FBPA",
+    "fecha": "2026-10-07T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "Mirassol FC",
+    "fecha": "2026-10-07T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "EC Vitória",
+    "away": "Chapecoense AF",
+    "fecha": "2026-10-07T23:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "CR Vasco da Gama",
+    "fecha": "2026-10-07T23:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  }
+]
