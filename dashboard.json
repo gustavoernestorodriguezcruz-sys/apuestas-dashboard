@@ -1,7 +1,7 @@
 [
   {
-    "home": "Clube do Remo",
-    "away": "Grêmio FBPA",
+    "home": "SC Internacional",
+    "away": "SC Corinthians Paulista",
     "fecha": "2026-10-07T22:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -20,8 +20,8 @@
     }
   },
   {
-    "home": "SC Internacional",
-    "away": "SC Corinthians Paulista",
+    "home": "Clube do Remo",
+    "away": "Grêmio FBPA",
     "fecha": "2026-10-07T22:30:00Z",
     "estado": "timed",
     "odds": {},
