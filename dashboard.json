@@ -1,18 +1,28 @@
 [
   {
-    "home": "Cruzeiro EC",
-    "away": "São Paulo FC",
-    "fecha": "2026-10-08T00:30:00Z",
-    "estado": "finished",
+    "home": "Fluminense FC",
+    "away": "Coritiba FBC",
+    "fecha": "2026-10-09T00:30:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Santos FC",
-    "away": "CR Flamengo",
-    "fecha": "2026-10-08T22:30:00Z",
+    "home": "SE Palmeiras",
+    "away": "EC Bahia",
+    "fecha": "2026-10-09T00:30:00Z",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Moreirense FC",
+    "away": "Gil Vicente FC",
+    "fecha": "2026-10-09T17:45:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -20,9 +30,59 @@
     }
   },
   {
-    "home": "CA Paranaense",
-    "away": "CA Mineiro",
-    "fecha": "2026-10-08T23:00:00Z",
+    "home": "PSV",
+    "away": "SC Heerenveen",
+    "fecha": "2026-10-09T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Borussia Dortmund",
+    "away": "SV Werder Bremen",
+    "fecha": "2026-10-09T18:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Racing Club de Lens",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-10-09T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "West Ham United FC",
+    "away": "Queens Park Rangers FC",
+    "fecha": "2026-10-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Málaga CF",
+    "away": "RCD Espanyol de Barcelona",
+    "fecha": "2026-10-09T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Braga",
+    "away": "Sporting Clube de Portugal",
+    "fecha": "2026-10-09T19:15:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
