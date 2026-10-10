@@ -323,7 +323,7 @@
     "home": "AS Monaco FC",
     "away": "Toulouse FC",
     "fecha": "2026-10-10T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -333,7 +333,7 @@
     "home": "SSC Napoli",
     "away": "Frosinone Calcio",
     "fecha": "2026-10-10T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -343,7 +343,7 @@
     "home": "FC Lorient",
     "away": "Paris FC",
     "fecha": "2026-10-10T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -353,7 +353,7 @@
     "home": "Stade Brestois 29",
     "away": "Angers SCO",
     "fecha": "2026-10-10T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -363,7 +363,7 @@
     "home": "Paris Saint-Germain FC",
     "away": "Le Mans FC",
     "fecha": "2026-10-10T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -373,7 +373,7 @@
     "home": "Real Madrid CF",
     "away": "Villarreal CF",
     "fecha": "2026-10-10T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -383,7 +383,7 @@
     "home": "AFC Ajax",
     "away": "NEC",
     "fecha": "2026-10-10T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -393,7 +393,7 @@
     "home": "Casa Pia AC",
     "away": "CD Santa Clara",
     "fecha": "2026-10-10T19:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -403,7 +403,7 @@
     "home": "Académico de Viseu FC",
     "away": "GD Estoril Praia",
     "fecha": "2026-10-10T19:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -413,7 +413,7 @@
     "home": "CR Vasco da Gama",
     "away": "Clube do Remo",
     "fecha": "2026-10-10T21:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
