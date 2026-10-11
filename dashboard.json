@@ -70,16 +70,6 @@
     }
   },
   {
-    "home": "OGC Nice",
-    "away": "RC Strasbourg Alsace",
-    "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Hull City AFC",
     "away": "Everton FC",
     "fecha": "2026-10-11T13:00:00Z",
@@ -100,8 +90,8 @@
     }
   },
   {
-    "home": "US Lecce",
-    "away": "Bologna FC 1909",
+    "home": "OGC Nice",
+    "away": "RC Strasbourg Alsace",
     "fecha": "2026-10-11T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -112,6 +102,16 @@
   {
     "home": "Crystal Palace FC",
     "away": "Nottingham Forest FC",
+    "fecha": "2026-10-11T13:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "US Lecce",
+    "away": "Bologna FC 1909",
     "fecha": "2026-10-11T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -220,8 +220,8 @@
     }
   },
   {
-    "home": "ES Troyes AC",
-    "away": "Olympique de Marseille",
+    "home": "Cagliari Calcio",
+    "away": "Juventus FC",
     "fecha": "2026-10-11T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -230,8 +230,8 @@
     }
   },
   {
-    "home": "Cagliari Calcio",
-    "away": "Juventus FC",
+    "home": "ES Troyes AC",
+    "away": "Olympique de Marseille",
     "fecha": "2026-10-11T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -280,8 +280,8 @@
     }
   },
   {
-    "home": "CR Flamengo",
-    "away": "Fluminense FC",
+    "home": "SE Palmeiras",
+    "away": "SC Corinthians Paulista",
     "fecha": "2026-10-11T20:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -290,8 +290,8 @@
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "SC Corinthians Paulista",
+    "home": "CR Flamengo",
+    "away": "Fluminense FC",
     "fecha": "2026-10-11T20:30:00Z",
     "estado": "timed",
     "odds": {},
