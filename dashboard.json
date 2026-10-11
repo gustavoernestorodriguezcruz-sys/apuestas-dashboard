@@ -13,7 +13,7 @@
     "home": "FC Utrecht",
     "away": "Willem II Tilburg",
     "fecha": "2026-10-11T10:15:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Como 1907",
     "away": "AS Roma",
     "fecha": "2026-10-11T10:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Southampton FC",
     "away": "Portsmouth FC",
     "fecha": "2026-10-11T11:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Elche CF",
     "away": "RC Celta de Vigo",
     "fecha": "2026-10-11T12:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "PEC Zwolle",
     "away": "SC Cambuur-Leeuwarden",
     "fecha": "2026-10-11T12:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "Telstar 1963",
     "away": "ADO Den Haag",
     "fecha": "2026-10-11T12:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "Hull City AFC",
     "away": "Everton FC",
     "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "SS Lazio",
     "away": "AC Monza",
     "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,17 +93,7 @@
     "home": "OGC Nice",
     "away": "RC Strasbourg Alsace",
     "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Crystal Palace FC",
-    "away": "Nottingham Forest FC",
-    "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -113,7 +103,17 @@
     "home": "US Lecce",
     "away": "Bologna FC 1909",
     "fecha": "2026-10-11T13:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Crystal Palace FC",
+    "away": "Nottingham Forest FC",
+    "fecha": "2026-10-11T13:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -123,7 +123,7 @@
     "home": "1. FC Köln",
     "away": "Borussia Mönchengladbach",
     "fecha": "2026-10-11T13:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -133,7 +133,7 @@
     "home": "Real Sociedad de Fútbol",
     "away": "RC Deportivo La Coruña",
     "fecha": "2026-10-11T14:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -143,7 +143,7 @@
     "home": "Rio Ave FC",
     "away": "CD Nacional",
     "fecha": "2026-10-11T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -153,7 +153,7 @@
     "home": "SBV Excelsior",
     "away": "FC Groningen",
     "fecha": "2026-10-11T14:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -240,8 +240,8 @@
     }
   },
   {
-    "home": "CA Mineiro",
-    "away": "Santos FC",
+    "home": "Real Racing Club de Santander",
+    "away": "Valencia CF",
     "fecha": "2026-10-11T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -250,8 +250,8 @@
     }
   },
   {
-    "home": "Real Racing Club de Santander",
-    "away": "Valencia CF",
+    "home": "CA Mineiro",
+    "away": "Santos FC",
     "fecha": "2026-10-11T19:00:00Z",
     "estado": "timed",
     "odds": {},
