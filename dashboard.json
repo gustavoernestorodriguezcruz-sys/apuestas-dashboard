@@ -20,6 +20,16 @@
     }
   },
   {
+    "home": "Coritiba FBC",
+    "away": "Botafogo FR",
+    "fecha": "2026-10-12T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Coventry City FC",
     "away": "Newcastle United FC",
     "fecha": "2026-10-12T19:00:00Z",
@@ -32,16 +42,6 @@
   {
     "home": "Levante UD",
     "away": "Sevilla FC",
-    "fecha": "2026-10-12T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Coritiba FBC",
-    "away": "Botafogo FR",
     "fecha": "2026-10-12T19:00:00Z",
     "estado": "timed",
     "odds": {},
