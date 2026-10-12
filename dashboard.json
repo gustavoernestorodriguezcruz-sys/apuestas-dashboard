@@ -3,7 +3,7 @@
     "home": "Atalanta BC",
     "away": "Venezia FC",
     "fecha": "2026-10-12T16:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "Torino FC",
     "away": "Udinese Calcio",
     "fecha": "2026-10-12T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Coritiba FBC",
     "away": "Botafogo FR",
     "fecha": "2026-10-12T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Coventry City FC",
     "away": "Newcastle United FC",
     "fecha": "2026-10-12T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Levante UD",
     "away": "Sevilla FC",
     "fecha": "2026-10-12T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
