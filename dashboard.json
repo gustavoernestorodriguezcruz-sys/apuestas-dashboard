@@ -20,16 +20,6 @@
     }
   },
   {
-    "home": "Queens Park Rangers FC",
-    "away": "Derby County FC",
-    "fecha": "2026-10-14T18:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Norwich City FC",
     "away": "Southampton FC",
     "fecha": "2026-10-14T18:45:00Z",
@@ -42,6 +32,16 @@
   {
     "home": "Portsmouth FC",
     "away": "Sheffield United FC",
+    "fecha": "2026-10-14T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Queens Park Rangers FC",
+    "away": "Derby County FC",
     "fecha": "2026-10-14T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -90,8 +90,8 @@
     }
   },
   {
-    "home": "Lincoln City FC",
-    "away": "West Ham United FC",
+    "home": "Aston Villa FC",
+    "away": "Fenerbahçe SK",
     "fecha": "2026-10-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -120,8 +120,8 @@
     }
   },
   {
-    "home": "Aston Villa FC",
-    "away": "Fenerbahçe SK",
+    "home": "Lincoln City FC",
+    "away": "West Ham United FC",
     "fecha": "2026-10-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
