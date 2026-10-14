@@ -1,7 +1,7 @@
 [
   {
-    "home": "Feyenoord Rotterdam",
-    "away": "Como 1907",
+    "home": "LASK Linz",
+    "away": "Liverpool FC",
     "fecha": "2026-10-14T16:45:00Z",
     "estado": "finished",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "LASK Linz",
-    "away": "Liverpool FC",
+    "home": "Feyenoord Rotterdam",
+    "away": "Como 1907",
     "fecha": "2026-10-14T16:45:00Z",
     "estado": "finished",
     "odds": {},
@@ -23,17 +23,7 @@
     "home": "Queens Park Rangers FC",
     "away": "Derby County FC",
     "fecha": "2026-10-14T18:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Portsmouth FC",
-    "away": "Sheffield United FC",
-    "fecha": "2026-10-14T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +33,17 @@
     "home": "Norwich City FC",
     "away": "Southampton FC",
     "fecha": "2026-10-14T18:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Portsmouth FC",
+    "away": "Sheffield United FC",
+    "fecha": "2026-10-14T18:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,67 +53,7 @@
     "home": "Lincoln City FC",
     "away": "West Ham United FC",
     "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FK Shakhtar Donetsk",
-    "away": "PAE AEK",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Manchester City FC",
-    "away": "Paris Saint-Germain FC",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Aston Villa FC",
-    "away": "Fenerbahçe SK",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AS Roma",
-    "away": "Real Madrid CF",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "ŠK Slovan Bratislava",
-    "away": "VfB Stuttgart",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FK Bodø/Glimt",
-    "away": "Borussia Dortmund",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -123,7 +63,67 @@
     "home": "Real Betis Balompié",
     "away": "FC Porto",
     "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AS Roma",
+    "away": "Real Madrid CF",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "ŠK Slovan Bratislava",
+    "away": "VfB Stuttgart",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FK Bodø/Glimt",
+    "away": "Borussia Dortmund",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Aston Villa FC",
+    "away": "Fenerbahçe SK",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FK Shakhtar Donetsk",
+    "away": "PAE AEK",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Manchester City FC",
+    "away": "Paris Saint-Germain FC",
+    "fecha": "2026-10-14T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
