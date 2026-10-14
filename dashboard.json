@@ -30,6 +30,16 @@
     }
   },
   {
+    "home": "Norwich City FC",
+    "away": "Southampton FC",
+    "fecha": "2026-10-14T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Portsmouth FC",
     "away": "Sheffield United FC",
     "fecha": "2026-10-14T18:45:00Z",
@@ -40,9 +50,9 @@
     }
   },
   {
-    "home": "Norwich City FC",
-    "away": "Southampton FC",
-    "fecha": "2026-10-14T18:45:00Z",
+    "home": "Real Betis Balompié",
+    "away": "FC Porto",
+    "fecha": "2026-10-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -82,16 +92,6 @@
   {
     "home": "Lincoln City FC",
     "away": "West Ham United FC",
-    "fecha": "2026-10-14T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Betis Balompié",
-    "away": "FC Porto",
     "fecha": "2026-10-14T19:00:00Z",
     "estado": "timed",
     "odds": {},
