@@ -13,7 +13,7 @@
     "home": "SC Heerenveen",
     "away": "SBV Excelsior",
     "fecha": "2026-10-16T18:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,17 +23,7 @@
     "home": "Eintracht Frankfurt",
     "away": "1. FC Köln",
     "fecha": "2026-10-16T18:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Le Mans FC",
-    "away": "Toulouse FC",
-    "fecha": "2026-10-16T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,17 +33,17 @@
     "home": "Frosinone Calcio",
     "away": "US Sassuolo Calcio",
     "fecha": "2026-10-16T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "RC Deportivo La Coruña",
-    "away": "Levante UD",
-    "fecha": "2026-10-16T19:00:00Z",
-    "estado": "timed",
+    "home": "Le Mans FC",
+    "away": "Toulouse FC",
+    "fecha": "2026-10-16T18:45:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +53,17 @@
     "home": "Burnley FC",
     "away": "Wolverhampton Wanderers FC",
     "fecha": "2026-10-16T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RC Deportivo La Coruña",
+    "away": "Levante UD",
+    "fecha": "2026-10-16T19:00:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
