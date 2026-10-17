@@ -263,7 +263,7 @@
     "home": "FC Bayern München",
     "away": "RB Leipzig",
     "fecha": "2026-10-17T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -273,7 +273,7 @@
     "home": "Real Betis Balompié",
     "away": "FC Barcelona",
     "fecha": "2026-10-17T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -283,7 +283,7 @@
     "home": "Newcastle United FC",
     "away": "Aston Villa FC",
     "fecha": "2026-10-17T16:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -293,7 +293,7 @@
     "home": "Telstar 1963",
     "away": "Feyenoord Rotterdam",
     "fecha": "2026-10-17T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -303,7 +303,7 @@
     "home": "Lille OSC",
     "away": "Stade Brestois 29",
     "fecha": "2026-10-17T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -313,7 +313,7 @@
     "home": "AS Roma",
     "away": "Genoa CFC",
     "fecha": "2026-10-17T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -323,7 +323,7 @@
     "home": "ES Troyes AC",
     "away": "Racing Club de Lens",
     "fecha": "2026-10-17T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -333,7 +333,7 @@
     "home": "Sparta Rotterdam",
     "away": "Willem II Tilburg",
     "fecha": "2026-10-17T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -343,7 +343,7 @@
     "home": "Valencia CF",
     "away": "Athletic Club",
     "fecha": "2026-10-17T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
