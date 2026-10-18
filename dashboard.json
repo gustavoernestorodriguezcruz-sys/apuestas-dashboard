@@ -50,8 +50,8 @@
     }
   },
   {
-    "home": "Leeds United FC",
-    "away": "Manchester United FC",
+    "home": "Angers SCO",
+    "away": "Olympique de Marseille",
     "fecha": "2026-10-18T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -60,8 +60,8 @@
     }
   },
   {
-    "home": "Angers SCO",
-    "away": "Olympique de Marseille",
+    "home": "Leeds United FC",
+    "away": "Manchester United FC",
     "fecha": "2026-10-18T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -80,8 +80,8 @@
     }
   },
   {
-    "home": "ACF Fiorentina",
-    "away": "Como 1907",
+    "home": "AFC Bournemouth",
+    "away": "Sunderland AFC",
     "fecha": "2026-10-18T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -90,8 +90,8 @@
     }
   },
   {
-    "home": "AFC Bournemouth",
-    "away": "Sunderland AFC",
+    "home": "ACF Fiorentina",
+    "away": "Como 1907",
     "fecha": "2026-10-18T13:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -140,8 +140,8 @@
     }
   },
   {
-    "home": "Le Havre AC",
-    "away": "AJ Auxerre",
+    "home": "FC Lorient",
+    "away": "AS Monaco FC",
     "fecha": "2026-10-18T15:15:00Z",
     "estado": "timed",
     "odds": {},
@@ -150,8 +150,8 @@
     }
   },
   {
-    "home": "FC Lorient",
-    "away": "AS Monaco FC",
+    "home": "Le Havre AC",
+    "away": "AJ Auxerre",
     "fecha": "2026-10-18T15:15:00Z",
     "estado": "timed",
     "odds": {},
@@ -220,8 +220,8 @@
     }
   },
   {
-    "home": "Juventus FC",
-    "away": "SS Lazio",
+    "home": "Olympique Lyonnais",
+    "away": "OGC Nice",
     "fecha": "2026-10-18T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -230,8 +230,8 @@
     }
   },
   {
-    "home": "Olympique Lyonnais",
-    "away": "OGC Nice",
+    "home": "Juventus FC",
+    "away": "SS Lazio",
     "fecha": "2026-10-18T18:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -250,8 +250,8 @@
     }
   },
   {
-    "home": "Fluminense FC",
-    "away": "Santos FC",
+    "home": "Real Madrid CF",
+    "away": "Sevilla FC",
     "fecha": "2026-10-18T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -260,8 +260,8 @@
     }
   },
   {
-    "home": "Real Madrid CF",
-    "away": "Sevilla FC",
+    "home": "Fluminense FC",
+    "away": "Santos FC",
     "fecha": "2026-10-18T19:00:00Z",
     "estado": "timed",
     "odds": {},
