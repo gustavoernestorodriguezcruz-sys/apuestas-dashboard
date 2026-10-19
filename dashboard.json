@@ -3,7 +3,7 @@
     "home": "AC Monza",
     "away": "Cagliari Calcio",
     "fecha": "2026-10-19T16:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "Parma Calcio 1913",
     "away": "Torino FC",
     "fecha": "2026-10-19T18:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Tottenham Hotspur FC",
     "away": "Coventry City FC",
     "fecha": "2026-10-19T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Getafe CF",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-10-19T19:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Sporting Clube de Braga",
     "away": "Gil Vicente FC",
     "fecha": "2026-10-19T19:15:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
