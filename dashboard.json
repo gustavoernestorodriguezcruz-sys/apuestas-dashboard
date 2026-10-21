@@ -30,20 +30,10 @@
     }
   },
   {
-    "home": "Club Brugge KV",
-    "away": "Racing Club de Lens",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Sporting Clube de Portugal",
     "away": "LASK Linz",
     "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,27 +43,17 @@
     "home": "FC Internazionale Milano",
     "away": "FK Shakhtar Donetsk",
     "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "FC Bayern München",
-    "away": "Arsenal FC",
+    "home": "Club Brugge KV",
+    "away": "Racing Club de Lens",
     "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Aston Villa FC",
-    "away": "Viking FK",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +63,7 @@
     "home": "Real Madrid CF",
     "away": "RB Leipzig",
     "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +73,27 @@
     "home": "Real Betis Balompié",
     "away": "Feyenoord Rotterdam",
     "fecha": "2026-10-21T19:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Bayern München",
+    "away": "Arsenal FC",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Aston Villa FC",
+    "away": "Viking FK",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
