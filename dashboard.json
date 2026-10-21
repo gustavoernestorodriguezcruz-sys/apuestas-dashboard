@@ -1,7 +1,7 @@
 [
   {
-    "home": "Como 1907",
-    "away": "Manchester United FC",
+    "home": "Lille OSC",
+    "away": "Galatasaray SK",
     "fecha": "2026-10-21T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "Lille OSC",
-    "away": "Galatasaray SK",
+    "home": "Como 1907",
+    "away": "Manchester United FC",
     "fecha": "2026-10-21T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -23,47 +23,7 @@
     "home": "Levante UD",
     "away": "Athletic Club",
     "fecha": "2026-10-21T18:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Aston Villa FC",
-    "away": "Viking FK",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Madrid CF",
-    "away": "RB Leipzig",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Real Betis Balompié",
-    "away": "Feyenoord Rotterdam",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FC Bayern München",
-    "away": "Arsenal FC",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "timed",
+    "estado": "2026-10-21 18:00:00z",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -92,6 +52,46 @@
   {
     "home": "Club Brugge KV",
     "away": "Racing Club de Lens",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Betis Balompié",
+    "away": "Feyenoord Rotterdam",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Bayern München",
+    "away": "Arsenal FC",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Aston Villa FC",
+    "away": "Viking FK",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Madrid CF",
+    "away": "RB Leipzig",
     "fecha": "2026-10-21T19:00:00Z",
     "estado": "timed",
     "odds": {},
