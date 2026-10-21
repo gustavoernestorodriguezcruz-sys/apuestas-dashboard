@@ -1,7 +1,7 @@
 [
   {
-    "home": "Lille OSC",
-    "away": "Galatasaray SK",
+    "home": "Como 1907",
+    "away": "Manchester United FC",
     "fecha": "2026-10-21T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -10,8 +10,8 @@
     }
   },
   {
-    "home": "Como 1907",
-    "away": "Manchester United FC",
+    "home": "Lille OSC",
+    "away": "Galatasaray SK",
     "fecha": "2026-10-21T16:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "FC Internazionale Milano",
-    "away": "FK Shakhtar Donetsk",
+    "home": "Aston Villa FC",
+    "away": "Viking FK",
     "fecha": "2026-10-21T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -40,18 +40,8 @@
     }
   },
   {
-    "home": "Club Brugge KV",
-    "away": "Racing Club de Lens",
-    "fecha": "2026-10-21T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Portugal",
-    "away": "LASK Linz",
+    "home": "Real Madrid CF",
+    "away": "RB Leipzig",
     "fecha": "2026-10-21T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -80,8 +70,8 @@
     }
   },
   {
-    "home": "Aston Villa FC",
-    "away": "Viking FK",
+    "home": "Sporting Clube de Portugal",
+    "away": "LASK Linz",
     "fecha": "2026-10-21T19:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -90,8 +80,18 @@
     }
   },
   {
-    "home": "Real Madrid CF",
-    "away": "RB Leipzig",
+    "home": "FC Internazionale Milano",
+    "away": "FK Shakhtar Donetsk",
+    "fecha": "2026-10-21T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Club Brugge KV",
+    "away": "Racing Club de Lens",
     "fecha": "2026-10-21T19:00:00Z",
     "estado": "timed",
     "odds": {},
