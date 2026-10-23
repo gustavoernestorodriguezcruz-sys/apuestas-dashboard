@@ -30,6 +30,16 @@
     }
   },
   {
+    "home": "Stade Brestois 29",
+    "away": "OGC Nice",
+    "fecha": "2026-10-23T18:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Torino FC",
     "away": "AC Monza",
     "fecha": "2026-10-23T18:45:00Z",
@@ -40,9 +50,9 @@
     }
   },
   {
-    "home": "Stade Brestois 29",
-    "away": "OGC Nice",
-    "fecha": "2026-10-23T18:45:00Z",
+    "home": "Ipswich Town FC",
+    "away": "Nottingham Forest FC",
+    "fecha": "2026-10-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -62,16 +72,6 @@
   {
     "home": "Bolton Wanderers FC",
     "away": "Middlesbrough FC",
-    "fecha": "2026-10-23T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Ipswich Town FC",
-    "away": "Nottingham Forest FC",
     "fecha": "2026-10-23T19:00:00Z",
     "estado": "timed",
     "odds": {},
