@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Stade Brestois 29",
-    "away": "OGC Nice",
+    "home": "Torino FC",
+    "away": "AC Monza",
     "fecha": "2026-10-23T18:45:00Z",
     "estado": "finished",
     "odds": {},
@@ -40,8 +40,8 @@
     }
   },
   {
-    "home": "Torino FC",
-    "away": "AC Monza",
+    "home": "Stade Brestois 29",
+    "away": "OGC Nice",
     "fecha": "2026-10-23T18:45:00Z",
     "estado": "finished",
     "odds": {},
@@ -60,16 +60,6 @@
     }
   },
   {
-    "home": "Bolton Wanderers FC",
-    "away": "Middlesbrough FC",
-    "fecha": "2026-10-23T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Deportivo Alavés",
     "away": "Málaga CF",
     "fecha": "2026-10-23T19:00:00Z",
@@ -80,10 +70,20 @@
     }
   },
   {
+    "home": "Bolton Wanderers FC",
+    "away": "Middlesbrough FC",
+    "fecha": "2026-10-23T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Vitória SC",
     "away": "CS Marítimo",
     "fecha": "2026-10-23T19:45:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +93,7 @@
     "home": "Cruzeiro EC",
     "away": "Clube do Remo",
     "fecha": "2026-10-23T23:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
