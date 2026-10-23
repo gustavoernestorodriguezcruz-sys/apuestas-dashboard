@@ -13,7 +13,7 @@
     "home": "Go Ahead Eagles",
     "away": "Telstar 1963",
     "fecha": "2026-10-23T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "VfB Stuttgart",
     "away": "Borussia Mönchengladbach",
     "fecha": "2026-10-23T18:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Stade Brestois 29",
     "away": "OGC Nice",
     "fecha": "2026-10-23T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Torino FC",
     "away": "AC Monza",
     "fecha": "2026-10-23T18:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,17 +53,7 @@
     "home": "Ipswich Town FC",
     "away": "Nottingham Forest FC",
     "fecha": "2026-10-23T19:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Deportivo Alavés",
-    "away": "Málaga CF",
-    "fecha": "2026-10-23T19:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -80,10 +70,20 @@
     }
   },
   {
+    "home": "Deportivo Alavés",
+    "away": "Málaga CF",
+    "fecha": "2026-10-23T19:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Vitória SC",
     "away": "CS Marítimo",
     "fecha": "2026-10-23T19:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
