@@ -360,16 +360,6 @@
     }
   },
   {
-    "home": "SC Internacional",
-    "away": "Botafogo FR",
-    "fecha": "2026-10-24T19:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Gil Vicente FC",
     "away": "FC Porto",
     "fecha": "2026-10-24T19:30:00Z",
@@ -382,6 +372,16 @@
   {
     "home": "EC Vitória",
     "away": "CA Paranaense",
+    "fecha": "2026-10-24T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Internacional",
+    "away": "Botafogo FR",
     "fecha": "2026-10-24T19:30:00Z",
     "estado": "timed",
     "odds": {},
