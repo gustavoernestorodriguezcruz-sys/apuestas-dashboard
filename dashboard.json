@@ -1,29 +1,79 @@
 [
   {
-    "home": "US Sassuolo Calcio",
-    "away": "SS Lazio",
-    "fecha": "2026-10-27T17:30:00Z",
-    "estado": "finished",
+    "home": "AC Milan",
+    "away": "Bologna FC 1909",
+    "fecha": "2026-10-28T17:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Torino FC",
-    "away": "Como 1907",
-    "fecha": "2026-10-27T19:45:00Z",
-    "estado": "finished",
+    "home": "Parma Calcio 1913",
+    "away": "Udinese Calcio",
+    "fecha": "2026-10-28T17:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "AS Roma",
-    "away": "Cagliari Calcio",
-    "fecha": "2026-10-27T19:45:00Z",
-    "estado": "finished",
+    "home": "Venezia FC",
+    "away": "FC Internazionale Milano",
+    "fecha": "2026-10-28T17:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Genoa CFC",
+    "away": "Juventus FC",
+    "fecha": "2026-10-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "AC Monza",
+    "away": "SSC Napoli",
+    "fecha": "2026-10-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Fluminense FC",
+    "away": "SC Internacional",
+    "fecha": "2026-10-28T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Santos FC",
+    "away": "SE Palmeiras",
+    "fecha": "2026-10-28T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "RB Bragantino",
+    "away": "Chapecoense AF",
+    "fecha": "2026-10-28T22:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
