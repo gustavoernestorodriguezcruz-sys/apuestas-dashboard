@@ -3,17 +3,7 @@
     "home": "AC Milan",
     "away": "Bologna FC 1909",
     "fecha": "2026-10-28T17:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Venezia FC",
-    "away": "FC Internazionale Milano",
-    "fecha": "2026-10-28T17:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +13,17 @@
     "home": "Parma Calcio 1913",
     "away": "Udinese Calcio",
     "fecha": "2026-10-28T17:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Venezia FC",
+    "away": "FC Internazionale Milano",
+    "fecha": "2026-10-28T17:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Genoa CFC",
     "away": "Juventus FC",
     "fecha": "2026-10-28T19:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "AC Monza",
     "away": "SSC Napoli",
     "fecha": "2026-10-28T19:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
