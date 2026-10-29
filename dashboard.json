@@ -1,58 +1,8 @@
 [
   {
-    "home": "AC Milan",
-    "away": "Bologna FC 1909",
-    "fecha": "2026-10-28T17:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Parma Calcio 1913",
-    "away": "Udinese Calcio",
-    "fecha": "2026-10-28T17:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Venezia FC",
-    "away": "FC Internazionale Milano",
-    "fecha": "2026-10-28T17:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Genoa CFC",
-    "away": "Juventus FC",
-    "fecha": "2026-10-28T19:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "AC Monza",
-    "away": "SSC Napoli",
-    "fecha": "2026-10-28T19:45:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fluminense FC",
-    "away": "SC Internacional",
-    "fecha": "2026-10-28T22:30:00Z",
+    "home": "Clube do Remo",
+    "away": "Botafogo FR",
+    "fecha": "2026-10-29T00:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -60,9 +10,9 @@
     }
   },
   {
-    "home": "RB Bragantino",
-    "away": "Chapecoense AF",
-    "fecha": "2026-10-28T22:30:00Z",
+    "home": "EC Bahia",
+    "away": "São Paulo FC",
+    "fecha": "2026-10-29T00:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -70,9 +20,39 @@
     }
   },
   {
-    "home": "Santos FC",
-    "away": "SE Palmeiras",
-    "fecha": "2026-10-28T22:30:00Z",
+    "home": "Frosinone Calcio",
+    "away": "US Lecce",
+    "fecha": "2026-10-29T17:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "ACF Fiorentina",
+    "away": "Atalanta BC",
+    "fecha": "2026-10-29T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CA Mineiro",
+    "away": "Cruzeiro EC",
+    "fecha": "2026-10-29T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Vasco da Gama",
+    "away": "CR Flamengo",
+    "fecha": "2026-10-29T23:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
