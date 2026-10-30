@@ -1,48 +1,18 @@
 [
   {
-    "home": "EC Bahia",
-    "away": "São Paulo FC",
-    "fecha": "2026-10-29T00:30:00Z",
-    "estado": "finished",
+    "home": "Grêmio FBPA",
+    "away": "CA Paranaense",
+    "fecha": "2026-10-30T00:30:00Z",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Clube do Remo",
-    "away": "Botafogo FR",
-    "fecha": "2026-10-29T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Frosinone Calcio",
-    "away": "US Lecce",
-    "fecha": "2026-10-29T17:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "ACF Fiorentina",
-    "away": "Atalanta BC",
-    "fecha": "2026-10-29T19:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Mineiro",
-    "away": "Cruzeiro EC",
-    "fecha": "2026-10-29T22:30:00Z",
+    "home": "Le Havre AC",
+    "away": "Paris Saint-Germain FC",
+    "fecha": "2026-10-30T18:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -50,9 +20,69 @@
     }
   },
   {
-    "home": "CR Vasco da Gama",
-    "away": "CR Flamengo",
-    "fecha": "2026-10-29T23:00:00Z",
+    "home": "OGC Nice",
+    "away": "Stade Rennais FC 1901",
+    "fecha": "2026-10-30T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SV 07 Elversberg",
+    "away": "1. FSV Mainz 05",
+    "fecha": "2026-10-30T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sheffield United FC",
+    "away": "Wrexham AFC",
+    "fecha": "2026-10-30T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Villarreal CF",
+    "away": "RCD Espanyol de Barcelona",
+    "fecha": "2026-10-30T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Lille OSC",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-10-30T20:05:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Casa Pia AC",
+    "away": "Sporting Clube de Portugal",
+    "fecha": "2026-10-30T20:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Corinthians Paulista",
+    "away": "Mirassol FC",
+    "fecha": "2026-10-30T23:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
