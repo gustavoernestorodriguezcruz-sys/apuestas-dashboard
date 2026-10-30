@@ -3,17 +3,7 @@
     "home": "Grêmio FBPA",
     "away": "CA Paranaense",
     "fecha": "2026-10-30T00:30:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Le Havre AC",
-    "away": "Paris Saint-Germain FC",
-    "fecha": "2026-10-30T18:00:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -22,6 +12,16 @@
   {
     "home": "OGC Nice",
     "away": "Stade Rennais FC 1901",
+    "fecha": "2026-10-30T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Le Havre AC",
+    "away": "Paris Saint-Germain FC",
     "fecha": "2026-10-30T18:00:00Z",
     "estado": "timed",
     "odds": {},
