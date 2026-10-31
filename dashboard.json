@@ -1,5 +1,15 @@
 [
   {
+    "home": "Chelsea FC",
+    "away": "Manchester United FC",
+    "fecha": "2026-10-31T12:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Stoke City FC",
     "away": "Preston North End FC",
     "fecha": "2026-10-31T12:30:00Z",
@@ -12,16 +22,6 @@
   {
     "home": "Norwich City FC",
     "away": "Watford FC",
-    "fecha": "2026-10-31T12:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Chelsea FC",
-    "away": "Manchester United FC",
     "fecha": "2026-10-31T12:30:00Z",
     "estado": "timed",
     "odds": {},
