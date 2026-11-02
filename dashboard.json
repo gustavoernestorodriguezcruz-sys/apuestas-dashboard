@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "Newcastle United FC",
-    "away": "Everton FC",
-    "fecha": "2026-11-02T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "RC Deportivo La Coruña",
     "away": "CA Osasuna",
     "fecha": "2026-11-02T20:00:00Z",
@@ -50,9 +40,9 @@
     }
   },
   {
-    "home": "Gil Vicente FC",
-    "away": "Vitória SC",
-    "fecha": "2026-11-02T20:15:00Z",
+    "home": "Newcastle United FC",
+    "away": "Everton FC",
+    "fecha": "2026-11-02T20:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -62,6 +52,16 @@
   {
     "home": "Sport Lisboa e Benfica",
     "away": "FC Alverca",
+    "fecha": "2026-11-02T20:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Gil Vicente FC",
+    "away": "Vitória SC",
     "fecha": "2026-11-02T20:15:00Z",
     "estado": "timed",
     "odds": {},
