@@ -80,16 +80,6 @@
     }
   },
   {
-    "home": "FC Porto",
-    "away": "SSC Napoli",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "RB Leipzig",
     "away": "Manchester City FC",
     "fecha": "2026-11-04T20:00:00Z",
@@ -122,6 +112,16 @@
   {
     "home": "Bristol City FC",
     "away": "Wolverhampton Wanderers FC",
+    "fecha": "2026-11-04T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Porto",
+    "away": "SSC Napoli",
     "fecha": "2026-11-04T20:00:00Z",
     "estado": "timed",
     "odds": {},
