@@ -1,58 +1,8 @@
 [
   {
-    "home": "SC Internacional",
-    "away": "Coritiba FBC",
-    "fecha": "2026-11-04T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fenerbahçe SK",
-    "away": "Liverpool FC",
-    "fecha": "2026-11-04T17:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "PAE AEK",
-    "away": "Real Madrid CF",
-    "fecha": "2026-11-04T17:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Wrexham AFC",
-    "away": "Middlesbrough FC",
-    "fecha": "2026-11-04T19:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Cardiff City FC",
-    "away": "West Ham United FC",
-    "fecha": "2026-11-04T19:45:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Borussia Dortmund",
-    "away": "Real Betis Balompié",
-    "fecha": "2026-11-04T20:00:00Z",
+    "home": "Botafogo FR",
+    "away": "CA Mineiro",
+    "fecha": "2026-11-05T00:30:00Z",
     "estado": "inplay",
     "odds": {},
     "prediction": {
@@ -60,9 +10,9 @@
     }
   },
   {
-    "home": "Racing Club de Lens",
-    "away": "Como 1907",
-    "fecha": "2026-11-04T20:00:00Z",
+    "home": "São Paulo FC",
+    "away": "SC Corinthians Paulista",
+    "fecha": "2026-11-05T00:30:00Z",
     "estado": "inplay",
     "odds": {},
     "prediction": {
@@ -70,79 +20,9 @@
     }
   },
   {
-    "home": "SK Slavia Praha",
-    "away": "Arsenal FC",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FC Porto",
-    "away": "SSC Napoli",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "RB Leipzig",
-    "away": "Manchester City FC",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Viking FK",
-    "away": "Sabah FK",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "PSV",
-    "away": "Club Brugge KV",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Bristol City FC",
-    "away": "Wolverhampton Wanderers FC",
-    "fecha": "2026-11-04T20:00:00Z",
-    "estado": "live",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CR Flamengo",
-    "away": "Grêmio FBPA",
-    "fecha": "2026-11-04T22:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CA Paranaense",
-    "away": "CR Vasco da Gama",
-    "fecha": "2026-11-04T22:30:00Z",
+    "home": "SE Palmeiras",
+    "away": "Clube do Remo",
+    "fecha": "2026-11-05T22:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
