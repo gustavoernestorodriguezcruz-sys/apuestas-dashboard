@@ -30,16 +30,6 @@
     }
   },
   {
-    "home": "Venezia FC",
-    "away": "Udinese Calcio",
-    "fecha": "2026-11-06T19:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Toulouse FC",
     "away": "RC Strasbourg Alsace",
     "fecha": "2026-11-06T19:45:00Z",
@@ -50,8 +40,18 @@
     }
   },
   {
-    "home": "Derby County FC",
-    "away": "Bolton Wanderers FC",
+    "home": "Venezia FC",
+    "away": "Udinese Calcio",
+    "fecha": "2026-11-06T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Everton FC",
+    "away": "Coventry City FC",
     "fecha": "2026-11-06T20:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -70,8 +70,8 @@
     }
   },
   {
-    "home": "Everton FC",
-    "away": "Coventry City FC",
+    "home": "Derby County FC",
+    "away": "Bolton Wanderers FC",
     "fecha": "2026-11-06T20:00:00Z",
     "estado": "timed",
     "odds": {},
