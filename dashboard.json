@@ -1,8 +1,8 @@
 [
   {
-    "home": "Botafogo FR",
-    "away": "CA Mineiro",
-    "fecha": "2026-11-05T00:30:00Z",
+    "home": "Cruzeiro EC",
+    "away": "EC Bahia",
+    "fecha": "2026-11-06T00:30:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -10,19 +10,89 @@
     }
   },
   {
-    "home": "São Paulo FC",
-    "away": "SC Corinthians Paulista",
-    "fecha": "2026-11-05T00:30:00Z",
-    "estado": "finished",
+    "home": "Willem II Tilburg",
+    "away": "PEC Zwolle",
+    "fecha": "2026-11-06T19:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "SE Palmeiras",
-    "away": "Clube do Remo",
-    "fecha": "2026-11-05T22:30:00Z",
+    "home": "Hamburger SV",
+    "away": "Borussia Mönchengladbach",
+    "fecha": "2026-11-06T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Venezia FC",
+    "away": "Udinese Calcio",
+    "fecha": "2026-11-06T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Toulouse FC",
+    "away": "RC Strasbourg Alsace",
+    "fecha": "2026-11-06T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sevilla FC",
+    "away": "Deportivo Alavés",
+    "fecha": "2026-11-06T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Bolton Wanderers FC",
+    "fecha": "2026-11-06T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Everton FC",
+    "away": "Coventry City FC",
+    "fecha": "2026-11-06T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Famalicão",
+    "away": "FC Arouca",
+    "fecha": "2026-11-06T20:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "EC Vitória",
+    "away": "Fluminense FC",
+    "fecha": "2026-11-06T23:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
