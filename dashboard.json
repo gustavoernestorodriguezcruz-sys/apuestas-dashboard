@@ -3,7 +3,7 @@
     "home": "Leeds United FC",
     "away": "Tottenham Hotspur FC",
     "fecha": "2026-11-07T12:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -13,7 +13,7 @@
     "home": "Wrexham AFC",
     "away": "Wolverhampton Wanderers FC",
     "fecha": "2026-11-07T12:30:00Z",
-    "estado": "scheduled",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "Bristol City FC",
     "away": "Norwich City FC",
     "fecha": "2026-11-07T12:30:00Z",
-    "estado": "scheduled",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Portsmouth FC",
     "away": "Stoke City FC",
     "fecha": "2026-11-07T12:30:00Z",
-    "estado": "scheduled",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -43,7 +43,7 @@
     "home": "Málaga CF",
     "away": "Real Racing Club de Santander",
     "fecha": "2026-11-07T13:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,7 +53,7 @@
     "home": "Torino FC",
     "away": "US Lecce",
     "fecha": "2026-11-07T14:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -63,7 +63,7 @@
     "home": "Cagliari Calcio",
     "away": "Frosinone Calcio",
     "fecha": "2026-11-07T14:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -73,7 +73,7 @@
     "home": "1. FSV Mainz 05",
     "away": "FC Bayern München",
     "fecha": "2026-11-07T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -83,7 +83,7 @@
     "home": "SC Paderborn 07",
     "away": "Eintracht Frankfurt",
     "fecha": "2026-11-07T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -93,7 +93,7 @@
     "home": "RB Leipzig",
     "away": "FC Augsburg",
     "fecha": "2026-11-07T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -103,7 +103,7 @@
     "home": "Borussia Dortmund",
     "away": "SV 07 Elversberg",
     "fecha": "2026-11-07T14:30:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
