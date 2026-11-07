@@ -80,6 +80,16 @@
     }
   },
   {
+    "home": "SC Paderborn 07",
+    "away": "Eintracht Frankfurt",
+    "fecha": "2026-11-07T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "RB Leipzig",
     "away": "FC Augsburg",
     "fecha": "2026-11-07T14:30:00Z",
@@ -100,10 +110,10 @@
     }
   },
   {
-    "home": "SC Paderborn 07",
-    "away": "Eintracht Frankfurt",
-    "fecha": "2026-11-07T14:30:00Z",
-    "estado": "timed",
+    "home": "Blackburn Rovers FC",
+    "away": "West Ham United FC",
+    "fecha": "2026-11-07T15:00:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -140,8 +150,8 @@
     }
   },
   {
-    "home": "Blackburn Rovers FC",
-    "away": "West Ham United FC",
+    "home": "Birmingham City FC",
+    "away": "Swansea City AFC",
     "fecha": "2026-11-07T15:00:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -192,16 +202,6 @@
   {
     "home": "Queens Park Rangers FC",
     "away": "Lincoln City FC",
-    "fecha": "2026-11-07T15:00:00Z",
-    "estado": "scheduled",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Birmingham City FC",
-    "away": "Swansea City AFC",
     "fecha": "2026-11-07T15:00:00Z",
     "estado": "scheduled",
     "odds": {},
