@@ -90,16 +90,6 @@
     }
   },
   {
-    "home": "Crystal Palace FC",
-    "away": "Liverpool FC",
-    "fecha": "2026-11-08T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Ipswich Town FC",
     "away": "AFC Bournemouth",
     "fecha": "2026-11-08T14:00:00Z",
@@ -112,6 +102,16 @@
   {
     "home": "AC Monza",
     "away": "Atalanta BC",
+    "fecha": "2026-11-08T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Crystal Palace FC",
+    "away": "Liverpool FC",
     "fecha": "2026-11-08T14:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -180,8 +180,8 @@
     }
   },
   {
-    "home": "Le Havre AC",
-    "away": "FC Lorient",
+    "home": "Le Mans FC",
+    "away": "AS Monaco FC",
     "fecha": "2026-11-08T16:15:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,8 +190,8 @@
     }
   },
   {
-    "home": "Le Mans FC",
-    "away": "AS Monaco FC",
+    "home": "Le Havre AC",
+    "away": "FC Lorient",
     "fecha": "2026-11-08T16:15:00Z",
     "estado": "timed",
     "odds": {},
