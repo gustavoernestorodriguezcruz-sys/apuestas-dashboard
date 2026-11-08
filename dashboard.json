@@ -50,6 +50,46 @@
     }
   },
   {
+    "home": "Stade Rennais FC 1901",
+    "away": "Lille OSC",
+    "fecha": "2026-11-08T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Genoa CFC",
+    "away": "AC Milan",
+    "fecha": "2026-11-08T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Brighton & Hove Albion FC",
+    "away": "Brentford FC",
+    "fecha": "2026-11-08T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sunderland AFC",
+    "away": "Chelsea FC",
+    "fecha": "2026-11-08T14:00:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Ipswich Town FC",
     "away": "AFC Bournemouth",
     "fecha": "2026-11-08T14:00:00Z",
@@ -80,46 +120,6 @@
     }
   },
   {
-    "home": "Brighton & Hove Albion FC",
-    "away": "Brentford FC",
-    "fecha": "2026-11-08T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sunderland AFC",
-    "away": "Chelsea FC",
-    "fecha": "2026-11-08T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stade Rennais FC 1901",
-    "away": "Lille OSC",
-    "fecha": "2026-11-08T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Genoa CFC",
-    "away": "AC Milan",
-    "fecha": "2026-11-08T14:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "1. FC Köln",
     "away": "Bayer 04 Leverkusen",
     "fecha": "2026-11-08T14:30:00Z",
@@ -140,16 +140,6 @@
     }
   },
   {
-    "home": "CD Santa Clara",
-    "away": "Gil Vicente FC",
-    "fecha": "2026-11-08T15:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "CD Nacional",
     "away": "Académico de Viseu FC",
     "fecha": "2026-11-08T15:30:00Z",
@@ -160,9 +150,9 @@
     }
   },
   {
-    "home": "SC Cambuur-Leeuwarden",
-    "away": "PSV",
-    "fecha": "2026-11-08T15:45:00Z",
+    "home": "CD Santa Clara",
+    "away": "Gil Vicente FC",
+    "fecha": "2026-11-08T15:30:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -180,19 +170,9 @@
     }
   },
   {
-    "home": "Stade Brestois 29",
-    "away": "Olympique Lyonnais",
-    "fecha": "2026-11-08T16:15:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Angers SCO",
-    "away": "OGC Nice",
-    "fecha": "2026-11-08T16:15:00Z",
+    "home": "SC Cambuur-Leeuwarden",
+    "away": "PSV",
+    "fecha": "2026-11-08T15:45:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -220,9 +200,19 @@
     }
   },
   {
-    "home": "Manchester United FC",
-    "away": "Aston Villa FC",
-    "fecha": "2026-11-08T16:30:00Z",
+    "home": "Stade Brestois 29",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-11-08T16:15:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Angers SCO",
+    "away": "OGC Nice",
+    "fecha": "2026-11-08T16:15:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -232,6 +222,16 @@
   {
     "home": "SC Freiburg",
     "away": "1. FC Union Berlin",
+    "fecha": "2026-11-08T16:30:00Z",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Manchester United FC",
+    "away": "Aston Villa FC",
     "fecha": "2026-11-08T16:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -250,8 +250,8 @@
     }
   },
   {
-    "home": "RC Celta de Vigo",
-    "away": "Levante UD",
+    "home": "Villarreal CF",
+    "away": "Getafe CF",
     "fecha": "2026-11-08T17:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -260,8 +260,8 @@
     }
   },
   {
-    "home": "Villarreal CF",
-    "away": "Getafe CF",
+    "home": "RC Celta de Vigo",
+    "away": "Levante UD",
     "fecha": "2026-11-08T17:30:00Z",
     "estado": "finished",
     "odds": {},
@@ -273,7 +273,7 @@
     "home": "Vitória SC",
     "away": "FC Porto",
     "fecha": "2026-11-08T18:00:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -283,7 +283,7 @@
     "home": "TSG 1899 Hoffenheim",
     "away": "FC Schalke 04",
     "fecha": "2026-11-08T18:30:00Z",
-    "estado": "inplay",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -293,17 +293,7 @@
     "home": "FC Utrecht",
     "away": "NEC",
     "fecha": "2026-11-08T19:00:00Z",
-    "estado": "inplay",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "ACF Fiorentina",
-    "away": "Juventus FC",
-    "fecha": "2026-11-08T19:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -313,7 +303,17 @@
     "home": "Racing Club de Lens",
     "away": "Olympique de Marseille",
     "fecha": "2026-11-08T19:45:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "ACF Fiorentina",
+    "away": "Juventus FC",
+    "fecha": "2026-11-08T19:45:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -323,17 +323,7 @@
     "home": "Club Atlético de Madrid",
     "away": "FC Barcelona",
     "fecha": "2026-11-08T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Rio Ave FC",
-    "away": "Sporting Clube de Braga",
-    "fecha": "2026-11-08T20:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -343,7 +333,17 @@
     "home": "CF Estrela da Amadora",
     "away": "Sport Lisboa e Benfica",
     "fecha": "2026-11-08T20:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Rio Ave FC",
+    "away": "Sporting Clube de Braga",
+    "fecha": "2026-11-08T20:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
