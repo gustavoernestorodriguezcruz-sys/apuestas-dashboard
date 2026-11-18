@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "home": "Coritiba FBC",
+    "away": "Santos FC",
+    "fecha": "2026-11-18T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Clube do Remo",
+    "away": "Chapecoense AF",
+    "fecha": "2026-11-18T23:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Cruzeiro EC",
+    "away": "SE Palmeiras",
+    "fecha": "2026-11-18T23:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Flamengo",
+    "away": "CA Paranaense",
+    "fecha": "2026-11-18T23:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  }
+]
