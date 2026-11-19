@@ -1,15 +1,5 @@
 [
   {
-    "home": "SC Corinthians Paulista",
-    "away": "Botafogo FR",
-    "fecha": "2026-11-19T00:30:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Grêmio FBPA",
     "away": "EC Bahia",
     "fecha": "2026-11-19T00:30:00Z",
@@ -20,10 +10,10 @@
     }
   },
   {
-    "home": "CR Vasco da Gama",
-    "away": "SC Internacional",
-    "fecha": "2026-11-19T22:30:00Z",
-    "estado": "timed",
+    "home": "SC Corinthians Paulista",
+    "away": "Botafogo FR",
+    "fecha": "2026-11-19T00:30:00Z",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -32,6 +22,16 @@
   {
     "home": "EC Vitória",
     "away": "RB Bragantino",
+    "fecha": "2026-11-19T22:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CR Vasco da Gama",
+    "away": "SC Internacional",
     "fecha": "2026-11-19T22:30:00Z",
     "estado": "timed",
     "odds": {},
