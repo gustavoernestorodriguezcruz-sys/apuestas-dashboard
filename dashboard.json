@@ -1,8 +1,8 @@
 [
   {
-    "home": "Grêmio FBPA",
-    "away": "EC Bahia",
-    "fecha": "2026-11-19T00:30:00Z",
+    "home": "São Paulo FC",
+    "away": "Fluminense FC",
+    "fecha": "2026-11-20T00:30:00Z",
     "estado": "finished",
     "odds": {},
     "prediction": {
@@ -10,30 +10,30 @@
     }
   },
   {
-    "home": "SC Corinthians Paulista",
-    "away": "Botafogo FR",
-    "fecha": "2026-11-19T00:30:00Z",
-    "estado": "finished",
+    "home": "FC Bayern München",
+    "away": "1. FC Köln",
+    "fecha": "2026-11-20T19:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "EC Vitória",
-    "away": "RB Bragantino",
-    "fecha": "2026-11-19T22:30:00Z",
-    "estado": "inplay",
+    "home": "ES Troyes AC",
+    "away": "Le Havre AC",
+    "fecha": "2026-11-20T19:45:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "CR Vasco da Gama",
-    "away": "SC Internacional",
-    "fecha": "2026-11-19T22:30:00Z",
-    "estado": "inplay",
+    "home": "Athletic Club",
+    "away": "RCD Espanyol de Barcelona",
+    "fecha": "2026-11-20T20:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
