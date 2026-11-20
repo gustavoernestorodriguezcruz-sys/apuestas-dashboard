@@ -13,7 +13,7 @@
     "home": "FC Bayern München",
     "away": "1. FC Köln",
     "fecha": "2026-11-20T19:30:00Z",
-    "estado": "timed",
+    "estado": "finished",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -23,7 +23,7 @@
     "home": "ES Troyes AC",
     "away": "Le Havre AC",
     "fecha": "2026-11-20T19:45:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -33,7 +33,7 @@
     "home": "Athletic Club",
     "away": "RCD Espanyol de Barcelona",
     "fecha": "2026-11-20T20:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
