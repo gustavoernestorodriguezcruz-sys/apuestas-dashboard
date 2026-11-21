@@ -20,8 +20,8 @@
     }
   },
   {
-    "home": "Millwall FC",
-    "away": "Queens Park Rangers FC",
+    "home": "Norwich City FC",
+    "away": "Cardiff City FC",
     "fecha": "2026-11-21T12:30:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -30,8 +30,8 @@
     }
   },
   {
-    "home": "Norwich City FC",
-    "away": "Cardiff City FC",
+    "home": "Millwall FC",
+    "away": "Queens Park Rangers FC",
     "fecha": "2026-11-21T12:30:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -90,16 +90,6 @@
     }
   },
   {
-    "home": "SV 07 Elversberg",
-    "away": "SC Freiburg",
-    "fecha": "2026-11-21T14:30:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Borussia Mönchengladbach",
     "away": "Borussia Dortmund",
     "fecha": "2026-11-21T14:30:00Z",
@@ -120,20 +110,10 @@
     }
   },
   {
-    "home": "Coventry City FC",
-    "away": "Crystal Palace FC",
-    "fecha": "2026-11-21T15:00:00Z",
+    "home": "SV 07 Elversberg",
+    "away": "SC Freiburg",
+    "fecha": "2026-11-21T14:30:00Z",
     "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "West Ham United FC",
-    "away": "Preston North End FC",
-    "fecha": "2026-11-21T15:00:00Z",
-    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -180,8 +160,8 @@
     }
   },
   {
-    "home": "Tottenham Hotspur FC",
-    "away": "Ipswich Town FC",
+    "home": "Coventry City FC",
+    "away": "Crystal Palace FC",
     "fecha": "2026-11-21T15:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -190,18 +170,8 @@
     }
   },
   {
-    "home": "Chelsea FC",
-    "away": "Leeds United FC",
-    "fecha": "2026-11-21T15:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Bolton Wanderers FC",
-    "away": "Portsmouth FC",
+    "home": "West Ham United FC",
+    "away": "Preston North End FC",
     "fecha": "2026-11-21T15:00:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -242,6 +212,36 @@
   {
     "home": "Middlesbrough FC",
     "away": "Bristol City FC",
+    "fecha": "2026-11-21T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Tottenham Hotspur FC",
+    "away": "Ipswich Town FC",
+    "fecha": "2026-11-21T15:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Chelsea FC",
+    "away": "Leeds United FC",
+    "fecha": "2026-11-21T15:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Bolton Wanderers FC",
+    "away": "Portsmouth FC",
     "fecha": "2026-11-21T15:00:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -350,6 +350,16 @@
     }
   },
   {
+    "home": "Lille OSC",
+    "away": "Olympique Lyonnais",
+    "fecha": "2026-11-21T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "SSC Napoli",
     "away": "Torino FC",
     "fecha": "2026-11-21T19:45:00Z",
@@ -370,8 +380,8 @@
     }
   },
   {
-    "home": "Lille OSC",
-    "away": "Olympique Lyonnais",
+    "home": "Racing Club de Lens",
+    "away": "Toulouse FC",
     "fecha": "2026-11-21T19:45:00Z",
     "estado": "timed",
     "odds": {},
@@ -390,9 +400,9 @@
     }
   },
   {
-    "home": "Racing Club de Lens",
-    "away": "Toulouse FC",
-    "fecha": "2026-11-21T19:45:00Z",
+    "home": "FC Groningen",
+    "away": "SC Heerenveen",
+    "fecha": "2026-11-21T20:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -402,16 +412,6 @@
   {
     "home": "Telstar 1963",
     "away": "PEC Zwolle",
-    "fecha": "2026-11-21T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "FC Groningen",
-    "away": "SC Heerenveen",
     "fecha": "2026-11-21T20:00:00Z",
     "estado": "timed",
     "odds": {},
