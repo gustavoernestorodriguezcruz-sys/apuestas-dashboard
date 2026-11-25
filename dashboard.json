@@ -1,15 +1,5 @@
 [
   {
-    "home": "SK Slavia Praha",
-    "away": "Villarreal CF",
-    "fecha": "2026-11-25T17:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Sabah FK",
     "away": "FC Barcelona",
     "fecha": "2026-11-25T17:45:00Z",
@@ -20,8 +10,18 @@
     }
   },
   {
-    "home": "Burnley FC",
-    "away": "Birmingham City FC",
+    "home": "SK Slavia Praha",
+    "away": "Villarreal CF",
+    "fecha": "2026-11-25T17:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Watford FC",
+    "away": "Blackburn Rovers FC",
     "fecha": "2026-11-25T19:45:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -40,50 +40,10 @@
     }
   },
   {
-    "home": "Watford FC",
-    "away": "Blackburn Rovers FC",
+    "home": "Burnley FC",
+    "away": "Birmingham City FC",
     "fecha": "2026-11-25T19:45:00Z",
     "estado": "scheduled",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Stoke City FC",
-    "away": "Millwall FC",
-    "fecha": "2026-11-25T20:00:00Z",
-    "estado": "scheduled",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Sporting Clube de Portugal",
-    "away": "Manchester United FC",
-    "fecha": "2026-11-25T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Club Atlético de Madrid",
-    "away": "Viking FK",
-    "fecha": "2026-11-25T20:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Club Brugge KV",
-    "away": "Liverpool FC",
-    "fecha": "2026-11-25T20:00:00Z",
-    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -122,6 +82,46 @@
   {
     "home": "Paris Saint-Germain FC",
     "away": "AS Roma",
+    "fecha": "2026-11-25T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Club Brugge KV",
+    "away": "Liverpool FC",
+    "fecha": "2026-11-25T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Stoke City FC",
+    "away": "Millwall FC",
+    "fecha": "2026-11-25T20:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Sporting Clube de Portugal",
+    "away": "Manchester United FC",
+    "fecha": "2026-11-25T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Club Atlético de Madrid",
+    "away": "Viking FK",
     "fecha": "2026-11-25T20:00:00Z",
     "estado": "timed",
     "odds": {},
