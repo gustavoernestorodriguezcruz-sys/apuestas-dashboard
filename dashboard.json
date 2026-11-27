@@ -1,9 +1,99 @@
 [
   {
-    "home": "São Paulo FC",
-    "away": "Clube do Remo",
-    "fecha": "2026-11-26T23:00:00Z",
-    "estado": "inplay",
+    "home": "FC Groningen",
+    "away": "Willem II Tilburg",
+    "fecha": "2026-11-27T19:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SV Werder Bremen",
+    "away": "Borussia Mönchengladbach",
+    "fecha": "2026-11-27T19:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Venezia FC",
+    "away": "Bologna FC 1909",
+    "fecha": "2026-11-27T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Stade Brestois 29",
+    "away": "Paris FC",
+    "fecha": "2026-11-27T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Southampton FC",
+    "away": "Middlesbrough FC",
+    "fecha": "2026-11-27T20:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Levante UD",
+    "away": "Real Racing Club de Santander",
+    "fecha": "2026-11-27T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Nottingham Forest FC",
+    "away": "Chelsea FC",
+    "fecha": "2026-11-27T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "CS Marítimo",
+    "away": "CD Nacional",
+    "fecha": "2026-11-27T20:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Fluminense FC",
+    "away": "Cruzeiro EC",
+    "fecha": "2026-11-27T23:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": null,
+    "away": null,
+    "fecha": "2026-11-28T00:00:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
