@@ -20,16 +20,6 @@
     }
   },
   {
-    "home": "Venezia FC",
-    "away": "Bologna FC 1909",
-    "fecha": "2026-11-27T19:45:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
     "home": "Stade Brestois 29",
     "away": "Paris FC",
     "fecha": "2026-11-27T19:45:00Z",
@@ -40,10 +30,20 @@
     }
   },
   {
-    "home": "Southampton FC",
-    "away": "Middlesbrough FC",
+    "home": "Venezia FC",
+    "away": "Bologna FC 1909",
+    "fecha": "2026-11-27T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Nottingham Forest FC",
+    "away": "Chelsea FC",
     "fecha": "2026-11-27T20:00:00Z",
-    "estado": "scheduled",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -60,10 +60,10 @@
     }
   },
   {
-    "home": "Nottingham Forest FC",
-    "away": "Chelsea FC",
+    "home": "Southampton FC",
+    "away": "Middlesbrough FC",
     "fecha": "2026-11-27T20:00:00Z",
-    "estado": "timed",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
