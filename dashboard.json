@@ -1,88 +1,48 @@
 [
   {
-    "home": "FC Groningen",
-    "away": "Willem II Tilburg",
-    "fecha": "2026-11-27T19:00:00Z",
-    "estado": "finished",
+    "home": null,
+    "away": null,
+    "fecha": "2026-11-28T00:00:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "SV Werder Bremen",
-    "away": "Borussia Mönchengladbach",
-    "fecha": "2026-11-27T19:30:00Z",
-    "estado": "finished",
+    "home": "Lincoln City FC",
+    "away": "Wolverhampton Wanderers FC",
+    "fecha": "2026-11-28T12:30:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Stade Brestois 29",
-    "away": "Paris FC",
-    "fecha": "2026-11-27T19:45:00Z",
-    "estado": "finished",
+    "home": "Preston North End FC",
+    "away": "Norwich City FC",
+    "fecha": "2026-11-28T12:30:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Venezia FC",
-    "away": "Bologna FC 1909",
-    "fecha": "2026-11-27T19:45:00Z",
-    "estado": "finished",
+    "home": "Blackburn Rovers FC",
+    "away": "Charlton Athletic FC",
+    "fecha": "2026-11-28T12:30:00Z",
+    "estado": "scheduled",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
     }
   },
   {
-    "home": "Nottingham Forest FC",
-    "away": "Chelsea FC",
-    "fecha": "2026-11-27T20:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Southampton FC",
-    "away": "Middlesbrough FC",
-    "fecha": "2026-11-27T20:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Levante UD",
-    "away": "Real Racing Club de Santander",
-    "fecha": "2026-11-27T20:00:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "CS Marítimo",
-    "away": "CD Nacional",
-    "fecha": "2026-11-27T20:15:00Z",
-    "estado": "finished",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Fluminense FC",
-    "away": "Cruzeiro EC",
-    "fecha": "2026-11-27T23:00:00Z",
+    "home": "Real Betis Balompié",
+    "away": "Rayo Vallecano de Madrid",
+    "fecha": "2026-11-28T13:00:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -90,10 +50,350 @@
     }
   },
   {
-    "home": null,
-    "away": null,
-    "fecha": "2026-11-28T00:00:00Z",
+    "home": "Frosinone Calcio",
+    "away": "Parma Calcio 1913",
+    "fecha": "2026-11-28T14:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "1. FC Köln",
+    "away": "SV 07 Elversberg",
+    "fecha": "2026-11-28T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Paderborn 07",
+    "away": "FC Schalke 04",
+    "fecha": "2026-11-28T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Hamburger SV",
+    "away": "FC Bayern München",
+    "fecha": "2026-11-28T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "1. FSV Mainz 05",
+    "away": "1. FC Union Berlin",
+    "fecha": "2026-11-28T14:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Wrexham AFC",
+    "away": "Portsmouth FC",
+    "fecha": "2026-11-28T15:00:00Z",
     "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Millwall FC",
+    "away": "Burnley FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "West Ham United FC",
+    "away": "Stoke City FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Birmingham City FC",
+    "away": "Bolton Wanderers FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "West Bromwich Albion FC",
+    "away": "Bristol City FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Watford FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Manchester United FC",
+    "away": "Brentford FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Queens Park Rangers FC",
+    "away": "Sheffield United FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Leeds United FC",
+    "away": "Coventry City FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Málaga CF",
+    "away": "Athletic Club",
+    "fecha": "2026-11-28T15:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SBV Excelsior",
+    "away": "Telstar 1963",
+    "fecha": "2026-11-28T15:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Arouca",
+    "away": "Rio Ave FC",
+    "fecha": "2026-11-28T15:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Moreirense FC",
+    "away": "CD Santa Clara",
+    "fecha": "2026-11-28T15:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Angers SCO",
+    "away": "Racing Club de Lens",
+    "fecha": "2026-11-28T16:15:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Torino FC",
+    "away": "SS Lazio",
+    "fecha": "2026-11-28T17:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Ipswich Town FC",
+    "away": "Aston Villa FC",
+    "fecha": "2026-11-28T17:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Elche CF",
+    "away": "Club Atlético de Madrid",
+    "fecha": "2026-11-28T17:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "VfB Stuttgart",
+    "away": "Eintracht Frankfurt",
+    "fecha": "2026-11-28T17:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "PSV",
+    "away": "Go Ahead Eagles",
+    "fecha": "2026-11-28T17:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Académico de Viseu FC",
+    "away": "FC Alverca",
+    "fecha": "2026-11-28T18:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Le Havre AC",
+    "away": "RC Strasbourg Alsace",
+    "fecha": "2026-11-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "FC Internazionale Milano",
+    "away": "Genoa CFC",
+    "fecha": "2026-11-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Le Mans FC",
+    "away": "Lille OSC",
+    "fecha": "2026-11-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Paris Saint-Germain FC",
+    "away": "FC Lorient",
+    "fecha": "2026-11-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "OGC Nice",
+    "away": "ES Troyes AC",
+    "fecha": "2026-11-28T19:45:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SE Palmeiras",
+    "away": "Estudiantes de La Plata",
+    "fecha": "2026-11-28T20:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "SC Cambuur-Leeuwarden",
+    "away": "Sparta Rotterdam",
+    "fecha": "2026-11-28T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Real Madrid CF",
+    "away": "Deportivo Alavés",
+    "fecha": "2026-11-28T20:00:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Vitória SC",
+    "away": "CF Estrela da Amadora",
+    "fecha": "2026-11-28T20:30:00Z",
+    "estado": "timed",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Botafogo FR",
+    "away": "EC Bahia",
+    "fecha": "2026-11-29T00:00:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
