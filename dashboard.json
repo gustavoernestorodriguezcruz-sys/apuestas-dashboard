@@ -43,7 +43,7 @@
     "home": "Real Betis Balompié",
     "away": "Rayo Vallecano de Madrid",
     "fecha": "2026-11-28T13:00:00Z",
-    "estado": "timed",
+    "estado": "inplay",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -53,16 +53,6 @@
     "home": "Frosinone Calcio",
     "away": "Parma Calcio 1913",
     "fecha": "2026-11-28T14:00:00Z",
-    "estado": "timed",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "1. FC Köln",
-    "away": "SV 07 Elversberg",
-    "fecha": "2026-11-28T14:30:00Z",
     "estado": "timed",
     "odds": {},
     "prediction": {
@@ -90,8 +80,8 @@
     }
   },
   {
-    "home": "1. FSV Mainz 05",
-    "away": "1. FC Union Berlin",
+    "home": "1. FC Köln",
+    "away": "SV 07 Elversberg",
     "fecha": "2026-11-28T14:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -100,10 +90,10 @@
     }
   },
   {
-    "home": "Wrexham AFC",
-    "away": "Portsmouth FC",
-    "fecha": "2026-11-28T15:00:00Z",
-    "estado": "scheduled",
+    "home": "1. FSV Mainz 05",
+    "away": "1. FC Union Berlin",
+    "fecha": "2026-11-28T14:30:00Z",
+    "estado": "timed",
     "odds": {},
     "prediction": {
       "recommendation": "⚠️ Sin datos"
@@ -140,18 +130,8 @@
     }
   },
   {
-    "home": "West Bromwich Albion FC",
-    "away": "Bristol City FC",
-    "fecha": "2026-11-28T15:00:00Z",
-    "estado": "scheduled",
-    "odds": {},
-    "prediction": {
-      "recommendation": "⚠️ Sin datos"
-    }
-  },
-  {
-    "home": "Derby County FC",
-    "away": "Watford FC",
+    "home": "Wrexham AFC",
+    "away": "Portsmouth FC",
     "fecha": "2026-11-28T15:00:00Z",
     "estado": "scheduled",
     "odds": {},
@@ -190,6 +170,26 @@
     }
   },
   {
+    "home": "West Bromwich Albion FC",
+    "away": "Bristol City FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
+    "home": "Derby County FC",
+    "away": "Watford FC",
+    "fecha": "2026-11-28T15:00:00Z",
+    "estado": "scheduled",
+    "odds": {},
+    "prediction": {
+      "recommendation": "⚠️ Sin datos"
+    }
+  },
+  {
     "home": "Málaga CF",
     "away": "Athletic Club",
     "fecha": "2026-11-28T15:15:00Z",
@@ -200,8 +200,8 @@
     }
   },
   {
-    "home": "SBV Excelsior",
-    "away": "Telstar 1963",
+    "home": "FC Arouca",
+    "away": "Rio Ave FC",
     "fecha": "2026-11-28T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -210,8 +210,8 @@
     }
   },
   {
-    "home": "FC Arouca",
-    "away": "Rio Ave FC",
+    "home": "SBV Excelsior",
+    "away": "Telstar 1963",
     "fecha": "2026-11-28T15:30:00Z",
     "estado": "timed",
     "odds": {},
@@ -360,8 +360,8 @@
     }
   },
   {
-    "home": "SC Cambuur-Leeuwarden",
-    "away": "Sparta Rotterdam",
+    "home": "Real Madrid CF",
+    "away": "Deportivo Alavés",
     "fecha": "2026-11-28T20:00:00Z",
     "estado": "timed",
     "odds": {},
@@ -370,8 +370,8 @@
     }
   },
   {
-    "home": "Real Madrid CF",
-    "away": "Deportivo Alavés",
+    "home": "SC Cambuur-Leeuwarden",
+    "away": "Sparta Rotterdam",
     "fecha": "2026-11-28T20:00:00Z",
     "estado": "timed",
     "odds": {},
